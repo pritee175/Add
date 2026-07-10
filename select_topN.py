@@ -1,9 +1,8 @@
 """
 select_topN.py
 ----------------
-Generalized version of select_top200.py -- builds a clean, curated
-N-image dataset for any category folder (Promotional, Neutral,
-Preventive) from raw extracted frames.
+Builds a clean, curated N-image dataset for any category folder
+(Promotional, Neutral, Preventive) from raw extracted frames.
 
 Pipeline:
     1. Blur filter -> drop frames below a sharpness threshold.

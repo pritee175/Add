@@ -1,1 +1,6 @@
 Videos/
+ExtractedFrames/
+__pycache__/
+*.pyc
+*.log
+.claude/settings.local.json
