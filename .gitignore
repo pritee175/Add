@@ -1,5 +1,7 @@
 Videos/
 ExtractedFrames/
+Dataset_Split/
+checkpoints/
 __pycache__/
 *.pyc
 *.log

@@ -1,0 +1,1167 @@
+rank,filename,video_id,margin_score,matched_prompt,blur_score,raw_positive_score
+1,PREVENTIVE_qNBCiDWjtEA_F046.jpg,qNBCiDWjtEA,0.0610,"tobacco leaves or raw tobacco, clearly visible",542.6,0.2897
+2,PREVENTIVE_qNBCiDWjtEA_F050.jpg,qNBCiDWjtEA,0.0610,"tobacco leaves or raw tobacco, clearly visible",1775.9,0.2843
+3,PREVENTIVE_qNBCiDWjtEA_F176.jpg,qNBCiDWjtEA,0.0582,"a vape or e-cigarette device, clearly visible",1229.1,0.2776
+4,PREVENTIVE_SC-3td5-pdY_F031.jpg,SC-3td5-pdY,0.0569,a photo of a cigarette pack,1344.6,0.2838
+5,PREVENTIVE_qNBCiDWjtEA_F219.jpg,qNBCiDWjtEA,0.0565,"a person smoking a cigarette, cigarette clearly visible",1257.9,0.2601
+6,PREVENTIVE_qNBCiDWjtEA_F047.jpg,qNBCiDWjtEA,0.0557,a pouch or sachet of gutka or pan masala with visible branding,876.6,0.2992
+7,PREVENTIVE_qNBCiDWjtEA_F049.jpg,qNBCiDWjtEA,0.0545,"tobacco leaves or raw tobacco, clearly visible",1779.0,0.2856
+8,PREVENTIVE_LVKLxfNguLw_F052.jpg,LVKLxfNguLw,0.0534,"a person smoking a cigarette, cigarette clearly visible",475.3,0.2961
+9,PREVENTIVE_LVKLxfNguLw_F059.jpg,LVKLxfNguLw,0.0513,"a person smoking a cigarette, cigarette clearly visible",497.7,0.2846
+10,PREVENTIVE_LVKLxfNguLw_F116.jpg,LVKLxfNguLw,0.0508,"a vape or e-cigarette device, clearly visible",1685.4,0.2466
+11,PREVENTIVE_TX5r8OEXhEk_F031.jpg,TX5r8OEXhEk,0.0495,"a person smoking a cigarette, cigarette clearly visible",1444.2,0.2747
+12,PREVENTIVE_qNBCiDWjtEA_F069.jpg,qNBCiDWjtEA,0.0487,a photo of a cigarette pack,252.9,0.2853
+13,PREVENTIVE_qNBCiDWjtEA_F206.jpg,qNBCiDWjtEA,0.0479,"a vape or e-cigarette device, clearly visible",2267.2,0.2573
+14,PREVENTIVE_qNBCiDWjtEA_F685.jpg,qNBCiDWjtEA,0.0474,"a vape or e-cigarette device, clearly visible",2515.9,0.2677
+15,PREVENTIVE_qNBCiDWjtEA_F191.jpg,qNBCiDWjtEA,0.0470,"a vape or e-cigarette device, clearly visible",1965.5,0.2583
+16,PREVENTIVE_qNBCiDWjtEA_F048.jpg,qNBCiDWjtEA,0.0468,a pouch or sachet of gutka or pan masala with visible branding,1419.9,0.2924
+17,PREVENTIVE_wAH0z3cIAL0_F093.jpg,wAH0z3cIAL0,0.0464,a photo of a cigarette pack,147.6,0.2591
+18,PREVENTIVE_7M7oRkAaujg_F020.jpg,7M7oRkAaujg,0.0442,"a person smoking a cigarette, cigarette clearly visible",177.9,0.2898
+19,PREVENTIVE_qNBCiDWjtEA_F019.jpg,qNBCiDWjtEA,0.0439,"a vape or e-cigarette device, clearly visible",532.9,0.2626
+20,PREVENTIVE_7M7oRkAaujg_F026.jpg,7M7oRkAaujg,0.0419,"a cigar being smoked, clearly visible",218.2,0.2761
+21,PREVENTIVE_qNBCiDWjtEA_F224.jpg,qNBCiDWjtEA,0.0418,"a person smoking a cigarette, cigarette clearly visible",1353.3,0.2575
+22,PREVENTIVE_qNBCiDWjtEA_F184.jpg,qNBCiDWjtEA,0.0415,"a person smoking a cigarette, cigarette clearly visible",2114.1,0.2708
+23,PREVENTIVE_qNBCiDWjtEA_F247.jpg,qNBCiDWjtEA,0.0413,"a vape or e-cigarette device, clearly visible",1594.4,0.2618
+24,PREVENTIVE_ZDTWVDRbgQc_F031.jpg,ZDTWVDRbgQc,0.0405,"workers manufacturing cigarettes or pan masala in a factory, product visible",275.3,0.2627
+25,PREVENTIVE_qNBCiDWjtEA_F194.jpg,qNBCiDWjtEA,0.0403,"a person smoking a cigarette, cigarette clearly visible",1801.2,0.2581
+26,PREVENTIVE_qNBCiDWjtEA_F214.jpg,qNBCiDWjtEA,0.0393,"a person smoking a cigarette, cigarette clearly visible",1072.2,0.2706
+27,PREVENTIVE_qNBCiDWjtEA_F684.jpg,qNBCiDWjtEA,0.0392,"a vape or e-cigarette device, clearly visible",2307.4,0.2634
+28,PREVENTIVE_qNBCiDWjtEA_F187.jpg,qNBCiDWjtEA,0.0390,"a vape or e-cigarette device, clearly visible",1909.5,0.2467
+29,PREVENTIVE_qNBCiDWjtEA_F231.jpg,qNBCiDWjtEA,0.0386,"a vape or e-cigarette device, clearly visible",1507.2,0.2542
+30,PREVENTIVE_uWimehBOIHM_F045.jpg,uWimehBOIHM,0.0385,"workers manufacturing cigarettes or pan masala in a factory, product visible",198.3,0.2608
+31,PREVENTIVE_qNBCiDWjtEA_F183.jpg,qNBCiDWjtEA,0.0383,"a vape or e-cigarette device, clearly visible",1061.7,0.2656
+32,PREVENTIVE_qNBCiDWjtEA_F205.jpg,qNBCiDWjtEA,0.0377,"a vape or e-cigarette device, clearly visible",1091.9,0.2470
+33,PREVENTIVE_qNBCiDWjtEA_F096.jpg,qNBCiDWjtEA,0.0377,a photo of a cigarette pack,1098.3,0.2926
+34,PREVENTIVE_LVKLxfNguLw_F050.jpg,LVKLxfNguLw,0.0374,"a person smoking a cigarette, cigarette clearly visible",469.5,0.2780
+35,PREVENTIVE_qNBCiDWjtEA_F012.jpg,qNBCiDWjtEA,0.0373,a photo of a cigarette pack,1124.3,0.2729
+36,PREVENTIVE_wAH0z3cIAL0_F100.jpg,wAH0z3cIAL0,0.0371,"a person smoking a cigarette, cigarette clearly visible",830.0,0.2734
+37,PREVENTIVE_uWimehBOIHM_F040.jpg,uWimehBOIHM,0.0366,"a person smoking a cigarette, cigarette clearly visible",337.8,0.2750
+38,PREVENTIVE_D4hCpB5nAx0_F028.jpg,D4hCpB5nAx0,0.0366,"a can of beer, clearly visible",105.7,0.2814
+39,PREVENTIVE_qNBCiDWjtEA_F014.jpg,qNBCiDWjtEA,0.0365,a photo of a cigarette pack,903.3,0.2677
+40,PREVENTIVE_qNBCiDWjtEA_F644.jpg,qNBCiDWjtEA,0.0365,a sachet of chewing tobacco with visible branding,857.7,0.2616
+41,PREVENTIVE_TX5r8OEXhEk_F026.jpg,TX5r8OEXhEk,0.0361,"a person smoking a cigarette, cigarette clearly visible",250.4,0.2636
+42,PREVENTIVE_wAH0z3cIAL0_F103.jpg,wAH0z3cIAL0,0.0361,a photo of a cigarette pack,308.9,0.2813
+43,PREVENTIVE_qNBCiDWjtEA_F190.jpg,qNBCiDWjtEA,0.0359,a photo of a cigarette pack,1283.4,0.2418
+44,PREVENTIVE_LVKLxfNguLw_F053.jpg,LVKLxfNguLw,0.0358,"a person smoking a cigarette, cigarette clearly visible",467.0,0.2829
+45,PREVENTIVE_qNBCiDWjtEA_F237.jpg,qNBCiDWjtEA,0.0351,"a vape or e-cigarette device, clearly visible",196.8,0.2799
+46,PREVENTIVE_D4hCpB5nAx0_F010.jpg,D4hCpB5nAx0,0.0346,"a can of beer, clearly visible",100.3,0.2860
+47,PREVENTIVE_qNBCiDWjtEA_F246.jpg,qNBCiDWjtEA,0.0344,"a vape or e-cigarette device, clearly visible",1551.4,0.2427
+48,PREVENTIVE_SC-3td5-pdY_F027.jpg,SC-3td5-pdY,0.0339,"a person smoking a cigarette, cigarette clearly visible",807.2,0.2733
+49,PREVENTIVE_wAH0z3cIAL0_F711.jpg,wAH0z3cIAL0,0.0336,"workers manufacturing cigarettes or pan masala in a factory, product visible",648.4,0.2650
+50,PREVENTIVE_qNBCiDWjtEA_F646.jpg,qNBCiDWjtEA,0.0335,"a vape or e-cigarette device, clearly visible",811.9,0.2514
+51,PREVENTIVE_D4hCpB5nAx0_F016.jpg,D4hCpB5nAx0,0.0333,"a can of beer, clearly visible",113.9,0.2892
+52,PREVENTIVE_LVKLxfNguLw_F062.jpg,LVKLxfNguLw,0.0327,"a person smoking a cigarette, cigarette clearly visible",635.7,0.2804
+53,PREVENTIVE_D4hCpB5nAx0_F005.jpg,D4hCpB5nAx0,0.0324,"a can of beer, clearly visible",102.5,0.2819
+54,PREVENTIVE_D4hCpB5nAx0_F017.jpg,D4hCpB5nAx0,0.0321,"a can of beer, clearly visible",130.1,0.2887
+55,PREVENTIVE_wAH0z3cIAL0_F710.jpg,wAH0z3cIAL0,0.0319,"workers manufacturing cigarettes or pan masala in a factory, product visible",647.7,0.2684
+56,PREVENTIVE_qNBCiDWjtEA_F091.jpg,qNBCiDWjtEA,0.0316,a photo of a cigarette pack,1483.9,0.2837
+57,PREVENTIVE_qNBCiDWjtEA_F648.jpg,qNBCiDWjtEA,0.0315,"a vape or e-cigarette device, clearly visible",701.0,0.2435
+58,PREVENTIVE_SC-3td5-pdY_F028.jpg,SC-3td5-pdY,0.0314,"a person smoking a cigarette, cigarette clearly visible",807.3,0.2695
+59,PREVENTIVE_qNBCiDWjtEA_F233.jpg,qNBCiDWjtEA,0.0313,"a vape or e-cigarette device, clearly visible",1044.9,0.2529
+60,PREVENTIVE_LVKLxfNguLw_F096.jpg,LVKLxfNguLw,0.0304,"a vape or e-cigarette device, clearly visible",940.0,0.2809
+61,PREVENTIVE_LVKLxfNguLw_F032.jpg,LVKLxfNguLw,0.0302,a photo of a cigarette pack,276.6,0.2596
+62,PREVENTIVE_D4hCpB5nAx0_F033.jpg,D4hCpB5nAx0,0.0298,"a can of beer, clearly visible",106.2,0.2791
+63,PREVENTIVE_T7P-MgQLIPw_F030.jpg,T7P-MgQLIPw,0.0296,"a vape or e-cigarette device, clearly visible",872.3,0.2654
+64,PREVENTIVE_qNBCiDWjtEA_F652.jpg,qNBCiDWjtEA,0.0296,a photo of a cigarette pack,1977.9,0.2407
+65,PREVENTIVE_qNBCiDWjtEA_F223.jpg,qNBCiDWjtEA,0.0295,"a vape or e-cigarette device, clearly visible",585.9,0.2621
+66,PREVENTIVE_qNBCiDWjtEA_F092.jpg,qNBCiDWjtEA,0.0295,a photo of a cigarette pack,1736.3,0.2869
+67,PREVENTIVE_qNBCiDWjtEA_F195.jpg,qNBCiDWjtEA,0.0291,"a vape or e-cigarette device, clearly visible",1317.6,0.2513
+68,PREVENTIVE_qNBCiDWjtEA_F180.jpg,qNBCiDWjtEA,0.0290,"a vape or e-cigarette device, clearly visible",1380.7,0.2510
+69,PREVENTIVE_qNBCiDWjtEA_F218.jpg,qNBCiDWjtEA,0.0288,"a vape or e-cigarette device, clearly visible",494.8,0.2597
+70,PREVENTIVE_D4hCpB5nAx0_F031.jpg,D4hCpB5nAx0,0.0288,"a can of beer, clearly visible",126.5,0.2719
+71,PREVENTIVE_wAH0z3cIAL0_F098.jpg,wAH0z3cIAL0,0.0284,a photo of a cigarette pack,572.7,0.2717
+72,PREVENTIVE_D4hCpB5nAx0_F006.jpg,D4hCpB5nAx0,0.0283,"a can of beer, clearly visible",100.2,0.2705
+73,PREVENTIVE_RTc5NgyiGTs_F015.jpg,RTc5NgyiGTs,0.0282,"a can of beer, clearly visible",862.9,0.2418
+74,PREVENTIVE_qNBCiDWjtEA_F028.jpg,qNBCiDWjtEA,0.0274,"a person smoking a cigarette, cigarette clearly visible",3036.4,0.2534
+75,PREVENTIVE_D4hCpB5nAx0_F030.jpg,D4hCpB5nAx0,0.0271,"a can of beer, clearly visible",124.9,0.2787
+76,PREVENTIVE_qNBCiDWjtEA_F642.jpg,qNBCiDWjtEA,0.0271,a sachet of chewing tobacco with visible branding,788.5,0.2559
+77,PREVENTIVE_D4hCpB5nAx0_F027.jpg,D4hCpB5nAx0,0.0269,"a can of beer, clearly visible",126.9,0.2745
+78,PREVENTIVE_D4hCpB5nAx0_F022.jpg,D4hCpB5nAx0,0.0269,"a can of beer, clearly visible",128.6,0.2755
+79,PREVENTIVE_qNBCiDWjtEA_F210.jpg,qNBCiDWjtEA,0.0268,"a person smoking a cigarette, cigarette clearly visible",1150.6,0.2405
+80,PREVENTIVE_uWimehBOIHM_F023.jpg,uWimehBOIHM,0.0268,a hookah pipe,419.2,0.2389
+81,PREVENTIVE_qNBCiDWjtEA_F209.jpg,qNBCiDWjtEA,0.0267,"a vape or e-cigarette device, clearly visible",809.8,0.2414
+82,PREVENTIVE_7M7oRkAaujg_F047.jpg,7M7oRkAaujg,0.0266,"workers manufacturing cigarettes or pan masala in a factory, product visible",148.2,0.2670
+83,PREVENTIVE_wAH0z3cIAL0_F712.jpg,wAH0z3cIAL0,0.0266,"workers manufacturing cigarettes or pan masala in a factory, product visible",1005.6,0.2552
+84,PREVENTIVE_TX5r8OEXhEk_F025.jpg,TX5r8OEXhEk,0.0265,"a person smoking a cigarette, cigarette clearly visible",125.2,0.2532
+85,PREVENTIVE_wAH0z3cIAL0_F095.jpg,wAH0z3cIAL0,0.0261,a photo of a cigarette pack,309.3,0.2878
+86,PREVENTIVE_qNBCiDWjtEA_F249.jpg,qNBCiDWjtEA,0.0261,"a vape or e-cigarette device, clearly visible",1399.9,0.2361
+87,PREVENTIVE_l8K_f4DVvVc_F016.jpg,l8K_f4DVvVc,0.0257,a photo of a cigarette pack,100.9,0.2492
+88,PREVENTIVE_D4hCpB5nAx0_F018.jpg,D4hCpB5nAx0,0.0255,"a can of beer, clearly visible",121.5,0.2740
+89,PREVENTIVE_wAH0z3cIAL0_F717.jpg,wAH0z3cIAL0,0.0255,"workers manufacturing cigarettes or pan masala in a factory, product visible",1530.1,0.2652
+90,PREVENTIVE_RTc5NgyiGTs_F105.jpg,RTc5NgyiGTs,0.0253,"a can of beer, clearly visible",1085.9,0.2666
+91,PREVENTIVE_RTc5NgyiGTs_F016.jpg,RTc5NgyiGTs,0.0252,"a can of beer, clearly visible",890.0,0.2450
+92,PREVENTIVE_D4hCpB5nAx0_F011.jpg,D4hCpB5nAx0,0.0252,"a can of beer, clearly visible",117.2,0.2754
+93,PREVENTIVE_qNBCiDWjtEA_F098.jpg,qNBCiDWjtEA,0.0251,"a person smoking a cigarette, cigarette clearly visible",1008.6,0.2593
+94,PREVENTIVE_7M7oRkAaujg_F050.jpg,7M7oRkAaujg,0.0250,"a cigar being smoked, clearly visible",136.8,0.2615
+95,PREVENTIVE_D4hCpB5nAx0_F007.jpg,D4hCpB5nAx0,0.0250,"a can of beer, clearly visible",122.3,0.2646
+96,PREVENTIVE_qNBCiDWjtEA_F097.jpg,qNBCiDWjtEA,0.0243,"a person smoking a cigarette, cigarette clearly visible",851.2,0.2682
+97,PREVENTIVE_7M7oRkAaujg_F051.jpg,7M7oRkAaujg,0.0242,"a cigar being smoked, clearly visible",134.3,0.2631
+98,PREVENTIVE_7M7oRkAaujg_F022.jpg,7M7oRkAaujg,0.0239,"a cigar being smoked, clearly visible",164.7,0.2562
+99,PREVENTIVE_7M7oRkAaujg_F036.jpg,7M7oRkAaujg,0.0238,"a cigar being smoked, clearly visible",140.3,0.2653
+100,PREVENTIVE_T7P-MgQLIPw_F002.jpg,T7P-MgQLIPw,0.0238,a pouch or sachet of gutka or pan masala with visible branding,143.2,0.2280
+101,PREVENTIVE_qNBCiDWjtEA_F026.jpg,qNBCiDWjtEA,0.0233,"a person smoking a cigarette, cigarette clearly visible",2622.0,0.2495
+102,PREVENTIVE_7M7oRkAaujg_F017.jpg,7M7oRkAaujg,0.0231,"a person smoking a cigarette, cigarette clearly visible",323.0,0.2519
+103,PREVENTIVE_T7P-MgQLIPw_F035.jpg,T7P-MgQLIPw,0.0230,"a vape or e-cigarette device, clearly visible",1005.7,0.2724
+104,PREVENTIVE_qNBCiDWjtEA_F005.jpg,qNBCiDWjtEA,0.0228,"tobacco leaves or raw tobacco, clearly visible",617.9,0.2479
+105,PREVENTIVE_wAH0z3cIAL0_F715.jpg,wAH0z3cIAL0,0.0227,"workers manufacturing cigarettes or pan masala in a factory, product visible",1383.2,0.2514
+106,PREVENTIVE_qNBCiDWjtEA_F021.jpg,qNBCiDWjtEA,0.0225,"a person smoking a cigarette, cigarette clearly visible",2638.0,0.2451
+107,PREVENTIVE_D4hCpB5nAx0_F029.jpg,D4hCpB5nAx0,0.0223,"a can of beer, clearly visible",122.6,0.2729
+108,PREVENTIVE_qNBCiDWjtEA_F024.jpg,qNBCiDWjtEA,0.0223,"tobacco leaves or raw tobacco, clearly visible",2750.2,0.2430
+109,PREVENTIVE_IHR158IF6YU_F018.jpg,IHR158IF6YU,0.0222,"workers manufacturing cigarettes or pan masala in a factory, product visible",117.8,0.2536
+110,PREVENTIVE_qNBCiDWjtEA_F179.jpg,qNBCiDWjtEA,0.0221,"a vape or e-cigarette device, clearly visible",619.1,0.2540
+111,PREVENTIVE_D4hCpB5nAx0_F021.jpg,D4hCpB5nAx0,0.0221,"a can of beer, clearly visible",136.7,0.2715
+112,PREVENTIVE_wAH0z3cIAL0_F590.jpg,wAH0z3cIAL0,0.0219,a pouch or sachet of gutka or pan masala with visible branding,158.5,0.2394
+113,PREVENTIVE_7M7oRkAaujg_F048.jpg,7M7oRkAaujg,0.0218,"a vape or e-cigarette device, clearly visible",132.5,0.2611
+114,PREVENTIVE_D4hCpB5nAx0_F004.jpg,D4hCpB5nAx0,0.0213,"a can of beer, clearly visible",109.8,0.2738
+115,PREVENTIVE_qNBCiDWjtEA_F090.jpg,qNBCiDWjtEA,0.0213,a photo of a cigarette pack,790.9,0.2691
+116,PREVENTIVE_qNBCiDWjtEA_F003.jpg,qNBCiDWjtEA,0.0210,"tobacco leaves or raw tobacco, clearly visible",312.7,0.2445
+117,PREVENTIVE_TX5r8OEXhEk_F027.jpg,TX5r8OEXhEk,0.0208,"a person smoking a cigarette, cigarette clearly visible",355.1,0.2511
+118,PREVENTIVE_qNBCiDWjtEA_F236.jpg,qNBCiDWjtEA,0.0203,"a vape or e-cigarette device, clearly visible",743.0,0.2419
+119,PREVENTIVE_ZDTWVDRbgQc_F002.jpg,ZDTWVDRbgQc,0.0196,"workers manufacturing cigarettes or pan masala in a factory, product visible",142.0,0.2463
+120,PREVENTIVE_qNBCiDWjtEA_F027.jpg,qNBCiDWjtEA,0.0194,"a person smoking a cigarette, cigarette clearly visible",2932.9,0.2437
+121,PREVENTIVE_ZDTWVDRbgQc_F001.jpg,ZDTWVDRbgQc,0.0193,"workers manufacturing cigarettes or pan masala in a factory, product visible",162.1,0.2395
+122,PREVENTIVE_wAH0z3cIAL0_F709.jpg,wAH0z3cIAL0,0.0192,"workers manufacturing cigarettes or pan masala in a factory, product visible",645.6,0.2552
+123,PREVENTIVE_l8K_f4DVvVc_F007.jpg,l8K_f4DVvVc,0.0191,a photo of a cigarette pack,166.7,0.2405
+124,PREVENTIVE_qNBCiDWjtEA_F022.jpg,qNBCiDWjtEA,0.0191,"tobacco leaves or raw tobacco, clearly visible",2561.8,0.2405
+125,PREVENTIVE_qNBCiDWjtEA_F041.jpg,qNBCiDWjtEA,0.0190,"a person smoking a cigarette, cigarette clearly visible",1463.9,0.2520
+126,PREVENTIVE_qNBCiDWjtEA_F245.jpg,qNBCiDWjtEA,0.0184,"a vape or e-cigarette device, clearly visible",1169.6,0.2199
+127,PREVENTIVE_D4hCpB5nAx0_F020.jpg,D4hCpB5nAx0,0.0181,"a can of beer, clearly visible",134.9,0.2648
+128,PREVENTIVE_ZDTWVDRbgQc_F036.jpg,ZDTWVDRbgQc,0.0181,"workers manufacturing cigarettes or pan masala in a factory, product visible",710.6,0.2479
+129,PREVENTIVE_uWimehBOIHM_F013.jpg,uWimehBOIHM,0.0181,"workers manufacturing cigarettes or pan masala in a factory, product visible",289.0,0.2357
+130,PREVENTIVE_V_fSL4xlEdo_F035.jpg,V_fSL4xlEdo,0.0179,"a vape or e-cigarette device, clearly visible",445.9,0.2482
+131,PREVENTIVE_qNBCiDWjtEA_F239.jpg,qNBCiDWjtEA,0.0179,"a vape or e-cigarette device, clearly visible",520.0,0.2422
+132,PREVENTIVE_D4hCpB5nAx0_F009.jpg,D4hCpB5nAx0,0.0179,"a can of beer, clearly visible",128.2,0.2668
+133,PREVENTIVE_l8K_f4DVvVc_F009.jpg,l8K_f4DVvVc,0.0179,a photo of a cigarette pack,244.9,0.2531
+134,PREVENTIVE_RTc5NgyiGTs_F109.jpg,RTc5NgyiGTs,0.0178,"a can of beer, clearly visible",1282.6,0.2502
+135,PREVENTIVE_qNBCiDWjtEA_F036.jpg,qNBCiDWjtEA,0.0177,"a person smoking a cigarette, cigarette clearly visible",837.5,0.2656
+136,PREVENTIVE_qNBCiDWjtEA_F449.jpg,qNBCiDWjtEA,0.0176,a photo of a cigarette pack,2915.4,0.2507
+137,PREVENTIVE_qNBCiDWjtEA_F248.jpg,qNBCiDWjtEA,0.0173,"a vape or e-cigarette device, clearly visible",1739.0,0.2306
+138,PREVENTIVE_RTc5NgyiGTs_F108.jpg,RTc5NgyiGTs,0.0169,"a can of beer, clearly visible",960.2,0.2461
+139,PREVENTIVE_qNBCiDWjtEA_F244.jpg,qNBCiDWjtEA,0.0169,"a vape or e-cigarette device, clearly visible",508.1,0.2319
+140,PREVENTIVE_l8K_f4DVvVc_F035.jpg,l8K_f4DVvVc,0.0168,a photo of a cigarette pack,1614.4,0.2566
+141,PREVENTIVE_7M7oRkAaujg_F049.jpg,7M7oRkAaujg,0.0168,"a person smoking a cigarette, cigarette clearly visible",145.4,0.2676
+142,PREVENTIVE_qNBCiDWjtEA_F675.jpg,qNBCiDWjtEA,0.0165,"a vape or e-cigarette device, clearly visible",1778.1,0.2451
+143,PREVENTIVE_RTc5NgyiGTs_F083.jpg,RTc5NgyiGTs,0.0161,"a person smoking a cigarette, cigarette clearly visible",246.6,0.2572
+144,PREVENTIVE_l8K_f4DVvVc_F013.jpg,l8K_f4DVvVc,0.0160,a photo of a cigarette pack,193.3,0.2394
+145,PREVENTIVE_7M7oRkAaujg_F045.jpg,7M7oRkAaujg,0.0158,"a cigar being smoked, clearly visible",162.0,0.2574
+146,PREVENTIVE_qNBCiDWjtEA_F669.jpg,qNBCiDWjtEA,0.0158,"a vape or e-cigarette device, clearly visible",1613.7,0.2473
+147,PREVENTIVE_IHR158IF6YU_F005.jpg,IHR158IF6YU,0.0158,"workers manufacturing cigarettes or pan masala in a factory, product visible",102.8,0.2594
+148,PREVENTIVE_eH1T8s00F4s_F036.jpg,eH1T8s00F4s,0.0156,a pouch or sachet of gutka or pan masala with visible branding,227.9,0.2368
+149,PREVENTIVE_xM2Qcp4ke9k_F022.jpg,xM2Qcp4ke9k,0.0155,"a person smoking a cigarette, cigarette clearly visible",115.9,0.2468
+150,PREVENTIVE_wAH0z3cIAL0_F270.jpg,wAH0z3cIAL0,0.0155,"a person smoking a cigarette, cigarette clearly visible",207.0,0.2356
+151,PREVENTIVE_qNBCiDWjtEA_F023.jpg,qNBCiDWjtEA,0.0154,"tobacco leaves or raw tobacco, clearly visible",2687.7,0.2406
+152,PREVENTIVE_RTc5NgyiGTs_F171.jpg,RTc5NgyiGTs,0.0154,"a can of beer, clearly visible",2539.4,0.2452
+153,PREVENTIVE_qNBCiDWjtEA_F004.jpg,qNBCiDWjtEA,0.0153,"tobacco leaves or raw tobacco, clearly visible",665.2,0.2414
+154,PREVENTIVE_T7P-MgQLIPw_F034.jpg,T7P-MgQLIPw,0.0153,"a vape or e-cigarette device, clearly visible",967.5,0.2485
+155,PREVENTIVE_LVKLxfNguLw_F095.jpg,LVKLxfNguLw,0.0151,"a person smoking a cigarette, cigarette clearly visible",164.3,0.2609
+156,PREVENTIVE_qNBCiDWjtEA_F250.jpg,qNBCiDWjtEA,0.0148,"a vape or e-cigarette device, clearly visible",1549.1,0.2314
+157,PREVENTIVE_wAH0z3cIAL0_F223.jpg,wAH0z3cIAL0,0.0144,"a cigar being smoked, clearly visible",232.8,0.2382
+158,PREVENTIVE_qNBCiDWjtEA_F452.jpg,qNBCiDWjtEA,0.0143,"a person smoking a cigarette, cigarette clearly visible",3432.6,0.2552
+159,PREVENTIVE_NSbzJ63aYT4_F003.jpg,NSbzJ63aYT4,0.0142,"a cigar being smoked, clearly visible",129.4,0.2551
+160,PREVENTIVE_qNBCiDWjtEA_F006.jpg,qNBCiDWjtEA,0.0142,"workers manufacturing cigarettes or pan masala in a factory, product visible",251.2,0.2503
+161,PREVENTIVE_D4hCpB5nAx0_F041.jpg,D4hCpB5nAx0,0.0140,"a can of beer, clearly visible",120.2,0.2555
+162,PREVENTIVE_D4hCpB5nAx0_F025.jpg,D4hCpB5nAx0,0.0137,"a glass of beer or wine, clearly visible",126.7,0.2556
+163,PREVENTIVE_qNBCiDWjtEA_F025.jpg,qNBCiDWjtEA,0.0137,"a person smoking a cigarette, cigarette clearly visible",2752.6,0.2395
+164,PREVENTIVE_qNBCiDWjtEA_F204.jpg,qNBCiDWjtEA,0.0137,"a vape or e-cigarette device, clearly visible",2169.0,0.2383
+165,PREVENTIVE_qNBCiDWjtEA_F030.jpg,qNBCiDWjtEA,0.0137,"tobacco leaves or raw tobacco, clearly visible",1000.9,0.2610
+166,PREVENTIVE_ZDTWVDRbgQc_F003.jpg,ZDTWVDRbgQc,0.0135,"workers manufacturing cigarettes or pan masala in a factory, product visible",135.7,0.2402
+167,PREVENTIVE_D4hCpB5nAx0_F008.jpg,D4hCpB5nAx0,0.0134,"a can of beer, clearly visible",127.0,0.2603
+168,PREVENTIVE_qNBCiDWjtEA_F200.jpg,qNBCiDWjtEA,0.0131,"a vape or e-cigarette device, clearly visible",1610.1,0.2378
+169,PREVENTIVE_qNBCiDWjtEA_F174.jpg,qNBCiDWjtEA,0.0127,"a vape or e-cigarette device, clearly visible",274.2,0.2575
+170,PREVENTIVE_NSbzJ63aYT4_F002.jpg,NSbzJ63aYT4,0.0127,"a cigar being smoked, clearly visible",168.0,0.2516
+171,PREVENTIVE_wAH0z3cIAL0_F701.jpg,wAH0z3cIAL0,0.0126,"a cigar being smoked, clearly visible",1116.7,0.2222
+172,PREVENTIVE_RTc5NgyiGTs_F111.jpg,RTc5NgyiGTs,0.0125,"a can of beer, clearly visible",1072.8,0.2461
+173,PREVENTIVE_RTc5NgyiGTs_F008.jpg,RTc5NgyiGTs,0.0124,"workers manufacturing cigarettes or pan masala in a factory, product visible",1774.4,0.2515
+174,PREVENTIVE_IHR158IF6YU_F025.jpg,IHR158IF6YU,0.0121,"a cigar being smoked, clearly visible",223.4,0.2460
+175,PREVENTIVE_7M7oRkAaujg_F008.jpg,7M7oRkAaujg,0.0121,"a cigar being smoked, clearly visible",133.4,0.2509
+176,PREVENTIVE_qNBCiDWjtEA_F766.jpg,qNBCiDWjtEA,0.0120,"a vape or e-cigarette device, clearly visible",1482.5,0.2179
+177,PREVENTIVE_qNBCiDWjtEA_F020.jpg,qNBCiDWjtEA,0.0118,"a vape or e-cigarette device, clearly visible",1859.4,0.2591
+178,PREVENTIVE_wAH0z3cIAL0_F268.jpg,wAH0z3cIAL0,0.0117,"a person smoking a cigarette, cigarette clearly visible",181.1,0.2349
+179,PREVENTIVE_qNBCiDWjtEA_F450.jpg,qNBCiDWjtEA,0.0114,"a person smoking a cigarette, cigarette clearly visible",3859.3,0.2577
+180,PREVENTIVE_qNBCiDWjtEA_F681.jpg,qNBCiDWjtEA,0.0112,a photo of a cigarette pack,1343.9,0.2391
+181,PREVENTIVE_IHR158IF6YU_F057.jpg,IHR158IF6YU,0.0111,a pouch or sachet of gutka or pan masala with visible branding,1671.4,0.2143
+182,PREVENTIVE_V_fSL4xlEdo_F031.jpg,V_fSL4xlEdo,0.0108,"a vape or e-cigarette device, clearly visible",722.6,0.2611
+183,PREVENTIVE_wAH0z3cIAL0_F107.jpg,wAH0z3cIAL0,0.0106,"a person smoking a cigarette, cigarette clearly visible",544.5,0.2562
+184,PREVENTIVE_RTc5NgyiGTs_F130.jpg,RTc5NgyiGTs,0.0105,"workers manufacturing cigarettes or pan masala in a factory, product visible",6715.9,0.2406
+185,PREVENTIVE_ZDTWVDRbgQc_F034.jpg,ZDTWVDRbgQc,0.0104,"workers manufacturing cigarettes or pan masala in a factory, product visible",712.8,0.2412
+186,PREVENTIVE_V_fSL4xlEdo_F039.jpg,V_fSL4xlEdo,0.0102,"a vape or e-cigarette device, clearly visible",809.8,0.2443
+187,PREVENTIVE_V_fSL4xlEdo_F030.jpg,V_fSL4xlEdo,0.0102,"a person smoking a cigarette, cigarette clearly visible",630.1,0.2589
+188,PREVENTIVE_wAH0z3cIAL0_F702.jpg,wAH0z3cIAL0,0.0102,"workers manufacturing cigarettes or pan masala in a factory, product visible",1058.5,0.2354
+189,PREVENTIVE_D4hCpB5nAx0_F074.jpg,D4hCpB5nAx0,0.0102,"a cigar being smoked, clearly visible",107.9,0.2540
+190,PREVENTIVE_T7P-MgQLIPw_F020.jpg,T7P-MgQLIPw,0.0102,"a vape or e-cigarette device, clearly visible",176.9,0.2417
+191,PREVENTIVE_LVKLxfNguLw_F024.jpg,LVKLxfNguLw,0.0100,a photo of a cigarette pack,499.7,0.2898
+192,PREVENTIVE_qNBCiDWjtEA_F451.jpg,qNBCiDWjtEA,0.0100,"a person smoking a cigarette, cigarette clearly visible",3682.0,0.2453
+193,PREVENTIVE_wAH0z3cIAL0_F264.jpg,wAH0z3cIAL0,0.0097,"a person smoking a cigarette, cigarette clearly visible",203.5,0.2226
+194,PREVENTIVE_qNBCiDWjtEA_F469.jpg,qNBCiDWjtEA,0.0094,"a vape or e-cigarette device, clearly visible",2212.7,0.2518
+195,PREVENTIVE_T7P-MgQLIPw_F023.jpg,T7P-MgQLIPw,0.0094,"a vape or e-cigarette device, clearly visible",661.0,0.2405
+196,PREVENTIVE_7M7oRkAaujg_F005.jpg,7M7oRkAaujg,0.0093,"a cigar being smoked, clearly visible",531.5,0.2237
+197,PREVENTIVE_wAH0z3cIAL0_F852.jpg,wAH0z3cIAL0,0.0093,"workers manufacturing cigarettes or pan masala in a factory, product visible",376.9,0.2422
+198,PREVENTIVE_qNBCiDWjtEA_F784.jpg,qNBCiDWjtEA,0.0091,a pouch or sachet of gutka or pan masala with visible branding,1727.1,0.2145
+199,PREVENTIVE_V_fSL4xlEdo_F037.jpg,V_fSL4xlEdo,0.0091,"a vape or e-cigarette device, clearly visible",831.1,0.2519
+200,PREVENTIVE_7M7oRkAaujg_F039.jpg,7M7oRkAaujg,0.0090,"a cigar being smoked, clearly visible",174.7,0.2543
+201,PREVENTIVE_SC-3td5-pdY_F030.jpg,SC-3td5-pdY,0.0090,"workers manufacturing cigarettes or pan masala in a factory, product visible",269.3,0.2318
+202,PREVENTIVE_RTc5NgyiGTs_F043.jpg,RTc5NgyiGTs,0.0088,"a can of beer, clearly visible",1829.5,0.2410
+203,PREVENTIVE_T7P-MgQLIPw_F007.jpg,T7P-MgQLIPw,0.0087,a pouch or sachet of gutka or pan masala with visible branding,261.2,0.2224
+204,PREVENTIVE_LVKLxfNguLw_F094.jpg,LVKLxfNguLw,0.0084,"a person smoking a cigarette, cigarette clearly visible",178.6,0.2669
+205,PREVENTIVE_IHR158IF6YU_F059.jpg,IHR158IF6YU,0.0084,a pouch or sachet of gutka or pan masala with visible branding,1875.3,0.2126
+206,PREVENTIVE_wAH0z3cIAL0_F269.jpg,wAH0z3cIAL0,0.0083,"a person smoking a cigarette, cigarette clearly visible",192.1,0.2328
+207,PREVENTIVE_D4hCpB5nAx0_F002.jpg,D4hCpB5nAx0,0.0083,"a can of beer, clearly visible",107.0,0.2615
+208,PREVENTIVE_qNBCiDWjtEA_F059.jpg,qNBCiDWjtEA,0.0081,"a vape or e-cigarette device, clearly visible",788.4,0.2525
+209,PREVENTIVE_qNBCiDWjtEA_F649.jpg,qNBCiDWjtEA,0.0078,a photo of a cigarette pack,1581.3,0.2231
+210,PREVENTIVE_qNBCiDWjtEA_F777.jpg,qNBCiDWjtEA,0.0077,a pouch or sachet of gutka or pan masala with visible branding,1422.1,0.2155
+211,PREVENTIVE_LVKLxfNguLw_F014.jpg,LVKLxfNguLw,0.0077,a photo of a cigarette pack,140.0,0.2693
+212,PREVENTIVE_qNBCiDWjtEA_F470.jpg,qNBCiDWjtEA,0.0076,"a vape or e-cigarette device, clearly visible",2289.1,0.2526
+213,PREVENTIVE_IHR158IF6YU_F058.jpg,IHR158IF6YU,0.0076,a pouch or sachet of gutka or pan masala with visible branding,1917.1,0.2098
+214,PREVENTIVE_V_fSL4xlEdo_F049.jpg,V_fSL4xlEdo,0.0076,"a person smoking a cigarette, cigarette clearly visible",218.6,0.2330
+215,PREVENTIVE_7M7oRkAaujg_F021.jpg,7M7oRkAaujg,0.0075,"a person smoking a cigarette, cigarette clearly visible",156.0,0.2317
+216,PREVENTIVE_wAH0z3cIAL0_F026.jpg,wAH0z3cIAL0,0.0074,"a person smoking a cigarette, cigarette clearly visible",831.5,0.2373
+217,PREVENTIVE_RTc5NgyiGTs_F126.jpg,RTc5NgyiGTs,0.0074,a pouch or sachet of gutka or pan masala with visible branding,495.4,0.2536
+218,PREVENTIVE_V_fSL4xlEdo_F008.jpg,V_fSL4xlEdo,0.0073,"a person smoking a cigarette, cigarette clearly visible",556.1,0.2505
+219,PREVENTIVE_IHR158IF6YU_F060.jpg,IHR158IF6YU,0.0073,a pouch or sachet of gutka or pan masala with visible branding,1968.0,0.2118
+220,PREVENTIVE_RTc5NgyiGTs_F042.jpg,RTc5NgyiGTs,0.0071,"a can of beer, clearly visible",1441.7,0.2420
+221,PREVENTIVE_RTc5NgyiGTs_F074.jpg,RTc5NgyiGTs,0.0071,"workers manufacturing cigarettes or pan masala in a factory, product visible",523.3,0.2369
+222,PREVENTIVE_qNBCiDWjtEA_F015.jpg,qNBCiDWjtEA,0.0071,a photo of a cigarette pack,288.3,0.2882
+223,PREVENTIVE_qNBCiDWjtEA_F175.jpg,qNBCiDWjtEA,0.0071,"a vape or e-cigarette device, clearly visible",272.5,0.2582
+224,PREVENTIVE_uWimehBOIHM_F027.jpg,uWimehBOIHM,0.0070,"a person smoking a cigarette, cigarette clearly visible",349.5,0.2309
+225,PREVENTIVE_l8K_f4DVvVc_F018.jpg,l8K_f4DVvVc,0.0070,"a cigar being smoked, clearly visible",275.8,0.2419
+226,PREVENTIVE_TX5r8OEXhEk_F010.jpg,TX5r8OEXhEk,0.0068,"a cigar being smoked, clearly visible",210.6,0.2249
+227,PREVENTIVE_RTc5NgyiGTs_F117.jpg,RTc5NgyiGTs,0.0068,"a can of beer, clearly visible",1396.4,0.2529
+228,PREVENTIVE_7M7oRkAaujg_F010.jpg,7M7oRkAaujg,0.0067,"a cigar being smoked, clearly visible",369.0,0.2411
+229,PREVENTIVE_RTc5NgyiGTs_F136.jpg,RTc5NgyiGTs,0.0066,"workers manufacturing cigarettes or pan masala in a factory, product visible",1790.6,0.2424
+230,PREVENTIVE_LVKLxfNguLw_F092.jpg,LVKLxfNguLw,0.0065,"a person smoking a cigarette, cigarette clearly visible",219.1,0.2569
+231,PREVENTIVE_RTc5NgyiGTs_F116.jpg,RTc5NgyiGTs,0.0062,"a can of beer, clearly visible",2431.4,0.2371
+232,PREVENTIVE_TX5r8OEXhEk_F003.jpg,TX5r8OEXhEk,0.0062,a hookah pipe,125.0,0.2377
+233,PREVENTIVE_NSbzJ63aYT4_F004.jpg,NSbzJ63aYT4,0.0062,"a person smoking a cigarette, cigarette clearly visible",171.5,0.2312
+234,PREVENTIVE_IHR158IF6YU_F006.jpg,IHR158IF6YU,0.0062,"workers manufacturing cigarettes or pan masala in a factory, product visible",371.5,0.2244
+235,PREVENTIVE_T7P-MgQLIPw_F026.jpg,T7P-MgQLIPw,0.0061,"a person smoking a cigarette, cigarette clearly visible",423.0,0.2344
+236,PREVENTIVE_xM2Qcp4ke9k_F007.jpg,xM2Qcp4ke9k,0.0057,"a person smoking a cigarette, cigarette clearly visible",445.1,0.2433
+237,PREVENTIVE_wAH0z3cIAL0_F220.jpg,wAH0z3cIAL0,0.0057,"a cigar being smoked, clearly visible",202.8,0.2315
+238,PREVENTIVE_wAH0z3cIAL0_F272.jpg,wAH0z3cIAL0,0.0056,"a person smoking a cigarette, cigarette clearly visible",283.5,0.2244
+239,PREVENTIVE_D4hCpB5nAx0_F001.jpg,D4hCpB5nAx0,0.0056,"a can of beer, clearly visible",140.4,0.2573
+240,PREVENTIVE_IHR158IF6YU_F055.jpg,IHR158IF6YU,0.0055,a pouch or sachet of gutka or pan masala with visible branding,1779.2,0.2157
+241,PREVENTIVE_TX5r8OEXhEk_F011.jpg,TX5r8OEXhEk,0.0053,"a cigar being smoked, clearly visible",573.3,0.2373
+242,PREVENTIVE_8WQQLDuEJMc_F015.jpg,8WQQLDuEJMc,0.0053,"a cigar being smoked, clearly visible",242.5,0.2425
+243,PREVENTIVE_V_fSL4xlEdo_F019.jpg,V_fSL4xlEdo,0.0052,"a vape or e-cigarette device, clearly visible",519.9,0.2443
+244,PREVENTIVE_qNBCiDWjtEA_F455.jpg,qNBCiDWjtEA,0.0052,"a person smoking a cigarette, cigarette clearly visible",3237.7,0.2502
+245,PREVENTIVE_V_fSL4xlEdo_F044.jpg,V_fSL4xlEdo,0.0050,a hookah pipe,551.6,0.2327
+246,PREVENTIVE_wAH0z3cIAL0_F714.jpg,wAH0z3cIAL0,0.0050,"workers manufacturing cigarettes or pan masala in a factory, product visible",1425.5,0.2345
+247,PREVENTIVE_qNBCiDWjtEA_F120.jpg,qNBCiDWjtEA,0.0049,"a person smoking a cigarette, cigarette clearly visible",975.0,0.2382
+248,PREVENTIVE_RTc5NgyiGTs_F160.jpg,RTc5NgyiGTs,0.0049,"a glass of beer or wine, clearly visible",3586.5,0.2351
+249,PREVENTIVE_RTc5NgyiGTs_F121.jpg,RTc5NgyiGTs,0.0049,"a can of beer, clearly visible",2607.3,0.2335
+250,PREVENTIVE_wAH0z3cIAL0_F938.jpg,wAH0z3cIAL0,0.0048,"a person smoking a cigarette, cigarette clearly visible",1089.8,0.2346
+251,PREVENTIVE_NSbzJ63aYT4_F001.jpg,NSbzJ63aYT4,0.0048,"a cigar being smoked, clearly visible",253.6,0.2489
+252,PREVENTIVE_LVKLxfNguLw_F071.jpg,LVKLxfNguLw,0.0048,"a person smoking a cigarette, cigarette clearly visible",156.0,0.2491
+253,PREVENTIVE_IHR158IF6YU_F016.jpg,IHR158IF6YU,0.0046,"a person smoking a cigarette, cigarette clearly visible",180.3,0.2289
+254,PREVENTIVE_l8K_f4DVvVc_F012.jpg,l8K_f4DVvVc,0.0046,a photo of a cigarette pack,200.4,0.2355
+255,PREVENTIVE_wAH0z3cIAL0_F924.jpg,wAH0z3cIAL0,0.0046,"a person smoking a cigarette, cigarette clearly visible",1437.3,0.2309
+256,PREVENTIVE_wAH0z3cIAL0_F262.jpg,wAH0z3cIAL0,0.0044,"a person smoking a cigarette, cigarette clearly visible",242.8,0.2431
+257,PREVENTIVE_l8K_f4DVvVc_F032.jpg,l8K_f4DVvVc,0.0042,"a vape or e-cigarette device, clearly visible",117.1,0.2588
+258,PREVENTIVE_RTc5NgyiGTs_F131.jpg,RTc5NgyiGTs,0.0040,"workers manufacturing cigarettes or pan masala in a factory, product visible",1652.0,0.2515
+259,PREVENTIVE_wAH0z3cIAL0_F263.jpg,wAH0z3cIAL0,0.0040,"a person smoking a cigarette, cigarette clearly visible",220.9,0.2369
+260,PREVENTIVE_V_fSL4xlEdo_F007.jpg,V_fSL4xlEdo,0.0040,a pouch or sachet of gutka or pan masala with visible branding,556.8,0.2470
+261,PREVENTIVE_qNBCiDWjtEA_F453.jpg,qNBCiDWjtEA,0.0040,"a person smoking a cigarette, cigarette clearly visible",2984.3,0.2463
+262,PREVENTIVE_wAH0z3cIAL0_F266.jpg,wAH0z3cIAL0,0.0038,"a person smoking a cigarette, cigarette clearly visible",191.3,0.2433
+263,PREVENTIVE_7M7oRkAaujg_F044.jpg,7M7oRkAaujg,0.0037,"a person smoking a cigarette, cigarette clearly visible",157.2,0.2465
+264,PREVENTIVE_qNBCiDWjtEA_F118.jpg,qNBCiDWjtEA,0.0035,"a person smoking a cigarette, cigarette clearly visible",869.3,0.2296
+265,PREVENTIVE_wAH0z3cIAL0_F937.jpg,wAH0z3cIAL0,0.0034,"a person smoking a cigarette, cigarette clearly visible",1091.1,0.2366
+266,PREVENTIVE_T7P-MgQLIPw_F036.jpg,T7P-MgQLIPw,0.0032,"a vape or e-cigarette device, clearly visible",998.1,0.2540
+267,PREVENTIVE_qNBCiDWjtEA_F114.jpg,qNBCiDWjtEA,0.0031,"a person smoking a cigarette, cigarette clearly visible",403.5,0.2309
+268,PREVENTIVE_l8K_f4DVvVc_F031.jpg,l8K_f4DVvVc,0.0031,"a vape or e-cigarette device, clearly visible",128.9,0.2704
+269,PREVENTIVE_qNBCiDWjtEA_F243.jpg,qNBCiDWjtEA,0.0030,"a vape or e-cigarette device, clearly visible",377.3,0.2530
+270,PREVENTIVE_T7P-MgQLIPw_F003.jpg,T7P-MgQLIPw,0.0030,"workers manufacturing cigarettes or pan masala in a factory, product visible",198.8,0.2276
+271,PREVENTIVE_D4hCpB5nAx0_F073.jpg,D4hCpB5nAx0,0.0029,"a cigar being smoked, clearly visible",106.0,0.2460
+272,PREVENTIVE_LVKLxfNguLw_F088.jpg,LVKLxfNguLw,0.0029,"a person smoking a cigarette, cigarette clearly visible",498.2,0.2473
+273,PREVENTIVE_LVKLxfNguLw_F090.jpg,LVKLxfNguLw,0.0028,"a person smoking a cigarette, cigarette clearly visible",197.1,0.2577
+274,PREVENTIVE_wAH0z3cIAL0_F708.jpg,wAH0z3cIAL0,0.0028,"workers manufacturing cigarettes or pan masala in a factory, product visible",529.2,0.2272
+275,PREVENTIVE_LVKLxfNguLw_F093.jpg,LVKLxfNguLw,0.0028,"a person smoking a cigarette, cigarette clearly visible",171.2,0.2581
+276,PREVENTIVE_V_fSL4xlEdo_F010.jpg,V_fSL4xlEdo,0.0025,"a vape or e-cigarette device, clearly visible",421.9,0.2260
+277,PREVENTIVE_TX5r8OEXhEk_F007.jpg,TX5r8OEXhEk,0.0023,a hookah pipe,164.0,0.2050
+278,PREVENTIVE_V_fSL4xlEdo_F021.jpg,V_fSL4xlEdo,0.0020,"a vape or e-cigarette device, clearly visible",242.5,0.2175
+279,PREVENTIVE_ZDTWVDRbgQc_F033.jpg,ZDTWVDRbgQc,0.0020,"a person smoking a cigarette, cigarette clearly visible",210.7,0.2310
+280,PREVENTIVE_SC-3td5-pdY_F029.jpg,SC-3td5-pdY,0.0020,"workers manufacturing cigarettes or pan masala in a factory, product visible",270.3,0.2195
+281,PREVENTIVE_wAH0z3cIAL0_F109.jpg,wAH0z3cIAL0,0.0019,"a person smoking a cigarette, cigarette clearly visible",713.4,0.2416
+282,PREVENTIVE_l8K_f4DVvVc_F034.jpg,l8K_f4DVvVc,0.0019,"a vape or e-cigarette device, clearly visible",115.9,0.2594
+283,PREVENTIVE_IHR158IF6YU_F028.jpg,IHR158IF6YU,0.0019,"a person smoking a cigarette, cigarette clearly visible",189.8,0.2442
+284,PREVENTIVE_wAH0z3cIAL0_F116.jpg,wAH0z3cIAL0,0.0018,"a cigar being smoked, clearly visible",246.4,0.2313
+285,PREVENTIVE_7M7oRkAaujg_F052.jpg,7M7oRkAaujg,0.0018,"a cigar being smoked, clearly visible",228.7,0.2399
+286,PREVENTIVE_qNBCiDWjtEA_F016.jpg,qNBCiDWjtEA,0.0018,"a person smoking a cigarette, cigarette clearly visible",476.4,0.2161
+287,PREVENTIVE_qNBCiDWjtEA_F653.jpg,qNBCiDWjtEA,0.0017,a sachet of chewing tobacco with visible branding,2037.6,0.2065
+288,PREVENTIVE_qNBCiDWjtEA_F464.jpg,qNBCiDWjtEA,0.0017,"a vape or e-cigarette device, clearly visible",2550.3,0.2515
+289,PREVENTIVE_wAH0z3cIAL0_F926.jpg,wAH0z3cIAL0,0.0017,"a person smoking a cigarette, cigarette clearly visible",2044.6,0.2257
+290,PREVENTIVE_qNBCiDWjtEA_F665.jpg,qNBCiDWjtEA,0.0016,a sachet of chewing tobacco with visible branding,2567.0,0.2031
+291,PREVENTIVE_RTc5NgyiGTs_F070.jpg,RTc5NgyiGTs,0.0014,"a person smoking a cigarette, cigarette clearly visible",452.6,0.2537
+292,PREVENTIVE_wAH0z3cIAL0_F936.jpg,wAH0z3cIAL0,0.0014,"a person smoking a cigarette, cigarette clearly visible",1059.8,0.2448
+293,PREVENTIVE_IHR158IF6YU_F007.jpg,IHR158IF6YU,0.0014,"a person smoking a cigarette, cigarette clearly visible",224.3,0.2280
+294,PREVENTIVE_wAH0z3cIAL0_F968.jpg,wAH0z3cIAL0,0.0014,"a person smoking a cigarette, cigarette clearly visible",2596.7,0.2268
+295,PREVENTIVE_T7P-MgQLIPw_F022.jpg,T7P-MgQLIPw,0.0014,"a vape or e-cigarette device, clearly visible",652.1,0.2432
+296,PREVENTIVE_LVKLxfNguLw_F079.jpg,LVKLxfNguLw,0.0014,"a person smoking a cigarette, cigarette clearly visible",219.8,0.2349
+297,PREVENTIVE_wAH0z3cIAL0_F013.jpg,wAH0z3cIAL0,0.0013,"a cigar being smoked, clearly visible",453.4,0.2536
+298,PREVENTIVE_T7P-MgQLIPw_F037.jpg,T7P-MgQLIPw,0.0013,"workers manufacturing cigarettes or pan masala in a factory, product visible",1117.5,0.2322
+299,PREVENTIVE_7M7oRkAaujg_F001.jpg,7M7oRkAaujg,0.0013,"a cigar being smoked, clearly visible",429.7,0.2327
+300,PREVENTIVE_qNBCiDWjtEA_F698.jpg,qNBCiDWjtEA,0.0013,"a person smoking a cigarette, cigarette clearly visible",422.5,0.2381
+301,PREVENTIVE_xM2Qcp4ke9k_F004.jpg,xM2Qcp4ke9k,0.0013,"a person smoking a cigarette, cigarette clearly visible",178.0,0.2429
+302,PREVENTIVE_IHR158IF6YU_F053.jpg,IHR158IF6YU,0.0011,a pouch or sachet of gutka or pan masala with visible branding,1324.5,0.2119
+303,PREVENTIVE_uWimehBOIHM_F033.jpg,uWimehBOIHM,0.0011,"a cigar being smoked, clearly visible",128.0,0.2621
+304,PREVENTIVE_wAH0z3cIAL0_F581.jpg,wAH0z3cIAL0,0.0011,"a person smoking a cigarette, cigarette clearly visible",1122.3,0.2398
+305,PREVENTIVE_qNBCiDWjtEA_F061.jpg,qNBCiDWjtEA,0.0010,"a vape or e-cigarette device, clearly visible",1236.4,0.2320
+306,PREVENTIVE_RTc5NgyiGTs_F078.jpg,RTc5NgyiGTs,0.0008,"workers manufacturing cigarettes or pan masala in a factory, product visible",526.5,0.2654
+307,PREVENTIVE_wAH0z3cIAL0_F602.jpg,wAH0z3cIAL0,0.0008,"a person smoking a cigarette, cigarette clearly visible",158.4,0.2590
+308,PREVENTIVE_ZDTWVDRbgQc_F013.jpg,ZDTWVDRbgQc,0.0008,"workers manufacturing cigarettes or pan masala in a factory, product visible",162.7,0.2235
+309,PREVENTIVE_qNBCiDWjtEA_F058.jpg,qNBCiDWjtEA,0.0008,"a vape or e-cigarette device, clearly visible",713.1,0.2572
+310,PREVENTIVE_7M7oRkAaujg_F038.jpg,7M7oRkAaujg,0.0007,"a cigar being smoked, clearly visible",142.1,0.2517
+311,PREVENTIVE_IHR158IF6YU_F023.jpg,IHR158IF6YU,0.0006,"a cigar being smoked, clearly visible",241.0,0.2336
+312,PREVENTIVE_LVKLxfNguLw_F070.jpg,LVKLxfNguLw,0.0006,"a person smoking a cigarette, cigarette clearly visible",222.8,0.2409
+313,PREVENTIVE_wAH0z3cIAL0_F927.jpg,wAH0z3cIAL0,0.0006,"a cigar being smoked, clearly visible",1813.2,0.2225
+314,PREVENTIVE_l8K_f4DVvVc_F019.jpg,l8K_f4DVvVc,0.0006,"a vape or e-cigarette device, clearly visible",227.9,0.2344
+315,PREVENTIVE_RTc5NgyiGTs_F012.jpg,RTc5NgyiGTs,0.0005,"workers manufacturing cigarettes or pan masala in a factory, product visible",1732.9,0.2284
+316,PREVENTIVE_V_fSL4xlEdo_F043.jpg,V_fSL4xlEdo,0.0005,"a vape or e-cigarette device, clearly visible",469.8,0.2377
+317,PREVENTIVE_NSbzJ63aYT4_F012.jpg,NSbzJ63aYT4,0.0005,"a vape or e-cigarette device, clearly visible",227.5,0.2245
+318,PREVENTIVE_wAH0z3cIAL0_F851.jpg,wAH0z3cIAL0,0.0003,a pouch or sachet of gutka or pan masala with visible branding,937.4,0.2339
+319,PREVENTIVE_ZDTWVDRbgQc_F052.jpg,ZDTWVDRbgQc,0.0003,"workers manufacturing cigarettes or pan masala in a factory, product visible",399.9,0.2217
+320,PREVENTIVE_7M7oRkAaujg_F029.jpg,7M7oRkAaujg,0.0002,"a cigar being smoked, clearly visible",626.9,0.2467
+321,PREVENTIVE_T7P-MgQLIPw_F033.jpg,T7P-MgQLIPw,0.0002,"a vape or e-cigarette device, clearly visible",725.9,0.2376
+322,PREVENTIVE_qNBCiDWjtEA_F031.jpg,qNBCiDWjtEA,0.0000,"a vape or e-cigarette device, clearly visible",1264.4,0.2446
+323,PREVENTIVE_wAH0z3cIAL0_F675.jpg,wAH0z3cIAL0,-0.0000,"workers manufacturing cigarettes or pan masala in a factory, product visible",330.2,0.2471
+324,PREVENTIVE_T7P-MgQLIPw_F021.jpg,T7P-MgQLIPw,-0.0000,"a vape or e-cigarette device, clearly visible",593.6,0.2255
+325,PREVENTIVE_V_fSL4xlEdo_F018.jpg,V_fSL4xlEdo,-0.0001,"a vape or e-cigarette device, clearly visible",254.7,0.2113
+326,PREVENTIVE_V_fSL4xlEdo_F001.jpg,V_fSL4xlEdo,-0.0002,"a person smoking a cigarette, cigarette clearly visible",198.6,0.2431
+327,PREVENTIVE_qNBCiDWjtEA_F456.jpg,qNBCiDWjtEA,-0.0003,"a person smoking a cigarette, cigarette clearly visible",3279.8,0.2466
+328,PREVENTIVE_RTc5NgyiGTs_F025.jpg,RTc5NgyiGTs,-0.0003,"a can of beer, clearly visible",121.8,0.2158
+329,PREVENTIVE_RTc5NgyiGTs_F064.jpg,RTc5NgyiGTs,-0.0004,"workers manufacturing cigarettes or pan masala in a factory, product visible",464.5,0.2415
+330,PREVENTIVE_xM2Qcp4ke9k_F005.jpg,xM2Qcp4ke9k,-0.0004,"a person smoking a cigarette, cigarette clearly visible",244.8,0.2438
+331,PREVENTIVE_wAH0z3cIAL0_F633.jpg,wAH0z3cIAL0,-0.0006,"a person smoking a cigarette, cigarette clearly visible",806.4,0.2477
+332,PREVENTIVE_TX5r8OEXhEk_F013.jpg,TX5r8OEXhEk,-0.0006,"a cigar being smoked, clearly visible",391.1,0.2109
+333,PREVENTIVE_IHR158IF6YU_F027.jpg,IHR158IF6YU,-0.0008,"a person smoking a cigarette, cigarette clearly visible",185.9,0.2400
+334,PREVENTIVE_LVKLxfNguLw_F085.jpg,LVKLxfNguLw,-0.0008,"a person smoking a cigarette, cigarette clearly visible",102.9,0.2535
+335,PREVENTIVE_7M7oRkAaujg_F023.jpg,7M7oRkAaujg,-0.0010,"a cigar being smoked, clearly visible",497.0,0.2291
+336,PREVENTIVE_RTc5NgyiGTs_F076.jpg,RTc5NgyiGTs,-0.0012,"workers manufacturing cigarettes or pan masala in a factory, product visible",269.7,0.2421
+337,PREVENTIVE_wAH0z3cIAL0_F578.jpg,wAH0z3cIAL0,-0.0012,"a person smoking a cigarette, cigarette clearly visible",1104.2,0.2358
+338,PREVENTIVE_qNBCiDWjtEA_F463.jpg,qNBCiDWjtEA,-0.0012,"a vape or e-cigarette device, clearly visible",2935.2,0.2440
+339,PREVENTIVE_V_fSL4xlEdo_F014.jpg,V_fSL4xlEdo,-0.0014,"a person smoking a cigarette, cigarette clearly visible",198.0,0.2324
+340,PREVENTIVE_qNBCiDWjtEA_F468.jpg,qNBCiDWjtEA,-0.0014,"a vape or e-cigarette device, clearly visible",2238.9,0.2570
+341,PREVENTIVE_qNBCiDWjtEA_F117.jpg,qNBCiDWjtEA,-0.0014,"a person smoking a cigarette, cigarette clearly visible",835.1,0.2271
+342,PREVENTIVE_qNBCiDWjtEA_F748.jpg,qNBCiDWjtEA,-0.0015,"a vape or e-cigarette device, clearly visible",1342.9,0.1991
+343,PREVENTIVE_RTc5NgyiGTs_F122.jpg,RTc5NgyiGTs,-0.0015,"a can of beer, clearly visible",1354.3,0.2351
+344,PREVENTIVE_wAH0z3cIAL0_F111.jpg,wAH0z3cIAL0,-0.0015,"a person smoking a cigarette, cigarette clearly visible",692.2,0.2393
+345,PREVENTIVE_l8K_f4DVvVc_F026.jpg,l8K_f4DVvVc,-0.0016,"workers manufacturing cigarettes or pan masala in a factory, product visible",110.3,0.2263
+346,PREVENTIVE_wAH0z3cIAL0_F265.jpg,wAH0z3cIAL0,-0.0017,"a person smoking a cigarette, cigarette clearly visible",189.6,0.2266
+347,PREVENTIVE_wAH0z3cIAL0_F015.jpg,wAH0z3cIAL0,-0.0018,"workers manufacturing cigarettes or pan masala in a factory, product visible",533.5,0.2378
+348,PREVENTIVE_RTc5NgyiGTs_F104.jpg,RTc5NgyiGTs,-0.0018,"a can of beer, clearly visible",1141.7,0.2521
+349,PREVENTIVE_wAH0z3cIAL0_F114.jpg,wAH0z3cIAL0,-0.0018,"a person smoking a cigarette, cigarette clearly visible",521.7,0.2269
+350,PREVENTIVE_uWimehBOIHM_F016.jpg,uWimehBOIHM,-0.0018,"a vape or e-cigarette device, clearly visible",268.3,0.2253
+351,PREVENTIVE_7M7oRkAaujg_F025.jpg,7M7oRkAaujg,-0.0018,"a cigar being smoked, clearly visible",314.9,0.2348
+352,PREVENTIVE_8WQQLDuEJMc_F027.jpg,8WQQLDuEJMc,-0.0019,"a vape or e-cigarette device, clearly visible",103.5,0.2066
+353,PREVENTIVE_qNBCiDWjtEA_F103.jpg,qNBCiDWjtEA,-0.0020,"a person smoking a cigarette, cigarette clearly visible",443.6,0.2253
+354,PREVENTIVE_SC-3td5-pdY_F001.jpg,SC-3td5-pdY,-0.0020,"a vape or e-cigarette device, clearly visible",1292.3,0.2669
+355,PREVENTIVE_wAH0z3cIAL0_F674.jpg,wAH0z3cIAL0,-0.0021,"workers manufacturing cigarettes or pan masala in a factory, product visible",357.5,0.2433
+356,PREVENTIVE_7M7oRkAaujg_F030.jpg,7M7oRkAaujg,-0.0021,"a person smoking a cigarette, cigarette clearly visible",202.1,0.2231
+357,PREVENTIVE_ZDTWVDRbgQc_F053.jpg,ZDTWVDRbgQc,-0.0023,a pouch or sachet of gutka or pan masala with visible branding,426.3,0.2235
+358,PREVENTIVE_wAH0z3cIAL0_F118.jpg,wAH0z3cIAL0,-0.0023,"workers manufacturing cigarettes or pan masala in a factory, product visible",446.4,0.2529
+359,PREVENTIVE_wAH0z3cIAL0_F679.jpg,wAH0z3cIAL0,-0.0024,"workers manufacturing cigarettes or pan masala in a factory, product visible",243.8,0.2540
+360,PREVENTIVE_qNBCiDWjtEA_F166.jpg,qNBCiDWjtEA,-0.0024,"a person smoking a cigarette, cigarette clearly visible",373.3,0.2285
+361,PREVENTIVE_qNBCiDWjtEA_F115.jpg,qNBCiDWjtEA,-0.0024,"a person smoking a cigarette, cigarette clearly visible",396.1,0.2373
+362,PREVENTIVE_wAH0z3cIAL0_F010.jpg,wAH0z3cIAL0,-0.0024,"a can of beer, clearly visible",129.5,0.2333
+363,PREVENTIVE_qNBCiDWjtEA_F070.jpg,qNBCiDWjtEA,-0.0025,"tobacco leaves or raw tobacco, clearly visible",681.8,0.2584
+364,PREVENTIVE_D4hCpB5nAx0_F072.jpg,D4hCpB5nAx0,-0.0026,"a cigar being smoked, clearly visible",103.1,0.2527
+365,PREVENTIVE_LVKLxfNguLw_F022.jpg,LVKLxfNguLw,-0.0026,"a person smoking a cigarette, cigarette clearly visible",202.7,0.2337
+366,PREVENTIVE_wAH0z3cIAL0_F934.jpg,wAH0z3cIAL0,-0.0027,"a person smoking a cigarette, cigarette clearly visible",1087.6,0.2276
+367,PREVENTIVE_IHR158IF6YU_F051.jpg,IHR158IF6YU,-0.0027,"a person smoking a cigarette, cigarette clearly visible",131.4,0.2275
+368,PREVENTIVE_qNBCiDWjtEA_F668.jpg,qNBCiDWjtEA,-0.0027,a sachet of chewing tobacco with visible branding,2348.6,0.1963
+369,PREVENTIVE_LVKLxfNguLw_F018.jpg,LVKLxfNguLw,-0.0027,"a person smoking a cigarette, cigarette clearly visible",325.8,0.2450
+370,PREVENTIVE_SC-3td5-pdY_F011.jpg,SC-3td5-pdY,-0.0027,"a person smoking a cigarette, cigarette clearly visible",172.6,0.2342
+371,PREVENTIVE_wAH0z3cIAL0_F599.jpg,wAH0z3cIAL0,-0.0030,"a person smoking a cigarette, cigarette clearly visible",138.0,0.2611
+372,PREVENTIVE_wAH0z3cIAL0_F036.jpg,wAH0z3cIAL0,-0.0031,"a cigar being smoked, clearly visible",262.4,0.2415
+373,PREVENTIVE_wAH0z3cIAL0_F222.jpg,wAH0z3cIAL0,-0.0031,a hookah pipe,190.0,0.2166
+374,PREVENTIVE_7M7oRkAaujg_F058.jpg,7M7oRkAaujg,-0.0033,"a cigar being smoked, clearly visible",575.4,0.2397
+375,PREVENTIVE_V_fSL4xlEdo_F038.jpg,V_fSL4xlEdo,-0.0033,"a vape or e-cigarette device, clearly visible",802.9,0.2430
+376,PREVENTIVE_TX5r8OEXhEk_F028.jpg,TX5r8OEXhEk,-0.0034,"a person smoking a cigarette, cigarette clearly visible",558.2,0.2376
+377,PREVENTIVE_uWimehBOIHM_F044.jpg,uWimehBOIHM,-0.0034,"workers manufacturing cigarettes or pan masala in a factory, product visible",167.7,0.2371
+378,PREVENTIVE_wAH0z3cIAL0_F853.jpg,wAH0z3cIAL0,-0.0036,a pouch or sachet of gutka or pan masala with visible branding,1511.2,0.2194
+379,PREVENTIVE_IHR158IF6YU_F017.jpg,IHR158IF6YU,-0.0036,a pouch or sachet of gutka or pan masala with visible branding,176.0,0.2288
+380,PREVENTIVE_8WQQLDuEJMc_F016.jpg,8WQQLDuEJMc,-0.0036,"a cigar being smoked, clearly visible",260.2,0.2406
+381,PREVENTIVE_qNBCiDWjtEA_F081.jpg,qNBCiDWjtEA,-0.0036,"a vape or e-cigarette device, clearly visible",991.3,0.2275
+382,PREVENTIVE_7M7oRkAaujg_F027.jpg,7M7oRkAaujg,-0.0037,"a person smoking a cigarette, cigarette clearly visible",618.8,0.2346
+383,PREVENTIVE_wAH0z3cIAL0_F292.jpg,wAH0z3cIAL0,-0.0038,a photo of a cigarette pack,1038.6,0.2141
+384,PREVENTIVE_wAH0z3cIAL0_F707.jpg,wAH0z3cIAL0,-0.0039,"workers manufacturing cigarettes or pan masala in a factory, product visible",1006.1,0.2100
+385,PREVENTIVE_TX5r8OEXhEk_F009.jpg,TX5r8OEXhEk,-0.0039,"a cigar being smoked, clearly visible",223.6,0.2132
+386,PREVENTIVE_l8K_f4DVvVc_F022.jpg,l8K_f4DVvVc,-0.0040,"workers manufacturing cigarettes or pan masala in a factory, product visible",201.3,0.2316
+387,PREVENTIVE_wAH0z3cIAL0_F017.jpg,wAH0z3cIAL0,-0.0040,"a person smoking a cigarette, cigarette clearly visible",830.8,0.2290
+388,PREVENTIVE_D4hCpB5nAx0_F042.jpg,D4hCpB5nAx0,-0.0042,"a cigar being smoked, clearly visible",107.2,0.2311
+389,PREVENTIVE_uWimehBOIHM_F038.jpg,uWimehBOIHM,-0.0043,"workers manufacturing cigarettes or pan masala in a factory, product visible",111.3,0.2305
+390,PREVENTIVE_l8K_f4DVvVc_F020.jpg,l8K_f4DVvVc,-0.0043,"a vape or e-cigarette device, clearly visible",121.3,0.2223
+391,PREVENTIVE_wAH0z3cIAL0_F011.jpg,wAH0z3cIAL0,-0.0044,"a can of beer, clearly visible",110.1,0.2337
+392,PREVENTIVE_ZDTWVDRbgQc_F032.jpg,ZDTWVDRbgQc,-0.0045,"a person smoking a cigarette, cigarette clearly visible",190.3,0.2252
+393,PREVENTIVE_ZDTWVDRbgQc_F054.jpg,ZDTWVDRbgQc,-0.0045,a pouch or sachet of gutka or pan masala with visible branding,176.1,0.2299
+394,PREVENTIVE_xM2Qcp4ke9k_F003.jpg,xM2Qcp4ke9k,-0.0046,"a person smoking a cigarette, cigarette clearly visible",122.9,0.2454
+395,PREVENTIVE_wAH0z3cIAL0_F267.jpg,wAH0z3cIAL0,-0.0046,"a person smoking a cigarette, cigarette clearly visible",176.1,0.2200
+396,PREVENTIVE_RTc5NgyiGTs_F137.jpg,RTc5NgyiGTs,-0.0046,"workers manufacturing cigarettes or pan masala in a factory, product visible",5320.3,0.2341
+397,PREVENTIVE_wAH0z3cIAL0_F401.jpg,wAH0z3cIAL0,-0.0046,"a vape or e-cigarette device, clearly visible",504.0,0.2331
+398,PREVENTIVE_uWimehBOIHM_F020.jpg,uWimehBOIHM,-0.0046,"workers manufacturing cigarettes or pan masala in a factory, product visible",795.4,0.2330
+399,PREVENTIVE_RTc5NgyiGTs_F071.jpg,RTc5NgyiGTs,-0.0047,"a person smoking a cigarette, cigarette clearly visible",565.1,0.2390
+400,PREVENTIVE_D4hCpB5nAx0_F065.jpg,D4hCpB5nAx0,-0.0048,"a cigar being smoked, clearly visible",115.6,0.2429
+401,PREVENTIVE_wAH0z3cIAL0_F700.jpg,wAH0z3cIAL0,-0.0048,"a cigar being smoked, clearly visible",1050.9,0.2158
+402,PREVENTIVE_qNBCiDWjtEA_F082.jpg,qNBCiDWjtEA,-0.0049,"a vape or e-cigarette device, clearly visible",975.6,0.2300
+403,PREVENTIVE_wAH0z3cIAL0_F699.jpg,wAH0z3cIAL0,-0.0049,"a person smoking a cigarette, cigarette clearly visible",1106.6,0.2116
+404,PREVENTIVE_wAH0z3cIAL0_F403.jpg,wAH0z3cIAL0,-0.0050,"a vape or e-cigarette device, clearly visible",485.8,0.2276
+405,PREVENTIVE_8WQQLDuEJMc_F008.jpg,8WQQLDuEJMc,-0.0050,"a cigar being smoked, clearly visible",127.4,0.2012
+406,PREVENTIVE_wAH0z3cIAL0_F719.jpg,wAH0z3cIAL0,-0.0051,"workers manufacturing cigarettes or pan masala in a factory, product visible",1496.9,0.2297
+407,PREVENTIVE_RTc5NgyiGTs_F050.jpg,RTc5NgyiGTs,-0.0052,"a cigar being smoked, clearly visible",1375.6,0.2351
+408,PREVENTIVE_IHR158IF6YU_F042.jpg,IHR158IF6YU,-0.0053,"workers manufacturing cigarettes or pan masala in a factory, product visible",190.0,0.2262
+409,PREVENTIVE_IHR158IF6YU_F052.jpg,IHR158IF6YU,-0.0053,"a person smoking a cigarette, cigarette clearly visible",132.8,0.2247
+410,PREVENTIVE_qNBCiDWjtEA_F454.jpg,qNBCiDWjtEA,-0.0054,"a person smoking a cigarette, cigarette clearly visible",3074.6,0.2386
+411,PREVENTIVE_qNBCiDWjtEA_F657.jpg,qNBCiDWjtEA,-0.0054,a sachet of chewing tobacco with visible branding,2091.9,0.1956
+412,PREVENTIVE_ZDTWVDRbgQc_F042.jpg,ZDTWVDRbgQc,-0.0054,"workers manufacturing cigarettes or pan masala in a factory, product visible",1119.8,0.2240
+413,PREVENTIVE_eH1T8s00F4s_F008.jpg,eH1T8s00F4s,-0.0055,"a cigar being smoked, clearly visible",110.4,0.2155
+414,PREVENTIVE_RTc5NgyiGTs_F041.jpg,RTc5NgyiGTs,-0.0056,"a can of beer, clearly visible",1775.6,0.2333
+415,PREVENTIVE_IHR158IF6YU_F032.jpg,IHR158IF6YU,-0.0058,"a person smoking a cigarette, cigarette clearly visible",175.8,0.2123
+416,PREVENTIVE_NSbzJ63aYT4_F013.jpg,NSbzJ63aYT4,-0.0058,"a person smoking a cigarette, cigarette clearly visible",122.5,0.2186
+417,PREVENTIVE_LVKLxfNguLw_F091.jpg,LVKLxfNguLw,-0.0058,"a person smoking a cigarette, cigarette clearly visible",185.9,0.2451
+418,PREVENTIVE_T7P-MgQLIPw_F050.jpg,T7P-MgQLIPw,-0.0059,"a vape or e-cigarette device, clearly visible",976.3,0.2094
+419,PREVENTIVE_wAH0z3cIAL0_F027.jpg,wAH0z3cIAL0,-0.0059,"a person smoking a cigarette, cigarette clearly visible",840.3,0.2241
+420,PREVENTIVE_uWimehBOIHM_F029.jpg,uWimehBOIHM,-0.0060,"a vape or e-cigarette device, clearly visible",195.9,0.2254
+421,PREVENTIVE_IHR158IF6YU_F026.jpg,IHR158IF6YU,-0.0060,a pouch or sachet of gutka or pan masala with visible branding,211.1,0.2268
+422,PREVENTIVE_qNBCiDWjtEA_F083.jpg,qNBCiDWjtEA,-0.0061,"a vape or e-cigarette device, clearly visible",1187.2,0.2315
+423,PREVENTIVE_7M7oRkAaujg_F035.jpg,7M7oRkAaujg,-0.0062,"a person smoking a cigarette, cigarette clearly visible",179.5,0.2171
+424,PREVENTIVE_uWimehBOIHM_F014.jpg,uWimehBOIHM,-0.0063,"workers manufacturing cigarettes or pan masala in a factory, product visible",291.3,0.2129
+425,PREVENTIVE_TX5r8OEXhEk_F014.jpg,TX5r8OEXhEk,-0.0063,"a cigar being smoked, clearly visible",425.1,0.2161
+426,PREVENTIVE_TX5r8OEXhEk_F029.jpg,TX5r8OEXhEk,-0.0064,"a person smoking a cigarette, cigarette clearly visible",872.8,0.2321
+427,PREVENTIVE_V_fSL4xlEdo_F028.jpg,V_fSL4xlEdo,-0.0064,"a person smoking a cigarette, cigarette clearly visible",631.4,0.2469
+428,PREVENTIVE_IHR158IF6YU_F041.jpg,IHR158IF6YU,-0.0064,"a person smoking a cigarette, cigarette clearly visible",130.6,0.2265
+429,PREVENTIVE_wAH0z3cIAL0_F698.jpg,wAH0z3cIAL0,-0.0065,"a cigar being smoked, clearly visible",876.2,0.2276
+430,PREVENTIVE_l8K_f4DVvVc_F006.jpg,l8K_f4DVvVc,-0.0065,"a person smoking a cigarette, cigarette clearly visible",137.5,0.2259
+431,PREVENTIVE_l8K_f4DVvVc_F029.jpg,l8K_f4DVvVc,-0.0066,"a vape or e-cigarette device, clearly visible",118.9,0.2595
+432,PREVENTIVE_qNBCiDWjtEA_F140.jpg,qNBCiDWjtEA,-0.0067,"a person smoking a cigarette, cigarette clearly visible",283.1,0.2400
+433,PREVENTIVE_wAH0z3cIAL0_F854.jpg,wAH0z3cIAL0,-0.0067,"a cigar being smoked, clearly visible",759.3,0.2317
+434,PREVENTIVE_wAH0z3cIAL0_F577.jpg,wAH0z3cIAL0,-0.0068,"a person smoking a cigarette, cigarette clearly visible",1106.3,0.2383
+435,PREVENTIVE_LVKLxfNguLw_F077.jpg,LVKLxfNguLw,-0.0068,"a person smoking a cigarette, cigarette clearly visible",200.3,0.2278
+436,PREVENTIVE_RTc5NgyiGTs_F024.jpg,RTc5NgyiGTs,-0.0068,"a cigar being smoked, clearly visible",350.8,0.2383
+437,PREVENTIVE_TX5r8OEXhEk_F008.jpg,TX5r8OEXhEk,-0.0068,"a cigar being smoked, clearly visible",239.3,0.2089
+438,PREVENTIVE_l8K_f4DVvVc_F027.jpg,l8K_f4DVvVc,-0.0068,"workers manufacturing cigarettes or pan masala in a factory, product visible",100.4,0.2445
+439,PREVENTIVE_RTc5NgyiGTs_F013.jpg,RTc5NgyiGTs,-0.0069,"a vape or e-cigarette device, clearly visible",580.9,0.2441
+440,PREVENTIVE_RTc5NgyiGTs_F049.jpg,RTc5NgyiGTs,-0.0069,"a can of beer, clearly visible",1415.8,0.2292
+441,PREVENTIVE_IHR158IF6YU_F008.jpg,IHR158IF6YU,-0.0070,"a person smoking a cigarette, cigarette clearly visible",177.8,0.2382
+442,PREVENTIVE_8WQQLDuEJMc_F035.jpg,8WQQLDuEJMc,-0.0070,a pouch or sachet of gutka or pan masala with visible branding,1827.0,0.2276
+443,PREVENTIVE_RTc5NgyiGTs_F045.jpg,RTc5NgyiGTs,-0.0070,"a cigar being smoked, clearly visible",198.2,0.2332
+444,PREVENTIVE_wAH0z3cIAL0_F226.jpg,wAH0z3cIAL0,-0.0072,"a cigar being smoked, clearly visible",236.7,0.2185
+445,PREVENTIVE_wAH0z3cIAL0_F441.jpg,wAH0z3cIAL0,-0.0072,"a person smoking a cigarette, cigarette clearly visible",103.7,0.2253
+446,PREVENTIVE_wAH0z3cIAL0_F706.jpg,wAH0z3cIAL0,-0.0072,"a person smoking a cigarette, cigarette clearly visible",1120.3,0.2227
+447,PREVENTIVE_7M7oRkAaujg_F053.jpg,7M7oRkAaujg,-0.0072,"a person smoking a cigarette, cigarette clearly visible",399.2,0.2280
+448,PREVENTIVE_7M7oRkAaujg_F054.jpg,7M7oRkAaujg,-0.0072,"a person smoking a cigarette, cigarette clearly visible",456.7,0.2277
+449,PREVENTIVE_qNBCiDWjtEA_F111.jpg,qNBCiDWjtEA,-0.0073,"a person smoking a cigarette, cigarette clearly visible",809.7,0.2030
+450,PREVENTIVE_IHR158IF6YU_F037.jpg,IHR158IF6YU,-0.0073,"a person smoking a cigarette, cigarette clearly visible",256.0,0.2105
+451,PREVENTIVE_qNBCiDWjtEA_F465.jpg,qNBCiDWjtEA,-0.0074,"a vape or e-cigarette device, clearly visible",2385.6,0.2495
+452,PREVENTIVE_SC-3td5-pdY_F012.jpg,SC-3td5-pdY,-0.0074,"a vape or e-cigarette device, clearly visible",153.8,0.2275
+453,PREVENTIVE_7M7oRkAaujg_F013.jpg,7M7oRkAaujg,-0.0075,"a cigar being smoked, clearly visible",315.6,0.2305
+454,PREVENTIVE_RTc5NgyiGTs_F072.jpg,RTc5NgyiGTs,-0.0076,"a person smoking a cigarette, cigarette clearly visible",450.8,0.2417
+455,PREVENTIVE_7M7oRkAaujg_F024.jpg,7M7oRkAaujg,-0.0077,"a person smoking a cigarette, cigarette clearly visible",404.2,0.2253
+456,PREVENTIVE_wAH0z3cIAL0_F713.jpg,wAH0z3cIAL0,-0.0077,"workers manufacturing cigarettes or pan masala in a factory, product visible",1017.0,0.2176
+457,PREVENTIVE_IHR158IF6YU_F013.jpg,IHR158IF6YU,-0.0078,a pouch or sachet of gutka or pan masala with visible branding,442.0,0.2282
+458,PREVENTIVE_wAH0z3cIAL0_F705.jpg,wAH0z3cIAL0,-0.0078,"workers manufacturing cigarettes or pan masala in a factory, product visible",1110.5,0.2235
+459,PREVENTIVE_IHR158IF6YU_F034.jpg,IHR158IF6YU,-0.0079,"a person smoking a cigarette, cigarette clearly visible",266.4,0.2125
+460,PREVENTIVE_D4hCpB5nAx0_F040.jpg,D4hCpB5nAx0,-0.0079,"a cigar being smoked, clearly visible",102.7,0.2391
+461,PREVENTIVE_wAH0z3cIAL0_F703.jpg,wAH0z3cIAL0,-0.0080,"a person smoking a cigarette, cigarette clearly visible",1058.6,0.2049
+462,PREVENTIVE_IHR158IF6YU_F011.jpg,IHR158IF6YU,-0.0080,"a person smoking a cigarette, cigarette clearly visible",711.2,0.2377
+463,PREVENTIVE_ZDTWVDRbgQc_F051.jpg,ZDTWVDRbgQc,-0.0080,"workers manufacturing cigarettes or pan masala in a factory, product visible",393.3,0.2301
+464,PREVENTIVE_wAH0z3cIAL0_F704.jpg,wAH0z3cIAL0,-0.0081,"a person smoking a cigarette, cigarette clearly visible",1092.5,0.2185
+465,PREVENTIVE_qNBCiDWjtEA_F079.jpg,qNBCiDWjtEA,-0.0081,"a can of beer, clearly visible",195.0,0.2325
+466,PREVENTIVE_T7P-MgQLIPw_F039.jpg,T7P-MgQLIPw,-0.0081,"a person smoking a cigarette, cigarette clearly visible",405.9,0.2301
+467,PREVENTIVE_wAH0z3cIAL0_F696.jpg,wAH0z3cIAL0,-0.0081,"a person smoking a cigarette, cigarette clearly visible",1000.4,0.2244
+468,PREVENTIVE_7M7oRkAaujg_F046.jpg,7M7oRkAaujg,-0.0082,"a person smoking a cigarette, cigarette clearly visible",149.9,0.2498
+469,PREVENTIVE_RTc5NgyiGTs_F039.jpg,RTc5NgyiGTs,-0.0082,"a cigar being smoked, clearly visible",1861.1,0.2291
+470,PREVENTIVE_T7P-MgQLIPw_F048.jpg,T7P-MgQLIPw,-0.0082,"a vape or e-cigarette device, clearly visible",1222.3,0.2187
+471,PREVENTIVE_7M7oRkAaujg_F007.jpg,7M7oRkAaujg,-0.0082,"workers manufacturing cigarettes or pan masala in a factory, product visible",493.2,0.2296
+472,PREVENTIVE_wAH0z3cIAL0_F158.jpg,wAH0z3cIAL0,-0.0083,"a cigar being smoked, clearly visible",419.2,0.2199
+473,PREVENTIVE_ZDTWVDRbgQc_F037.jpg,ZDTWVDRbgQc,-0.0083,"a person smoking a cigarette, cigarette clearly visible",556.5,0.2159
+474,PREVENTIVE_RTc5NgyiGTs_F051.jpg,RTc5NgyiGTs,-0.0083,"a cigar being smoked, clearly visible",1261.4,0.2355
+475,PREVENTIVE_T7P-MgQLIPw_F001.jpg,T7P-MgQLIPw,-0.0083,"a person smoking a cigarette, cigarette clearly visible",246.7,0.2127
+476,PREVENTIVE_IHR158IF6YU_F010.jpg,IHR158IF6YU,-0.0084,"workers manufacturing cigarettes or pan masala in a factory, product visible",290.1,0.2411
+477,PREVENTIVE_V_fSL4xlEdo_F024.jpg,V_fSL4xlEdo,-0.0085,a pouch or sachet of gutka or pan masala with visible branding,590.4,0.2113
+478,PREVENTIVE_qNBCiDWjtEA_F113.jpg,qNBCiDWjtEA,-0.0085,"a person smoking a cigarette, cigarette clearly visible",323.6,0.2248
+479,PREVENTIVE_V_fSL4xlEdo_F029.jpg,V_fSL4xlEdo,-0.0086,"a person smoking a cigarette, cigarette clearly visible",614.5,0.2473
+480,PREVENTIVE_wAH0z3cIAL0_F583.jpg,wAH0z3cIAL0,-0.0086,"a person smoking a cigarette, cigarette clearly visible",1118.2,0.2313
+481,PREVENTIVE_uWimehBOIHM_F054.jpg,uWimehBOIHM,-0.0087,a photo of a cigarette pack,224.6,0.2065
+482,PREVENTIVE_IHR158IF6YU_F044.jpg,IHR158IF6YU,-0.0087,"a person smoking a cigarette, cigarette clearly visible",164.6,0.2200
+483,PREVENTIVE_qNBCiDWjtEA_F078.jpg,qNBCiDWjtEA,-0.0087,"a can of beer, clearly visible",157.6,0.2235
+484,PREVENTIVE_wAH0z3cIAL0_F157.jpg,wAH0z3cIAL0,-0.0088,"a cigar being smoked, clearly visible",417.2,0.2518
+485,PREVENTIVE_7M7oRkAaujg_F055.jpg,7M7oRkAaujg,-0.0088,"a person smoking a cigarette, cigarette clearly visible",510.2,0.2268
+486,PREVENTIVE_RTc5NgyiGTs_F048.jpg,RTc5NgyiGTs,-0.0089,"workers manufacturing cigarettes or pan masala in a factory, product visible",269.7,0.2391
+487,PREVENTIVE_RTc5NgyiGTs_F132.jpg,RTc5NgyiGTs,-0.0089,"a cigar being smoked, clearly visible",2296.5,0.2282
+488,PREVENTIVE_IHR158IF6YU_F031.jpg,IHR158IF6YU,-0.0090,"workers manufacturing cigarettes or pan masala in a factory, product visible",299.0,0.2012
+489,PREVENTIVE_wAH0z3cIAL0_F173.jpg,wAH0z3cIAL0,-0.0090,"a person smoking a cigarette, cigarette clearly visible",748.8,0.2219
+490,PREVENTIVE_V_fSL4xlEdo_F054.jpg,V_fSL4xlEdo,-0.0091,"workers manufacturing cigarettes or pan masala in a factory, product visible",846.4,0.2206
+491,PREVENTIVE_V_fSL4xlEdo_F036.jpg,V_fSL4xlEdo,-0.0091,"a vape or e-cigarette device, clearly visible",723.7,0.2394
+492,PREVENTIVE_T7P-MgQLIPw_F004.jpg,T7P-MgQLIPw,-0.0092,"a person smoking a cigarette, cigarette clearly visible",529.5,0.2171
+493,PREVENTIVE_wAH0z3cIAL0_F412.jpg,wAH0z3cIAL0,-0.0093,a hookah pipe,810.9,0.2210
+494,PREVENTIVE_wAH0z3cIAL0_F890.jpg,wAH0z3cIAL0,-0.0093,"a person smoking a cigarette, cigarette clearly visible",220.5,0.2453
+495,PREVENTIVE_D4hCpB5nAx0_F044.jpg,D4hCpB5nAx0,-0.0094,"a cigar being smoked, clearly visible",113.1,0.2328
+496,PREVENTIVE_NSbzJ63aYT4_F008.jpg,NSbzJ63aYT4,-0.0094,"workers manufacturing cigarettes or pan masala in a factory, product visible",320.1,0.2283
+497,PREVENTIVE_NSbzJ63aYT4_F006.jpg,NSbzJ63aYT4,-0.0094,"workers manufacturing cigarettes or pan masala in a factory, product visible",300.0,0.2271
+498,PREVENTIVE_7M7oRkAaujg_F028.jpg,7M7oRkAaujg,-0.0095,"a cigar being smoked, clearly visible",644.6,0.2343
+499,PREVENTIVE_wAH0z3cIAL0_F598.jpg,wAH0z3cIAL0,-0.0095,"a person smoking a cigarette, cigarette clearly visible",120.0,0.2500
+500,PREVENTIVE_ZDTWVDRbgQc_F043.jpg,ZDTWVDRbgQc,-0.0095,"workers manufacturing cigarettes or pan masala in a factory, product visible",974.3,0.2097
+501,PREVENTIVE_wAH0z3cIAL0_F271.jpg,wAH0z3cIAL0,-0.0095,"a person smoking a cigarette, cigarette clearly visible",253.0,0.2255
+502,PREVENTIVE_V_fSL4xlEdo_F033.jpg,V_fSL4xlEdo,-0.0095,"a vape or e-cigarette device, clearly visible",583.9,0.2381
+503,PREVENTIVE_IHR158IF6YU_F045.jpg,IHR158IF6YU,-0.0098,"a person smoking a cigarette, cigarette clearly visible",146.9,0.2136
+504,PREVENTIVE_7M7oRkAaujg_F056.jpg,7M7oRkAaujg,-0.0100,"a person smoking a cigarette, cigarette clearly visible",572.2,0.2434
+505,PREVENTIVE_RTc5NgyiGTs_F125.jpg,RTc5NgyiGTs,-0.0100,"a can of beer, clearly visible",762.6,0.2213
+506,PREVENTIVE_uWimehBOIHM_F024.jpg,uWimehBOIHM,-0.0100,"a vape or e-cigarette device, clearly visible",337.0,0.2131
+507,PREVENTIVE_l8K_f4DVvVc_F025.jpg,l8K_f4DVvVc,-0.0100,"workers manufacturing cigarettes or pan masala in a factory, product visible",116.4,0.2340
+508,PREVENTIVE_RTc5NgyiGTs_F154.jpg,RTc5NgyiGTs,-0.0101,a pouch or sachet of gutka or pan masala with visible branding,760.1,0.2388
+509,PREVENTIVE_wAH0z3cIAL0_F125.jpg,wAH0z3cIAL0,-0.0101,"a person smoking a cigarette, cigarette clearly visible",1491.9,0.2352
+510,PREVENTIVE_LVKLxfNguLw_F019.jpg,LVKLxfNguLw,-0.0101,"a person smoking a cigarette, cigarette clearly visible",342.1,0.2318
+511,PREVENTIVE_IHR158IF6YU_F009.jpg,IHR158IF6YU,-0.0102,"a person smoking a cigarette, cigarette clearly visible",169.2,0.2404
+512,PREVENTIVE_RTc5NgyiGTs_F035.jpg,RTc5NgyiGTs,-0.0102,"tobacco leaves or raw tobacco, clearly visible",828.2,0.2206
+513,PREVENTIVE_wAH0z3cIAL0_F407.jpg,wAH0z3cIAL0,-0.0103,a hookah pipe,745.4,0.2199
+514,PREVENTIVE_uWimehBOIHM_F022.jpg,uWimehBOIHM,-0.0103,"a cigar being smoked, clearly visible",103.4,0.2213
+515,PREVENTIVE_V_fSL4xlEdo_F027.jpg,V_fSL4xlEdo,-0.0104,a hookah pipe,320.9,0.2288
+516,PREVENTIVE_RTc5NgyiGTs_F010.jpg,RTc5NgyiGTs,-0.0104,"workers manufacturing cigarettes or pan masala in a factory, product visible",1965.2,0.2249
+517,PREVENTIVE_wAH0z3cIAL0_F112.jpg,wAH0z3cIAL0,-0.0105,"a person smoking a cigarette, cigarette clearly visible",508.9,0.2189
+518,PREVENTIVE_wAH0z3cIAL0_F235.jpg,wAH0z3cIAL0,-0.0105,a hookah pipe,592.0,0.2219
+519,PREVENTIVE_LVKLxfNguLw_F058.jpg,LVKLxfNguLw,-0.0105,"a person smoking a cigarette, cigarette clearly visible",461.8,0.2383
+520,PREVENTIVE_wAH0z3cIAL0_F022.jpg,wAH0z3cIAL0,-0.0106,"a person smoking a cigarette, cigarette clearly visible",682.2,0.2320
+521,PREVENTIVE_IHR158IF6YU_F012.jpg,IHR158IF6YU,-0.0106,"a person smoking a cigarette, cigarette clearly visible",600.9,0.2363
+522,PREVENTIVE_IHR158IF6YU_F020.jpg,IHR158IF6YU,-0.0107,"a person smoking a cigarette, cigarette clearly visible",387.2,0.2142
+523,PREVENTIVE_SC-3td5-pdY_F008.jpg,SC-3td5-pdY,-0.0108,"a vape or e-cigarette device, clearly visible",630.3,0.2335
+524,PREVENTIVE_LVKLxfNguLw_F089.jpg,LVKLxfNguLw,-0.0108,"a person smoking a cigarette, cigarette clearly visible",420.1,0.2347
+525,PREVENTIVE_RTc5NgyiGTs_F069.jpg,RTc5NgyiGTs,-0.0109,"a person smoking a cigarette, cigarette clearly visible",511.8,0.2365
+526,PREVENTIVE_SC-3td5-pdY_F006.jpg,SC-3td5-pdY,-0.0109,"a person smoking a cigarette, cigarette clearly visible",705.7,0.2325
+527,PREVENTIVE_wAH0z3cIAL0_F632.jpg,wAH0z3cIAL0,-0.0110,"a person smoking a cigarette, cigarette clearly visible",779.5,0.2409
+528,PREVENTIVE_wAH0z3cIAL0_F600.jpg,wAH0z3cIAL0,-0.0111,"a glass of beer or wine, clearly visible",293.0,0.2289
+529,PREVENTIVE_7M7oRkAaujg_F057.jpg,7M7oRkAaujg,-0.0112,"a cigar being smoked, clearly visible",537.3,0.2333
+530,PREVENTIVE_wAH0z3cIAL0_F670.jpg,wAH0z3cIAL0,-0.0112,"a person smoking a cigarette, cigarette clearly visible",482.3,0.2236
+531,PREVENTIVE_V_fSL4xlEdo_F034.jpg,V_fSL4xlEdo,-0.0112,"a vape or e-cigarette device, clearly visible",561.6,0.2346
+532,PREVENTIVE_wAH0z3cIAL0_F828.jpg,wAH0z3cIAL0,-0.0114,"a person smoking a cigarette, cigarette clearly visible",941.0,0.2334
+533,PREVENTIVE_ZDTWVDRbgQc_F020.jpg,ZDTWVDRbgQc,-0.0114,"a cigar being smoked, clearly visible",702.4,0.2334
+534,PREVENTIVE_RTc5NgyiGTs_F014.jpg,RTc5NgyiGTs,-0.0114,"a can of beer, clearly visible",953.3,0.2103
+535,PREVENTIVE_wAH0z3cIAL0_F673.jpg,wAH0z3cIAL0,-0.0115,"workers manufacturing cigarettes or pan masala in a factory, product visible",376.8,0.2380
+536,PREVENTIVE_wAH0z3cIAL0_F850.jpg,wAH0z3cIAL0,-0.0116,a pouch or sachet of gutka or pan masala with visible branding,864.1,0.2266
+537,PREVENTIVE_RTc5NgyiGTs_F044.jpg,RTc5NgyiGTs,-0.0116,"a cigar being smoked, clearly visible",291.0,0.2337
+538,PREVENTIVE_wAH0z3cIAL0_F202.jpg,wAH0z3cIAL0,-0.0117,"a person smoking a cigarette, cigarette clearly visible",420.5,0.2291
+539,PREVENTIVE_T7P-MgQLIPw_F051.jpg,T7P-MgQLIPw,-0.0118,"workers manufacturing cigarettes or pan masala in a factory, product visible",382.4,0.2256
+540,PREVENTIVE_wAH0z3cIAL0_F236.jpg,wAH0z3cIAL0,-0.0118,"a person smoking a cigarette, cigarette clearly visible",577.1,0.2143
+541,PREVENTIVE_LVKLxfNguLw_F016.jpg,LVKLxfNguLw,-0.0118,"a cigar being smoked, clearly visible",164.3,0.2495
+542,PREVENTIVE_T7P-MgQLIPw_F032.jpg,T7P-MgQLIPw,-0.0119,"a vape or e-cigarette device, clearly visible",727.4,0.2177
+543,PREVENTIVE_wAH0z3cIAL0_F892.jpg,wAH0z3cIAL0,-0.0119,"a cigar being smoked, clearly visible",128.9,0.2330
+544,PREVENTIVE_IHR158IF6YU_F033.jpg,IHR158IF6YU,-0.0119,"a person smoking a cigarette, cigarette clearly visible",148.7,0.2076
+545,PREVENTIVE_wAH0z3cIAL0_F716.jpg,wAH0z3cIAL0,-0.0120,"workers manufacturing cigarettes or pan masala in a factory, product visible",1423.2,0.2296
+546,PREVENTIVE_l8K_f4DVvVc_F028.jpg,l8K_f4DVvVc,-0.0120,"a vape or e-cigarette device, clearly visible",112.8,0.2499
+547,PREVENTIVE_xM2Qcp4ke9k_F016.jpg,xM2Qcp4ke9k,-0.0121,"workers manufacturing cigarettes or pan masala in a factory, product visible",216.7,0.2259
+548,PREVENTIVE_qNBCiDWjtEA_F127.jpg,qNBCiDWjtEA,-0.0121,"a person smoking a cigarette, cigarette clearly visible",313.9,0.2332
+549,PREVENTIVE_RTc5NgyiGTs_F082.jpg,RTc5NgyiGTs,-0.0121,"workers manufacturing cigarettes or pan masala in a factory, product visible",240.9,0.2303
+550,PREVENTIVE_qNBCiDWjtEA_F104.jpg,qNBCiDWjtEA,-0.0121,"a person smoking a cigarette, cigarette clearly visible",326.8,0.2309
+551,PREVENTIVE_7M7oRkAaujg_F014.jpg,7M7oRkAaujg,-0.0121,"a cigar being smoked, clearly visible",309.1,0.2239
+552,PREVENTIVE_wAH0z3cIAL0_F930.jpg,wAH0z3cIAL0,-0.0122,"workers manufacturing cigarettes or pan masala in a factory, product visible",1783.0,0.2158
+553,PREVENTIVE_ZDTWVDRbgQc_F041.jpg,ZDTWVDRbgQc,-0.0122,"workers manufacturing cigarettes or pan masala in a factory, product visible",1054.4,0.2227
+554,PREVENTIVE_wAH0z3cIAL0_F261.jpg,wAH0z3cIAL0,-0.0122,"a person smoking a cigarette, cigarette clearly visible",221.9,0.2167
+555,PREVENTIVE_wAH0z3cIAL0_F896.jpg,wAH0z3cIAL0,-0.0123,"a cigar being smoked, clearly visible",322.2,0.2137
+556,PREVENTIVE_T7P-MgQLIPw_F009.jpg,T7P-MgQLIPw,-0.0123,"workers manufacturing cigarettes or pan masala in a factory, product visible",377.5,0.2076
+557,PREVENTIVE_IHR158IF6YU_F046.jpg,IHR158IF6YU,-0.0123,"a person smoking a cigarette, cigarette clearly visible",185.6,0.2039
+558,PREVENTIVE_qNBCiDWjtEA_F084.jpg,qNBCiDWjtEA,-0.0123,a photo of a cigarette pack,921.0,0.2478
+559,PREVENTIVE_7M7oRkAaujg_F002.jpg,7M7oRkAaujg,-0.0123,"a cigar being smoked, clearly visible",413.5,0.2267
+560,PREVENTIVE_V_fSL4xlEdo_F048.jpg,V_fSL4xlEdo,-0.0125,"a person smoking a cigarette, cigarette clearly visible",234.8,0.2221
+561,PREVENTIVE_T7P-MgQLIPw_F049.jpg,T7P-MgQLIPw,-0.0125,"a vape or e-cigarette device, clearly visible",1078.9,0.2195
+562,PREVENTIVE_wAH0z3cIAL0_F386.jpg,wAH0z3cIAL0,-0.0125,"a person smoking a cigarette, cigarette clearly visible",2358.9,0.2309
+563,PREVENTIVE_wAH0z3cIAL0_F088.jpg,wAH0z3cIAL0,-0.0125,"workers manufacturing cigarettes or pan masala in a factory, product visible",255.0,0.2184
+564,PREVENTIVE_8WQQLDuEJMc_F034.jpg,8WQQLDuEJMc,-0.0125,a sachet of chewing tobacco with visible branding,1346.6,0.2345
+565,PREVENTIVE_RTc5NgyiGTs_F075.jpg,RTc5NgyiGTs,-0.0126,"workers manufacturing cigarettes or pan masala in a factory, product visible",327.2,0.2326
+566,PREVENTIVE_wAH0z3cIAL0_F419.jpg,wAH0z3cIAL0,-0.0126,a hookah pipe,1200.5,0.2156
+567,PREVENTIVE_wAH0z3cIAL0_F830.jpg,wAH0z3cIAL0,-0.0126,"workers manufacturing cigarettes or pan masala in a factory, product visible",1164.7,0.2058
+568,PREVENTIVE_ZDTWVDRbgQc_F040.jpg,ZDTWVDRbgQc,-0.0126,"a person smoking a cigarette, cigarette clearly visible",548.6,0.2133
+569,PREVENTIVE_IHR158IF6YU_F014.jpg,IHR158IF6YU,-0.0127,a pouch or sachet of gutka or pan masala with visible branding,258.4,0.2342
+570,PREVENTIVE_RTc5NgyiGTs_F079.jpg,RTc5NgyiGTs,-0.0127,"a cigar being smoked, clearly visible",1068.1,0.2390
+571,PREVENTIVE_T7P-MgQLIPw_F054.jpg,T7P-MgQLIPw,-0.0127,a pouch or sachet of gutka or pan masala with visible branding,489.9,0.2141
+572,PREVENTIVE_wAH0z3cIAL0_F035.jpg,wAH0z3cIAL0,-0.0127,"workers manufacturing cigarettes or pan masala in a factory, product visible",524.2,0.2175
+573,PREVENTIVE_l8K_f4DVvVc_F024.jpg,l8K_f4DVvVc,-0.0127,"workers manufacturing cigarettes or pan masala in a factory, product visible",172.4,0.2443
+574,PREVENTIVE_qNBCiDWjtEA_F747.jpg,qNBCiDWjtEA,-0.0128,"a vape or e-cigarette device, clearly visible",1589.0,0.1905
+575,PREVENTIVE_qNBCiDWjtEA_F749.jpg,qNBCiDWjtEA,-0.0128,"a vape or e-cigarette device, clearly visible",1697.5,0.1987
+576,PREVENTIVE_LVKLxfNguLw_F057.jpg,LVKLxfNguLw,-0.0128,"a person smoking a cigarette, cigarette clearly visible",546.8,0.2332
+577,PREVENTIVE_wAH0z3cIAL0_F881.jpg,wAH0z3cIAL0,-0.0129,"workers manufacturing cigarettes or pan masala in a factory, product visible",540.0,0.2323
+578,PREVENTIVE_RTc5NgyiGTs_F052.jpg,RTc5NgyiGTs,-0.0129,"a cigar being smoked, clearly visible",881.9,0.2162
+579,PREVENTIVE_wAH0z3cIAL0_F855.jpg,wAH0z3cIAL0,-0.0130,"a cigar being smoked, clearly visible",783.8,0.2386
+580,PREVENTIVE_wAH0z3cIAL0_F671.jpg,wAH0z3cIAL0,-0.0130,"workers manufacturing cigarettes or pan masala in a factory, product visible",336.3,0.2259
+581,PREVENTIVE_uWimehBOIHM_F047.jpg,uWimehBOIHM,-0.0131,"a vape or e-cigarette device, clearly visible",286.7,0.2148
+582,PREVENTIVE_IHR158IF6YU_F040.jpg,IHR158IF6YU,-0.0131,"a person smoking a cigarette, cigarette clearly visible",119.1,0.2112
+583,PREVENTIVE_qNBCiDWjtEA_F467.jpg,qNBCiDWjtEA,-0.0133,"a vape or e-cigarette device, clearly visible",2399.6,0.2455
+584,PREVENTIVE_7M7oRkAaujg_F041.jpg,7M7oRkAaujg,-0.0133,"a cigar being smoked, clearly visible",145.3,0.2283
+585,PREVENTIVE_V_fSL4xlEdo_F046.jpg,V_fSL4xlEdo,-0.0133,a hookah pipe,516.1,0.2192
+586,PREVENTIVE_7M7oRkAaujg_F037.jpg,7M7oRkAaujg,-0.0133,"a cigar being smoked, clearly visible",142.2,0.2400
+587,PREVENTIVE_qNBCiDWjtEA_F154.jpg,qNBCiDWjtEA,-0.0134,"a person smoking a cigarette, cigarette clearly visible",361.5,0.2012
+588,PREVENTIVE_ZDTWVDRbgQc_F018.jpg,ZDTWVDRbgQc,-0.0135,"a person smoking a cigarette, cigarette clearly visible",191.0,0.2221
+589,PREVENTIVE_qNBCiDWjtEA_F008.jpg,qNBCiDWjtEA,-0.0137,"workers manufacturing cigarettes or pan masala in a factory, product visible",903.0,0.2416
+590,PREVENTIVE_ZDTWVDRbgQc_F015.jpg,ZDTWVDRbgQc,-0.0137,"a person smoking a cigarette, cigarette clearly visible",288.8,0.2254
+591,PREVENTIVE_8WQQLDuEJMc_F005.jpg,8WQQLDuEJMc,-0.0137,a photo of a cigarette pack,488.0,0.2634
+592,PREVENTIVE_wAH0z3cIAL0_F861.jpg,wAH0z3cIAL0,-0.0138,a pouch or sachet of gutka or pan masala with visible branding,1592.0,0.2358
+593,PREVENTIVE_RTc5NgyiGTs_F055.jpg,RTc5NgyiGTs,-0.0138,a photo of a cigarette pack,405.7,0.2269
+594,PREVENTIVE_T7P-MgQLIPw_F010.jpg,T7P-MgQLIPw,-0.0139,"a vape or e-cigarette device, clearly visible",477.4,0.2315
+595,PREVENTIVE_LVKLxfNguLw_F021.jpg,LVKLxfNguLw,-0.0139,"a person smoking a cigarette, cigarette clearly visible",141.8,0.2304
+596,PREVENTIVE_wAH0z3cIAL0_F204.jpg,wAH0z3cIAL0,-0.0140,"a person smoking a cigarette, cigarette clearly visible",682.5,0.2202
+597,PREVENTIVE_RTc5NgyiGTs_F123.jpg,RTc5NgyiGTs,-0.0140,"a can of beer, clearly visible",949.3,0.2169
+598,PREVENTIVE_wAH0z3cIAL0_F009.jpg,wAH0z3cIAL0,-0.0140,"a vape or e-cigarette device, clearly visible",569.6,0.2348
+599,PREVENTIVE_RTc5NgyiGTs_F022.jpg,RTc5NgyiGTs,-0.0141,"a cigar being smoked, clearly visible",840.4,0.2246
+600,PREVENTIVE_IHR158IF6YU_F002.jpg,IHR158IF6YU,-0.0141,a hookah pipe,1045.1,0.2098
+601,PREVENTIVE_wAH0z3cIAL0_F411.jpg,wAH0z3cIAL0,-0.0142,a hookah pipe,730.5,0.2261
+602,PREVENTIVE_qNBCiDWjtEA_F085.jpg,qNBCiDWjtEA,-0.0142,"tobacco leaves or raw tobacco, clearly visible",2109.2,0.2348
+603,PREVENTIVE_IHR158IF6YU_F022.jpg,IHR158IF6YU,-0.0145,"a person smoking a cigarette, cigarette clearly visible",458.9,0.2188
+604,PREVENTIVE_LVKLxfNguLw_F020.jpg,LVKLxfNguLw,-0.0145,"a person smoking a cigarette, cigarette clearly visible",148.5,0.2343
+605,PREVENTIVE_wAH0z3cIAL0_F672.jpg,wAH0z3cIAL0,-0.0145,"workers manufacturing cigarettes or pan masala in a factory, product visible",379.0,0.2285
+606,PREVENTIVE_7M7oRkAaujg_F011.jpg,7M7oRkAaujg,-0.0145,"a cigar being smoked, clearly visible",347.5,0.2317
+607,PREVENTIVE_LVKLxfNguLw_F030.jpg,LVKLxfNguLw,-0.0146,"a person smoking a cigarette, cigarette clearly visible",167.9,0.2404
+608,PREVENTIVE_wAH0z3cIAL0_F856.jpg,wAH0z3cIAL0,-0.0146,"a cigar being smoked, clearly visible",555.6,0.2235
+609,PREVENTIVE_LVKLxfNguLw_F041.jpg,LVKLxfNguLw,-0.0146,"a person smoking a cigarette, cigarette clearly visible",261.9,0.2157
+610,PREVENTIVE_V_fSL4xlEdo_F017.jpg,V_fSL4xlEdo,-0.0146,"a vape or e-cigarette device, clearly visible",355.1,0.2220
+611,PREVENTIVE_qNBCiDWjtEA_F691.jpg,qNBCiDWjtEA,-0.0148,"a person smoking a cigarette, cigarette clearly visible",378.7,0.2399
+612,PREVENTIVE_RTc5NgyiGTs_F081.jpg,RTc5NgyiGTs,-0.0148,a pouch or sachet of gutka or pan masala with visible branding,528.9,0.2471
+613,PREVENTIVE_RTc5NgyiGTs_F127.jpg,RTc5NgyiGTs,-0.0148,"a can of beer, clearly visible",721.1,0.2314
+614,PREVENTIVE_V_fSL4xlEdo_F012.jpg,V_fSL4xlEdo,-0.0148,"a person smoking a cigarette, cigarette clearly visible",439.8,0.2229
+615,PREVENTIVE_T7P-MgQLIPw_F052.jpg,T7P-MgQLIPw,-0.0149,"workers manufacturing cigarettes or pan masala in a factory, product visible",476.5,0.2106
+616,PREVENTIVE_D4hCpB5nAx0_F043.jpg,D4hCpB5nAx0,-0.0149,"a cigar being smoked, clearly visible",112.6,0.2270
+617,PREVENTIVE_wAH0z3cIAL0_F221.jpg,wAH0z3cIAL0,-0.0149,a hookah pipe,176.9,0.2155
+618,PREVENTIVE_wAH0z3cIAL0_F634.jpg,wAH0z3cIAL0,-0.0150,"a vape or e-cigarette device, clearly visible",810.5,0.2420
+619,PREVENTIVE_IHR158IF6YU_F050.jpg,IHR158IF6YU,-0.0150,"a person smoking a cigarette, cigarette clearly visible",185.0,0.2005
+620,PREVENTIVE_qNBCiDWjtEA_F732.jpg,qNBCiDWjtEA,-0.0150,"a person smoking a cigarette, cigarette clearly visible",388.0,0.2345
+621,PREVENTIVE_wAH0z3cIAL0_F275.jpg,wAH0z3cIAL0,-0.0150,"a person smoking a cigarette, cigarette clearly visible",190.1,0.2512
+622,PREVENTIVE_wAH0z3cIAL0_F728.jpg,wAH0z3cIAL0,-0.0151,"a person smoking a cigarette, cigarette clearly visible",2384.1,0.2181
+623,PREVENTIVE_wAH0z3cIAL0_F260.jpg,wAH0z3cIAL0,-0.0153,"a person smoking a cigarette, cigarette clearly visible",227.0,0.2244
+624,PREVENTIVE_IHR158IF6YU_F035.jpg,IHR158IF6YU,-0.0154,"a person smoking a cigarette, cigarette clearly visible",139.1,0.2105
+625,PREVENTIVE_wAH0z3cIAL0_F304.jpg,wAH0z3cIAL0,-0.0154,"a person smoking a cigarette, cigarette clearly visible",2018.5,0.2373
+626,PREVENTIVE_T7P-MgQLIPw_F017.jpg,T7P-MgQLIPw,-0.0154,a pouch or sachet of gutka or pan masala with visible branding,860.5,0.2035
+627,PREVENTIVE_NSbzJ63aYT4_F016.jpg,NSbzJ63aYT4,-0.0154,a pouch or sachet of gutka or pan masala with visible branding,733.2,0.2157
+628,PREVENTIVE_wAH0z3cIAL0_F445.jpg,wAH0z3cIAL0,-0.0156,"a cigar being smoked, clearly visible",195.8,0.2730
+629,PREVENTIVE_wAH0z3cIAL0_F628.jpg,wAH0z3cIAL0,-0.0157,"a person smoking a cigarette, cigarette clearly visible",769.5,0.2168
+630,PREVENTIVE_V_fSL4xlEdo_F025.jpg,V_fSL4xlEdo,-0.0157,"a person smoking a cigarette, cigarette clearly visible",605.8,0.2205
+631,PREVENTIVE_7M7oRkAaujg_F009.jpg,7M7oRkAaujg,-0.0157,"workers manufacturing cigarettes or pan masala in a factory, product visible",117.4,0.2166
+632,PREVENTIVE_RTc5NgyiGTs_F054.jpg,RTc5NgyiGTs,-0.0158,"workers manufacturing cigarettes or pan masala in a factory, product visible",479.1,0.2240
+633,PREVENTIVE_wAH0z3cIAL0_F273.jpg,wAH0z3cIAL0,-0.0158,"a person smoking a cigarette, cigarette clearly visible",308.5,0.2124
+634,PREVENTIVE_T7P-MgQLIPw_F038.jpg,T7P-MgQLIPw,-0.0158,"a vape or e-cigarette device, clearly visible",387.5,0.2361
+635,PREVENTIVE_wAH0z3cIAL0_F414.jpg,wAH0z3cIAL0,-0.0159,a hookah pipe,621.1,0.2119
+636,PREVENTIVE_qNBCiDWjtEA_F746.jpg,qNBCiDWjtEA,-0.0159,"a vape or e-cigarette device, clearly visible",1128.7,0.2130
+637,PREVENTIVE_qNBCiDWjtEA_F165.jpg,qNBCiDWjtEA,-0.0159,"a person smoking a cigarette, cigarette clearly visible",383.0,0.2283
+638,PREVENTIVE_ZDTWVDRbgQc_F010.jpg,ZDTWVDRbgQc,-0.0159,"a vape or e-cigarette device, clearly visible",625.5,0.1905
+639,PREVENTIVE_ZDTWVDRbgQc_F047.jpg,ZDTWVDRbgQc,-0.0160,a photo of a cigarette pack,1087.9,0.2076
+640,PREVENTIVE_wAH0z3cIAL0_F130.jpg,wAH0z3cIAL0,-0.0161,a pouch or sachet of gutka or pan masala with visible branding,1669.6,0.2209
+641,PREVENTIVE_wAH0z3cIAL0_F008.jpg,wAH0z3cIAL0,-0.0162,"a vape or e-cigarette device, clearly visible",559.2,0.2335
+642,PREVENTIVE_7M7oRkAaujg_F004.jpg,7M7oRkAaujg,-0.0162,"a cigar being smoked, clearly visible",155.5,0.2264
+643,PREVENTIVE_T7P-MgQLIPw_F005.jpg,T7P-MgQLIPw,-0.0162,a pouch or sachet of gutka or pan masala with visible branding,829.7,0.2175
+644,PREVENTIVE_LVKLxfNguLw_F042.jpg,LVKLxfNguLw,-0.0162,"a can of beer, clearly visible",205.4,0.2077
+645,PREVENTIVE_IHR158IF6YU_F029.jpg,IHR158IF6YU,-0.0163,"a can of beer, clearly visible",456.0,0.2036
+646,PREVENTIVE_qNBCiDWjtEA_F071.jpg,qNBCiDWjtEA,-0.0165,"tobacco leaves or raw tobacco, clearly visible",1044.1,0.2265
+647,PREVENTIVE_RTc5NgyiGTs_F023.jpg,RTc5NgyiGTs,-0.0165,"a cigar being smoked, clearly visible",712.4,0.2131
+648,PREVENTIVE_wAH0z3cIAL0_F594.jpg,wAH0z3cIAL0,-0.0166,"a glass of beer or wine, clearly visible",388.7,0.2201
+649,PREVENTIVE_wAH0z3cIAL0_F502.jpg,wAH0z3cIAL0,-0.0167,"a person smoking a cigarette, cigarette clearly visible",1972.6,0.2205
+650,PREVENTIVE_SC-3td5-pdY_F009.jpg,SC-3td5-pdY,-0.0168,"a person smoking a cigarette, cigarette clearly visible",672.7,0.2302
+651,PREVENTIVE_RTc5NgyiGTs_F047.jpg,RTc5NgyiGTs,-0.0168,"a cigar being smoked, clearly visible",144.9,0.2324
+652,PREVENTIVE_wAH0z3cIAL0_F933.jpg,wAH0z3cIAL0,-0.0170,"a person smoking a cigarette, cigarette clearly visible",1769.2,0.2047
+653,PREVENTIVE_uWimehBOIHM_F019.jpg,uWimehBOIHM,-0.0172,"workers manufacturing cigarettes or pan masala in a factory, product visible",538.7,0.2146
+654,PREVENTIVE_ZDTWVDRbgQc_F019.jpg,ZDTWVDRbgQc,-0.0172,"a person smoking a cigarette, cigarette clearly visible",712.5,0.2358
+655,PREVENTIVE_V_fSL4xlEdo_F042.jpg,V_fSL4xlEdo,-0.0172,"a vape or e-cigarette device, clearly visible",559.7,0.2374
+656,PREVENTIVE_T7P-MgQLIPw_F011.jpg,T7P-MgQLIPw,-0.0173,"a person smoking a cigarette, cigarette clearly visible",485.0,0.2370
+657,PREVENTIVE_LVKLxfNguLw_F028.jpg,LVKLxfNguLw,-0.0173,"a can of beer, clearly visible",251.5,0.2295
+658,PREVENTIVE_ZDTWVDRbgQc_F048.jpg,ZDTWVDRbgQc,-0.0174,a pouch or sachet of gutka or pan masala with visible branding,1071.3,0.2124
+659,PREVENTIVE_qNBCiDWjtEA_F338.jpg,qNBCiDWjtEA,-0.0174,"a person smoking a cigarette, cigarette clearly visible",357.5,0.2434
+660,PREVENTIVE_NSbzJ63aYT4_F011.jpg,NSbzJ63aYT4,-0.0175,"a vape or e-cigarette device, clearly visible",269.9,0.2278
+661,PREVENTIVE_NSbzJ63aYT4_F009.jpg,NSbzJ63aYT4,-0.0176,"workers manufacturing cigarettes or pan masala in a factory, product visible",278.1,0.2144
+662,PREVENTIVE_wAH0z3cIAL0_F601.jpg,wAH0z3cIAL0,-0.0177,"a glass of beer or wine, clearly visible",402.4,0.2029
+663,PREVENTIVE_V_fSL4xlEdo_F009.jpg,V_fSL4xlEdo,-0.0177,"a person smoking a cigarette, cigarette clearly visible",537.7,0.2306
+664,PREVENTIVE_wAH0z3cIAL0_F325.jpg,wAH0z3cIAL0,-0.0178,"a person smoking a cigarette, cigarette clearly visible",1360.8,0.2132
+665,PREVENTIVE_ZDTWVDRbgQc_F014.jpg,ZDTWVDRbgQc,-0.0178,"a person smoking a cigarette, cigarette clearly visible",193.4,0.1962
+666,PREVENTIVE_T7P-MgQLIPw_F019.jpg,T7P-MgQLIPw,-0.0178,"a can of beer, clearly visible",764.2,0.2106
+667,PREVENTIVE_LVKLxfNguLw_F029.jpg,LVKLxfNguLw,-0.0178,"a person smoking a cigarette, cigarette clearly visible",197.5,0.2238
+668,PREVENTIVE_qNBCiDWjtEA_F011.jpg,qNBCiDWjtEA,-0.0180,a photo of a cigarette pack,741.6,0.2000
+669,PREVENTIVE_wAH0z3cIAL0_F274.jpg,wAH0z3cIAL0,-0.0181,"a person smoking a cigarette, cigarette clearly visible",309.5,0.2054
+670,PREVENTIVE_wAH0z3cIAL0_F932.jpg,wAH0z3cIAL0,-0.0182,"a person smoking a cigarette, cigarette clearly visible",1452.4,0.1929
+671,PREVENTIVE_IHR158IF6YU_F015.jpg,IHR158IF6YU,-0.0182,a pouch or sachet of gutka or pan masala with visible branding,280.7,0.2272
+672,PREVENTIVE_wAH0z3cIAL0_F225.jpg,wAH0z3cIAL0,-0.0182,"a cigar being smoked, clearly visible",236.9,0.2122
+673,PREVENTIVE_wAH0z3cIAL0_F410.jpg,wAH0z3cIAL0,-0.0182,a hookah pipe,740.5,0.2277
+674,PREVENTIVE_LVKLxfNguLw_F046.jpg,LVKLxfNguLw,-0.0184,"a person smoking a cigarette, cigarette clearly visible",288.0,0.2222
+675,PREVENTIVE_RTc5NgyiGTs_F038.jpg,RTc5NgyiGTs,-0.0184,"a cigar being smoked, clearly visible",1461.9,0.2255
+676,PREVENTIVE_wAH0z3cIAL0_F895.jpg,wAH0z3cIAL0,-0.0184,"workers manufacturing cigarettes or pan masala in a factory, product visible",253.8,0.2141
+677,PREVENTIVE_8WQQLDuEJMc_F004.jpg,8WQQLDuEJMc,-0.0184,a photo of a cigarette pack,450.2,0.2644
+678,PREVENTIVE_V_fSL4xlEdo_F047.jpg,V_fSL4xlEdo,-0.0185,"a vape or e-cigarette device, clearly visible",423.7,0.2167
+679,PREVENTIVE_wAH0z3cIAL0_F174.jpg,wAH0z3cIAL0,-0.0186,"a person smoking a cigarette, cigarette clearly visible",773.1,0.2186
+680,PREVENTIVE_wAH0z3cIAL0_F387.jpg,wAH0z3cIAL0,-0.0186,a hookah pipe,2526.6,0.2024
+681,PREVENTIVE_IHR158IF6YU_F019.jpg,IHR158IF6YU,-0.0187,"a person smoking a cigarette, cigarette clearly visible",263.6,0.2074
+682,PREVENTIVE_T7P-MgQLIPw_F044.jpg,T7P-MgQLIPw,-0.0187,"a vape or e-cigarette device, clearly visible",1103.4,0.2217
+683,PREVENTIVE_7M7oRkAaujg_F016.jpg,7M7oRkAaujg,-0.0188,"a person smoking a cigarette, cigarette clearly visible",289.9,0.2103
+684,PREVENTIVE_IHR158IF6YU_F003.jpg,IHR158IF6YU,-0.0188,"workers manufacturing cigarettes or pan masala in a factory, product visible",919.6,0.2162
+685,PREVENTIVE_wAH0z3cIAL0_F880.jpg,wAH0z3cIAL0,-0.0189,a pouch or sachet of gutka or pan masala with visible branding,852.5,0.2090
+686,PREVENTIVE_7M7oRkAaujg_F043.jpg,7M7oRkAaujg,-0.0189,"a person smoking a cigarette, cigarette clearly visible",171.6,0.2274
+687,PREVENTIVE_wAH0z3cIAL0_F234.jpg,wAH0z3cIAL0,-0.0190,a hookah pipe,553.4,0.2048
+688,PREVENTIVE_wAH0z3cIAL0_F121.jpg,wAH0z3cIAL0,-0.0191,"workers manufacturing cigarettes or pan masala in a factory, product visible",777.7,0.2272
+689,PREVENTIVE_wAH0z3cIAL0_F420.jpg,wAH0z3cIAL0,-0.0191,"a glass of beer or wine, clearly visible",1183.4,0.2047
+690,PREVENTIVE_LVKLxfNguLw_F040.jpg,LVKLxfNguLw,-0.0192,"a can of beer, clearly visible",174.4,0.2271
+691,PREVENTIVE_RTc5NgyiGTs_F065.jpg,RTc5NgyiGTs,-0.0192,"workers manufacturing cigarettes or pan masala in a factory, product visible",648.4,0.2212
+692,PREVENTIVE_qNBCiDWjtEA_F466.jpg,qNBCiDWjtEA,-0.0192,"a vape or e-cigarette device, clearly visible",2462.3,0.2537
+693,PREVENTIVE_wAH0z3cIAL0_F991.jpg,wAH0z3cIAL0,-0.0193,"a person smoking a cigarette, cigarette clearly visible",457.5,0.2099
+694,PREVENTIVE_RTc5NgyiGTs_F077.jpg,RTc5NgyiGTs,-0.0193,"workers manufacturing cigarettes or pan masala in a factory, product visible",529.0,0.2442
+695,PREVENTIVE_V_fSL4xlEdo_F005.jpg,V_fSL4xlEdo,-0.0194,"a person smoking a cigarette, cigarette clearly visible",632.0,0.2329
+696,PREVENTIVE_wAH0z3cIAL0_F865.jpg,wAH0z3cIAL0,-0.0195,a pouch or sachet of gutka or pan masala with visible branding,1592.3,0.2277
+697,PREVENTIVE_wAH0z3cIAL0_F1030.jpg,wAH0z3cIAL0,-0.0195,"a can of beer, clearly visible",828.1,0.2225
+698,PREVENTIVE_wAH0z3cIAL0_F159.jpg,wAH0z3cIAL0,-0.0195,"workers manufacturing cigarettes or pan masala in a factory, product visible",143.2,0.2182
+699,PREVENTIVE_8WQQLDuEJMc_F014.jpg,8WQQLDuEJMc,-0.0196,a sachet of chewing tobacco with visible branding,230.9,0.2206
+700,PREVENTIVE_ZDTWVDRbgQc_F044.jpg,ZDTWVDRbgQc,-0.0197,"workers manufacturing cigarettes or pan masala in a factory, product visible",872.5,0.2033
+701,PREVENTIVE_7M7oRkAaujg_F042.jpg,7M7oRkAaujg,-0.0197,"a cigar being smoked, clearly visible",144.9,0.2341
+702,PREVENTIVE_wAH0z3cIAL0_F286.jpg,wAH0z3cIAL0,-0.0197,a photo of a cigarette pack,1257.2,0.2284
+703,PREVENTIVE_qNBCiDWjtEA_F476.jpg,qNBCiDWjtEA,-0.0198,"a vape or e-cigarette device, clearly visible",882.3,0.1850
+704,PREVENTIVE_uWimehBOIHM_F034.jpg,uWimehBOIHM,-0.0198,"a cigar being smoked, clearly visible",124.9,0.2456
+705,PREVENTIVE_wAH0z3cIAL0_F033.jpg,wAH0z3cIAL0,-0.0198,"a can of beer, clearly visible",515.1,0.2101
+706,PREVENTIVE_ZDTWVDRbgQc_F017.jpg,ZDTWVDRbgQc,-0.0200,"a person smoking a cigarette, cigarette clearly visible",644.0,0.2321
+707,PREVENTIVE_qNBCiDWjtEA_F689.jpg,qNBCiDWjtEA,-0.0200,"a vape or e-cigarette device, clearly visible",292.7,0.2227
+708,PREVENTIVE_wAH0z3cIAL0_F597.jpg,wAH0z3cIAL0,-0.0200,"a person smoking a cigarette, cigarette clearly visible",385.0,0.2146
+709,PREVENTIVE_wAH0z3cIAL0_F120.jpg,wAH0z3cIAL0,-0.0201,"a person smoking a cigarette, cigarette clearly visible",654.3,0.2252
+710,PREVENTIVE_wAH0z3cIAL0_F119.jpg,wAH0z3cIAL0,-0.0201,"a person smoking a cigarette, cigarette clearly visible",551.7,0.2282
+711,PREVENTIVE_ZDTWVDRbgQc_F022.jpg,ZDTWVDRbgQc,-0.0201,"a person smoking a cigarette, cigarette clearly visible",266.5,0.2257
+712,PREVENTIVE_T7P-MgQLIPw_F006.jpg,T7P-MgQLIPw,-0.0202,"workers manufacturing cigarettes or pan masala in a factory, product visible",945.0,0.2255
+713,PREVENTIVE_wAH0z3cIAL0_F593.jpg,wAH0z3cIAL0,-0.0202,"a person smoking a cigarette, cigarette clearly visible",389.2,0.1986
+714,PREVENTIVE_RTc5NgyiGTs_F029.jpg,RTc5NgyiGTs,-0.0203,"workers manufacturing cigarettes or pan masala in a factory, product visible",897.9,0.1976
+715,PREVENTIVE_wAH0z3cIAL0_F381.jpg,wAH0z3cIAL0,-0.0203,"a vape or e-cigarette device, clearly visible",2524.1,0.2229
+716,PREVENTIVE_LVKLxfNguLw_F043.jpg,LVKLxfNguLw,-0.0204,a hookah pipe,222.5,0.2184
+717,PREVENTIVE_LVKLxfNguLw_F065.jpg,LVKLxfNguLw,-0.0206,"a person smoking a cigarette, cigarette clearly visible",625.6,0.2251
+718,PREVENTIVE_T7P-MgQLIPw_F040.jpg,T7P-MgQLIPw,-0.0206,"a vape or e-cigarette device, clearly visible",563.2,0.2301
+719,PREVENTIVE_wAH0z3cIAL0_F006.jpg,wAH0z3cIAL0,-0.0206,"a vape or e-cigarette device, clearly visible",648.0,0.2271
+720,PREVENTIVE_wAH0z3cIAL0_F928.jpg,wAH0z3cIAL0,-0.0207,"a person smoking a cigarette, cigarette clearly visible",1693.7,0.2104
+721,PREVENTIVE_wAH0z3cIAL0_F963.jpg,wAH0z3cIAL0,-0.0207,"a person smoking a cigarette, cigarette clearly visible",1473.1,0.2203
+722,PREVENTIVE_qNBCiDWjtEA_F160.jpg,qNBCiDWjtEA,-0.0209,"a person smoking a cigarette, cigarette clearly visible",361.9,0.2141
+723,PREVENTIVE_LVKLxfNguLw_F034.jpg,LVKLxfNguLw,-0.0209,"a person smoking a cigarette, cigarette clearly visible",409.2,0.2238
+724,PREVENTIVE_RTc5NgyiGTs_F073.jpg,RTc5NgyiGTs,-0.0210,"a cigar being smoked, clearly visible",789.6,0.2360
+725,PREVENTIVE_T7P-MgQLIPw_F042.jpg,T7P-MgQLIPw,-0.0211,"a vape or e-cigarette device, clearly visible",446.0,0.2270
+726,PREVENTIVE_wAH0z3cIAL0_F276.jpg,wAH0z3cIAL0,-0.0211,"a person smoking a cigarette, cigarette clearly visible",166.7,0.2549
+727,PREVENTIVE_RTc5NgyiGTs_F003.jpg,RTc5NgyiGTs,-0.0211,"workers manufacturing cigarettes or pan masala in a factory, product visible",2660.3,0.2284
+728,PREVENTIVE_wAH0z3cIAL0_F417.jpg,wAH0z3cIAL0,-0.0212,"a person smoking a cigarette, cigarette clearly visible",944.6,0.1998
+729,PREVENTIVE_LVKLxfNguLw_F076.jpg,LVKLxfNguLw,-0.0213,"a person smoking a cigarette, cigarette clearly visible",140.6,0.2203
+730,PREVENTIVE_RTc5NgyiGTs_F119.jpg,RTc5NgyiGTs,-0.0213,a pouch or sachet of gutka or pan masala with visible branding,1022.7,0.2017
+731,PREVENTIVE_RTc5NgyiGTs_F056.jpg,RTc5NgyiGTs,-0.0214,"workers manufacturing cigarettes or pan masala in a factory, product visible",357.4,0.2456
+732,PREVENTIVE_xM2Qcp4ke9k_F009.jpg,xM2Qcp4ke9k,-0.0215,"a person smoking a cigarette, cigarette clearly visible",102.5,0.2129
+733,PREVENTIVE_wAH0z3cIAL0_F018.jpg,wAH0z3cIAL0,-0.0215,"a person smoking a cigarette, cigarette clearly visible",842.4,0.2182
+734,PREVENTIVE_wAH0z3cIAL0_F875.jpg,wAH0z3cIAL0,-0.0217,a pouch or sachet of gutka or pan masala with visible branding,1191.1,0.2004
+735,PREVENTIVE_wAH0z3cIAL0_F573.jpg,wAH0z3cIAL0,-0.0217,"a person smoking a cigarette, cigarette clearly visible",672.5,0.2210
+736,PREVENTIVE_T7P-MgQLIPw_F046.jpg,T7P-MgQLIPw,-0.0218,"a vape or e-cigarette device, clearly visible",1087.2,0.2161
+737,PREVENTIVE_7M7oRkAaujg_F015.jpg,7M7oRkAaujg,-0.0218,"a person smoking a cigarette, cigarette clearly visible",442.9,0.2272
+738,PREVENTIVE_T7P-MgQLIPw_F018.jpg,T7P-MgQLIPw,-0.0219,a pouch or sachet of gutka or pan masala with visible branding,769.9,0.2114
+739,PREVENTIVE_RTc5NgyiGTs_F107.jpg,RTc5NgyiGTs,-0.0220,"tobacco leaves or raw tobacco, clearly visible",1127.0,0.2165
+740,PREVENTIVE_wAH0z3cIAL0_F053.jpg,wAH0z3cIAL0,-0.0221,"a cigar being smoked, clearly visible",118.5,0.2271
+741,PREVENTIVE_V_fSL4xlEdo_F045.jpg,V_fSL4xlEdo,-0.0221,a hookah pipe,508.4,0.2188
+742,PREVENTIVE_wAH0z3cIAL0_F405.jpg,wAH0z3cIAL0,-0.0222,a hookah pipe,716.5,0.2130
+743,PREVENTIVE_qNBCiDWjtEA_F757.jpg,qNBCiDWjtEA,-0.0223,"a can of beer, clearly visible",296.3,0.1893
+744,PREVENTIVE_wAH0z3cIAL0_F291.jpg,wAH0z3cIAL0,-0.0223,a photo of a cigarette pack,1106.9,0.2041
+745,PREVENTIVE_wAH0z3cIAL0_F295.jpg,wAH0z3cIAL0,-0.0225,"a person smoking a cigarette, cigarette clearly visible",1311.2,0.2250
+746,PREVENTIVE_V_fSL4xlEdo_F023.jpg,V_fSL4xlEdo,-0.0225,a pouch or sachet of gutka or pan masala with visible branding,611.5,0.1974
+747,PREVENTIVE_wAH0z3cIAL0_F879.jpg,wAH0z3cIAL0,-0.0226,a pouch or sachet of gutka or pan masala with visible branding,834.1,0.2072
+748,PREVENTIVE_NSbzJ63aYT4_F017.jpg,NSbzJ63aYT4,-0.0226,a pouch or sachet of gutka or pan masala with visible branding,674.8,0.2049
+749,PREVENTIVE_wAH0z3cIAL0_F631.jpg,wAH0z3cIAL0,-0.0227,"a cigar being smoked, clearly visible",702.0,0.2319
+750,PREVENTIVE_wAH0z3cIAL0_F294.jpg,wAH0z3cIAL0,-0.0227,"a person smoking a cigarette, cigarette clearly visible",1377.9,0.2223
+751,PREVENTIVE_wAH0z3cIAL0_F894.jpg,wAH0z3cIAL0,-0.0227,"a cigar being smoked, clearly visible",179.3,0.2270
+752,PREVENTIVE_LVKLxfNguLw_F038.jpg,LVKLxfNguLw,-0.0227,"a person smoking a cigarette, cigarette clearly visible",219.1,0.2366
+753,PREVENTIVE_NSbzJ63aYT4_F023.jpg,NSbzJ63aYT4,-0.0228,"a vape or e-cigarette device, clearly visible",116.5,0.2107
+754,PREVENTIVE_wAH0z3cIAL0_F622.jpg,wAH0z3cIAL0,-0.0228,"a vape or e-cigarette device, clearly visible",1237.2,0.2322
+755,PREVENTIVE_wAH0z3cIAL0_F857.jpg,wAH0z3cIAL0,-0.0228,a pouch or sachet of gutka or pan masala with visible branding,875.5,0.2294
+756,PREVENTIVE_l8K_f4DVvVc_F023.jpg,l8K_f4DVvVc,-0.0228,"workers manufacturing cigarettes or pan masala in a factory, product visible",239.3,0.2311
+757,PREVENTIVE_RTc5NgyiGTs_F110.jpg,RTc5NgyiGTs,-0.0228,"a can of beer, clearly visible",684.7,0.2188
+758,PREVENTIVE_wAH0z3cIAL0_F418.jpg,wAH0z3cIAL0,-0.0229,"a person smoking a cigarette, cigarette clearly visible",1132.0,0.2017
+759,PREVENTIVE_wAH0z3cIAL0_F619.jpg,wAH0z3cIAL0,-0.0229,"workers manufacturing cigarettes or pan masala in a factory, product visible",1011.5,0.2134
+760,PREVENTIVE_LVKLxfNguLw_F110.jpg,LVKLxfNguLw,-0.0230,"a vape or e-cigarette device, clearly visible",1715.8,0.2105
+761,PREVENTIVE_ZDTWVDRbgQc_F021.jpg,ZDTWVDRbgQc,-0.0230,"a person smoking a cigarette, cigarette clearly visible",245.0,0.2151
+762,PREVENTIVE_wAH0z3cIAL0_F720.jpg,wAH0z3cIAL0,-0.0231,"a person smoking a cigarette, cigarette clearly visible",1025.7,0.2238
+763,PREVENTIVE_T7P-MgQLIPw_F047.jpg,T7P-MgQLIPw,-0.0231,"a vape or e-cigarette device, clearly visible",1399.5,0.1956
+764,PREVENTIVE_uWimehBOIHM_F015.jpg,uWimehBOIHM,-0.0231,"a cigar being smoked, clearly visible",157.6,0.2068
+765,PREVENTIVE_qNBCiDWjtEA_F481.jpg,qNBCiDWjtEA,-0.0231,"a person smoking a cigarette, cigarette clearly visible",957.8,0.1833
+766,PREVENTIVE_T7P-MgQLIPw_F008.jpg,T7P-MgQLIPw,-0.0232,"a vape or e-cigarette device, clearly visible",898.5,0.2194
+767,PREVENTIVE_T7P-MgQLIPw_F015.jpg,T7P-MgQLIPw,-0.0234,a hookah pipe,780.7,0.1940
+768,PREVENTIVE_ZDTWVDRbgQc_F007.jpg,ZDTWVDRbgQc,-0.0235,"a vape or e-cigarette device, clearly visible",1234.8,0.1909
+769,PREVENTIVE_wAH0z3cIAL0_F319.jpg,wAH0z3cIAL0,-0.0235,"a person smoking a cigarette, cigarette clearly visible",1686.5,0.2138
+770,PREVENTIVE_wAH0z3cIAL0_F635.jpg,wAH0z3cIAL0,-0.0236,"a person smoking a cigarette, cigarette clearly visible",751.6,0.2163
+771,PREVENTIVE_wAH0z3cIAL0_F413.jpg,wAH0z3cIAL0,-0.0236,"a person smoking a cigarette, cigarette clearly visible",656.1,0.2121
+772,PREVENTIVE_wAH0z3cIAL0_F929.jpg,wAH0z3cIAL0,-0.0236,"a person smoking a cigarette, cigarette clearly visible",1602.2,0.2091
+773,PREVENTIVE_wAH0z3cIAL0_F827.jpg,wAH0z3cIAL0,-0.0237,"a person smoking a cigarette, cigarette clearly visible",945.9,0.2312
+774,PREVENTIVE_wAH0z3cIAL0_F838.jpg,wAH0z3cIAL0,-0.0238,"a person smoking a cigarette, cigarette clearly visible",1392.7,0.2228
+775,PREVENTIVE_wAH0z3cIAL0_F003.jpg,wAH0z3cIAL0,-0.0239,"a can of beer, clearly visible",127.1,0.2057
+776,PREVENTIVE_SC-3td5-pdY_F005.jpg,SC-3td5-pdY,-0.0239,"a person smoking a cigarette, cigarette clearly visible",790.8,0.2311
+777,PREVENTIVE_wAH0z3cIAL0_F790.jpg,wAH0z3cIAL0,-0.0240,"a person smoking a cigarette, cigarette clearly visible",1641.1,0.2070
+778,PREVENTIVE_RTc5NgyiGTs_F031.jpg,RTc5NgyiGTs,-0.0240,"a can of beer, clearly visible",1100.7,0.2104
+779,PREVENTIVE_LVKLxfNguLw_F083.jpg,LVKLxfNguLw,-0.0240,a photo of a cigarette pack,855.4,0.2214
+780,PREVENTIVE_LVKLxfNguLw_F044.jpg,LVKLxfNguLw,-0.0240,"a person smoking a cigarette, cigarette clearly visible",255.7,0.2064
+781,PREVENTIVE_qNBCiDWjtEA_F457.jpg,qNBCiDWjtEA,-0.0241,"a vape or e-cigarette device, clearly visible",2623.2,0.2261
+782,PREVENTIVE_T7P-MgQLIPw_F013.jpg,T7P-MgQLIPw,-0.0241,"a person smoking a cigarette, cigarette clearly visible",808.1,0.2368
+783,PREVENTIVE_eH1T8s00F4s_F032.jpg,eH1T8s00F4s,-0.0241,a pouch or sachet of gutka or pan masala with visible branding,178.4,0.2178
+784,PREVENTIVE_qNBCiDWjtEA_F080.jpg,qNBCiDWjtEA,-0.0242,"a vape or e-cigarette device, clearly visible",428.8,0.2108
+785,PREVENTIVE_wAH0z3cIAL0_F123.jpg,wAH0z3cIAL0,-0.0242,"workers manufacturing cigarettes or pan masala in a factory, product visible",839.7,0.2187
+786,PREVENTIVE_wAH0z3cIAL0_F415.jpg,wAH0z3cIAL0,-0.0243,"a person smoking a cigarette, cigarette clearly visible",687.5,0.2065
+787,PREVENTIVE_uWimehBOIHM_F017.jpg,uWimehBOIHM,-0.0243,"workers manufacturing cigarettes or pan masala in a factory, product visible",1454.6,0.2188
+788,PREVENTIVE_wAH0z3cIAL0_F427.jpg,wAH0z3cIAL0,-0.0243,a hookah pipe,1800.2,0.2131
+789,PREVENTIVE_qNBCiDWjtEA_F260.jpg,qNBCiDWjtEA,-0.0244,"a person smoking a cigarette, cigarette clearly visible",676.4,0.1856
+790,PREVENTIVE_ZDTWVDRbgQc_F008.jpg,ZDTWVDRbgQc,-0.0244,"a vape or e-cigarette device, clearly visible",1278.6,0.1947
+791,PREVENTIVE_wAH0z3cIAL0_F1046.jpg,wAH0z3cIAL0,-0.0246,"a can of beer, clearly visible",244.5,0.2165
+792,PREVENTIVE_wAH0z3cIAL0_F331.jpg,wAH0z3cIAL0,-0.0247,"a person smoking a cigarette, cigarette clearly visible",1353.2,0.2096
+793,PREVENTIVE_wAH0z3cIAL0_F1036.jpg,wAH0z3cIAL0,-0.0247,a sachet of chewing tobacco with visible branding,1626.8,0.2069
+794,PREVENTIVE_wAH0z3cIAL0_F625.jpg,wAH0z3cIAL0,-0.0247,"a vape or e-cigarette device, clearly visible",1233.9,0.2245
+795,PREVENTIVE_T7P-MgQLIPw_F016.jpg,T7P-MgQLIPw,-0.0248,"a vape or e-cigarette device, clearly visible",860.0,0.2118
+796,PREVENTIVE_qNBCiDWjtEA_F540.jpg,qNBCiDWjtEA,-0.0248,"a person smoking a cigarette, cigarette clearly visible",690.4,0.2252
+797,PREVENTIVE_qNBCiDWjtEA_F690.jpg,qNBCiDWjtEA,-0.0248,"a person smoking a cigarette, cigarette clearly visible",155.9,0.2332
+798,PREVENTIVE_wAH0z3cIAL0_F293.jpg,wAH0z3cIAL0,-0.0249,a photo of a cigarette pack,1102.0,0.2059
+799,PREVENTIVE_wAH0z3cIAL0_F163.jpg,wAH0z3cIAL0,-0.0250,"a person smoking a cigarette, cigarette clearly visible",117.1,0.2311
+800,PREVENTIVE_LVKLxfNguLw_F075.jpg,LVKLxfNguLw,-0.0250,"a person smoking a cigarette, cigarette clearly visible",142.1,0.2056
+801,PREVENTIVE_wAH0z3cIAL0_F876.jpg,wAH0z3cIAL0,-0.0250,"a can of beer, clearly visible",1278.3,0.2017
+802,PREVENTIVE_RTc5NgyiGTs_F005.jpg,RTc5NgyiGTs,-0.0251,"workers manufacturing cigarettes or pan masala in a factory, product visible",2723.8,0.2249
+803,PREVENTIVE_LVKLxfNguLw_F031.jpg,LVKLxfNguLw,-0.0251,"a person smoking a cigarette, cigarette clearly visible",182.1,0.2379
+804,PREVENTIVE_wAH0z3cIAL0_F224.jpg,wAH0z3cIAL0,-0.0251,"a person smoking a cigarette, cigarette clearly visible",250.2,0.2019
+805,PREVENTIVE_wAH0z3cIAL0_F380.jpg,wAH0z3cIAL0,-0.0251,"a vape or e-cigarette device, clearly visible",2431.8,0.2057
+806,PREVENTIVE_xM2Qcp4ke9k_F030.jpg,xM2Qcp4ke9k,-0.0252,a pouch or sachet of gutka or pan masala with visible branding,1246.2,0.2232
+807,PREVENTIVE_V_fSL4xlEdo_F041.jpg,V_fSL4xlEdo,-0.0252,"a can of beer, clearly visible",344.1,0.2100
+808,PREVENTIVE_wAH0z3cIAL0_F567.jpg,wAH0z3cIAL0,-0.0253,"a person smoking a cigarette, cigarette clearly visible",557.3,0.2259
+809,PREVENTIVE_V_fSL4xlEdo_F055.jpg,V_fSL4xlEdo,-0.0253,"a person smoking a cigarette, cigarette clearly visible",105.5,0.1990
+810,PREVENTIVE_wAH0z3cIAL0_F297.jpg,wAH0z3cIAL0,-0.0253,"a person smoking a cigarette, cigarette clearly visible",2016.3,0.2177
+811,PREVENTIVE_8WQQLDuEJMc_F013.jpg,8WQQLDuEJMc,-0.0254,"a cigar being smoked, clearly visible",253.3,0.2169
+812,PREVENTIVE_T7P-MgQLIPw_F014.jpg,T7P-MgQLIPw,-0.0254,"a person smoking a cigarette, cigarette clearly visible",819.7,0.2209
+813,PREVENTIVE_LVKLxfNguLw_F087.jpg,LVKLxfNguLw,-0.0254,"a person smoking a cigarette, cigarette clearly visible",382.5,0.2383
+814,PREVENTIVE_LVKLxfNguLw_F080.jpg,LVKLxfNguLw,-0.0254,a photo of a cigarette pack,791.2,0.2248
+815,PREVENTIVE_wAH0z3cIAL0_F627.jpg,wAH0z3cIAL0,-0.0254,"workers manufacturing cigarettes or pan masala in a factory, product visible",757.9,0.2135
+816,PREVENTIVE_wAH0z3cIAL0_F290.jpg,wAH0z3cIAL0,-0.0255,"a vape or e-cigarette device, clearly visible",1220.5,0.1960
+817,PREVENTIVE_ZDTWVDRbgQc_F011.jpg,ZDTWVDRbgQc,-0.0255,a pouch or sachet of gutka or pan masala with visible branding,483.4,0.2243
+818,PREVENTIVE_wAH0z3cIAL0_F626.jpg,wAH0z3cIAL0,-0.0256,"a vape or e-cigarette device, clearly visible",814.1,0.2130
+819,PREVENTIVE_wAH0z3cIAL0_F621.jpg,wAH0z3cIAL0,-0.0256,"a person smoking a cigarette, cigarette clearly visible",1138.2,0.2115
+820,PREVENTIVE_ZDTWVDRbgQc_F024.jpg,ZDTWVDRbgQc,-0.0256,"workers manufacturing cigarettes or pan masala in a factory, product visible",984.5,0.2129
+821,PREVENTIVE_LVKLxfNguLw_F039.jpg,LVKLxfNguLw,-0.0256,"a person smoking a cigarette, cigarette clearly visible",250.0,0.2436
+822,PREVENTIVE_V_fSL4xlEdo_F051.jpg,V_fSL4xlEdo,-0.0256,"a person smoking a cigarette, cigarette clearly visible",534.9,0.1768
+823,PREVENTIVE_wAH0z3cIAL0_F327.jpg,wAH0z3cIAL0,-0.0258,"a person smoking a cigarette, cigarette clearly visible",1339.7,0.2160
+824,PREVENTIVE_uWimehBOIHM_F018.jpg,uWimehBOIHM,-0.0259,"workers manufacturing cigarettes or pan masala in a factory, product visible",1404.6,0.2254
+825,PREVENTIVE_wAH0z3cIAL0_F348.jpg,wAH0z3cIAL0,-0.0260,"a person smoking a cigarette, cigarette clearly visible",1091.8,0.2044
+826,PREVENTIVE_wAH0z3cIAL0_F677.jpg,wAH0z3cIAL0,-0.0261,"workers manufacturing cigarettes or pan masala in a factory, product visible",278.3,0.2246
+827,PREVENTIVE_wAH0z3cIAL0_F574.jpg,wAH0z3cIAL0,-0.0261,"a person smoking a cigarette, cigarette clearly visible",662.7,0.2146
+828,PREVENTIVE_wAH0z3cIAL0_F480.jpg,wAH0z3cIAL0,-0.0262,"workers manufacturing cigarettes or pan masala in a factory, product visible",2030.0,0.2324
+829,PREVENTIVE_wAH0z3cIAL0_F724.jpg,wAH0z3cIAL0,-0.0262,"a vape or e-cigarette device, clearly visible",273.4,0.2391
+830,PREVENTIVE_wAH0z3cIAL0_F244.jpg,wAH0z3cIAL0,-0.0262,"a person smoking a cigarette, cigarette clearly visible",1614.5,0.2062
+831,PREVENTIVE_IHR158IF6YU_F004.jpg,IHR158IF6YU,-0.0262,"workers manufacturing cigarettes or pan masala in a factory, product visible",573.9,0.1957
+832,PREVENTIVE_V_fSL4xlEdo_F052.jpg,V_fSL4xlEdo,-0.0262,"workers manufacturing cigarettes or pan masala in a factory, product visible",868.9,0.2006
+833,PREVENTIVE_T7P-MgQLIPw_F045.jpg,T7P-MgQLIPw,-0.0264,"a vape or e-cigarette device, clearly visible",1087.0,0.2112
+834,PREVENTIVE_qNBCiDWjtEA_F462.jpg,qNBCiDWjtEA,-0.0264,"a vape or e-cigarette device, clearly visible",2876.9,0.2293
+835,PREVENTIVE_wAH0z3cIAL0_F761.jpg,wAH0z3cIAL0,-0.0264,"a person smoking a cigarette, cigarette clearly visible",676.9,0.2272
+836,PREVENTIVE_wAH0z3cIAL0_F798.jpg,wAH0z3cIAL0,-0.0264,"a person smoking a cigarette, cigarette clearly visible",1814.2,0.1994
+837,PREVENTIVE_wAH0z3cIAL0_F538.jpg,wAH0z3cIAL0,-0.0264,"a can of beer, clearly visible",1867.6,0.2044
+838,PREVENTIVE_wAH0z3cIAL0_F005.jpg,wAH0z3cIAL0,-0.0266,"workers manufacturing cigarettes or pan masala in a factory, product visible",210.1,0.2194
+839,PREVENTIVE_qNBCiDWjtEA_F459.jpg,qNBCiDWjtEA,-0.0266,"a vape or e-cigarette device, clearly visible",2474.0,0.2143
+840,PREVENTIVE_wAH0z3cIAL0_F972.jpg,wAH0z3cIAL0,-0.0266,"a person smoking a cigarette, cigarette clearly visible",435.9,0.2073
+841,PREVENTIVE_wAH0z3cIAL0_F595.jpg,wAH0z3cIAL0,-0.0267,"a person smoking a cigarette, cigarette clearly visible",395.9,0.2071
+842,PREVENTIVE_wAH0z3cIAL0_F822.jpg,wAH0z3cIAL0,-0.0268,"a glass of beer or wine, clearly visible",1136.7,0.2143
+843,PREVENTIVE_wAH0z3cIAL0_F891.jpg,wAH0z3cIAL0,-0.0269,"a cigar being smoked, clearly visible",211.1,0.2104
+844,PREVENTIVE_RTc5NgyiGTs_F118.jpg,RTc5NgyiGTs,-0.0270,"a can of beer, clearly visible",980.3,0.2142
+845,PREVENTIVE_ZDTWVDRbgQc_F025.jpg,ZDTWVDRbgQc,-0.0270,"workers manufacturing cigarettes or pan masala in a factory, product visible",940.5,0.2271
+846,PREVENTIVE_RTc5NgyiGTs_F053.jpg,RTc5NgyiGTs,-0.0271,"workers manufacturing cigarettes or pan masala in a factory, product visible",472.8,0.2126
+847,PREVENTIVE_wAH0z3cIAL0_F866.jpg,wAH0z3cIAL0,-0.0271,a pouch or sachet of gutka or pan masala with visible branding,820.3,0.2290
+848,PREVENTIVE_uWimehBOIHM_F046.jpg,uWimehBOIHM,-0.0272,a pouch or sachet of gutka or pan masala with visible branding,226.4,0.1980
+849,PREVENTIVE_wAH0z3cIAL0_F596.jpg,wAH0z3cIAL0,-0.0272,"a person smoking a cigarette, cigarette clearly visible",385.5,0.2098
+850,PREVENTIVE_uWimehBOIHM_F026.jpg,uWimehBOIHM,-0.0273,"a person smoking a cigarette, cigarette clearly visible",493.5,0.2269
+851,PREVENTIVE_wAH0z3cIAL0_F1032.jpg,wAH0z3cIAL0,-0.0275,a sachet of chewing tobacco with visible branding,1613.9,0.1994
+852,PREVENTIVE_LVKLxfNguLw_F064.jpg,LVKLxfNguLw,-0.0275,"a person smoking a cigarette, cigarette clearly visible",623.6,0.2160
+853,PREVENTIVE_LVKLxfNguLw_F027.jpg,LVKLxfNguLw,-0.0276,"a person smoking a cigarette, cigarette clearly visible",167.3,0.2166
+854,PREVENTIVE_wAH0z3cIAL0_F409.jpg,wAH0z3cIAL0,-0.0277,"a vape or e-cigarette device, clearly visible",739.4,0.2134
+855,PREVENTIVE_wAH0z3cIAL0_F564.jpg,wAH0z3cIAL0,-0.0277,"a person smoking a cigarette, cigarette clearly visible",546.9,0.2253
+856,PREVENTIVE_RTc5NgyiGTs_F180.jpg,RTc5NgyiGTs,-0.0278,"a can of beer, clearly visible",171.1,0.2262
+857,PREVENTIVE_wAH0z3cIAL0_F893.jpg,wAH0z3cIAL0,-0.0279,"tobacco leaves or raw tobacco, clearly visible",122.1,0.2207
+858,PREVENTIVE_V_fSL4xlEdo_F040.jpg,V_fSL4xlEdo,-0.0279,"a vape or e-cigarette device, clearly visible",386.6,0.2219
+859,PREVENTIVE_qNBCiDWjtEA_F556.jpg,qNBCiDWjtEA,-0.0279,"a person smoking a cigarette, cigarette clearly visible",591.1,0.2100
+860,PREVENTIVE_7M7oRkAaujg_F040.jpg,7M7oRkAaujg,-0.0280,"a cigar being smoked, clearly visible",144.2,0.2272
+861,PREVENTIVE_wAH0z3cIAL0_F321.jpg,wAH0z3cIAL0,-0.0280,"a person smoking a cigarette, cigarette clearly visible",1670.0,0.2038
+862,PREVENTIVE_qNBCiDWjtEA_F379.jpg,qNBCiDWjtEA,-0.0280,"a person smoking a cigarette, cigarette clearly visible",390.8,0.2316
+863,PREVENTIVE_LVKLxfNguLw_F036.jpg,LVKLxfNguLw,-0.0280,"a person smoking a cigarette, cigarette clearly visible",462.7,0.2188
+864,PREVENTIVE_wAH0z3cIAL0_F604.jpg,wAH0z3cIAL0,-0.0281,"a person smoking a cigarette, cigarette clearly visible",2648.6,0.2028
+865,PREVENTIVE_wAH0z3cIAL0_F240.jpg,wAH0z3cIAL0,-0.0282,"a person smoking a cigarette, cigarette clearly visible",1541.2,0.2074
+866,PREVENTIVE_wAH0z3cIAL0_F259.jpg,wAH0z3cIAL0,-0.0282,"a person smoking a cigarette, cigarette clearly visible",200.1,0.2301
+867,PREVENTIVE_ZDTWVDRbgQc_F004.jpg,ZDTWVDRbgQc,-0.0283,"a vape or e-cigarette device, clearly visible",230.9,0.1941
+868,PREVENTIVE_wAH0z3cIAL0_F1034.jpg,wAH0z3cIAL0,-0.0284,a sachet of chewing tobacco with visible branding,1612.0,0.2081
+869,PREVENTIVE_uWimehBOIHM_F010.jpg,uWimehBOIHM,-0.0286,"a person smoking a cigarette, cigarette clearly visible",108.0,0.2072
+870,PREVENTIVE_wAH0z3cIAL0_F949.jpg,wAH0z3cIAL0,-0.0286,"a person smoking a cigarette, cigarette clearly visible",1682.1,0.2229
+871,PREVENTIVE_wAH0z3cIAL0_F284.jpg,wAH0z3cIAL0,-0.0288,"a vape or e-cigarette device, clearly visible",1225.3,0.2107
+872,PREVENTIVE_NSbzJ63aYT4_F030.jpg,NSbzJ63aYT4,-0.0288,a pouch or sachet of gutka or pan masala with visible branding,1369.3,0.2119
+873,PREVENTIVE_wAH0z3cIAL0_F869.jpg,wAH0z3cIAL0,-0.0290,a photo of a cigarette pack,1391.5,0.1840
+874,PREVENTIVE_ZDTWVDRbgQc_F029.jpg,ZDTWVDRbgQc,-0.0293,"a person smoking a cigarette, cigarette clearly visible",1079.0,0.2216
+875,PREVENTIVE_wAH0z3cIAL0_F1015.jpg,wAH0z3cIAL0,-0.0293,"a cigar being smoked, clearly visible",707.7,0.2198
+876,PREVENTIVE_qNBCiDWjtEA_F337.jpg,qNBCiDWjtEA,-0.0293,"a person smoking a cigarette, cigarette clearly visible",362.9,0.2221
+877,PREVENTIVE_7M7oRkAaujg_F019.jpg,7M7oRkAaujg,-0.0293,"a person smoking a cigarette, cigarette clearly visible",351.5,0.2012
+878,PREVENTIVE_wAH0z3cIAL0_F437.jpg,wAH0z3cIAL0,-0.0293,a pouch or sachet of gutka or pan masala with visible branding,113.4,0.2258
+879,PREVENTIVE_RTc5NgyiGTs_F026.jpg,RTc5NgyiGTs,-0.0295,"a can of beer, clearly visible",741.0,0.1986
+880,PREVENTIVE_wAH0z3cIAL0_F1037.jpg,wAH0z3cIAL0,-0.0295,a sachet of chewing tobacco with visible branding,1385.8,0.2088
+881,PREVENTIVE_V_fSL4xlEdo_F022.jpg,V_fSL4xlEdo,-0.0296,a pouch or sachet of gutka or pan masala with visible branding,600.4,0.1996
+882,PREVENTIVE_LVKLxfNguLw_F049.jpg,LVKLxfNguLw,-0.0296,"a person smoking a cigarette, cigarette clearly visible",305.6,0.2021
+883,PREVENTIVE_LVKLxfNguLw_F061.jpg,LVKLxfNguLw,-0.0297,"a can of beer, clearly visible",363.8,0.2177
+884,PREVENTIVE_wAH0z3cIAL0_F497.jpg,wAH0z3cIAL0,-0.0297,"a person smoking a cigarette, cigarette clearly visible",1673.6,0.1997
+885,PREVENTIVE_RTc5NgyiGTs_F037.jpg,RTc5NgyiGTs,-0.0298,"a can of beer, clearly visible",898.3,0.2040
+886,PREVENTIVE_wAH0z3cIAL0_F1017.jpg,wAH0z3cIAL0,-0.0298,"a cigar being smoked, clearly visible",661.6,0.2143
+887,PREVENTIVE_T7P-MgQLIPw_F058.jpg,T7P-MgQLIPw,-0.0298,"a vape or e-cigarette device, clearly visible",1056.7,0.2150
+888,PREVENTIVE_wAH0z3cIAL0_F1031.jpg,wAH0z3cIAL0,-0.0299,"a can of beer, clearly visible",1621.2,0.1953
+889,PREVENTIVE_xM2Qcp4ke9k_F017.jpg,xM2Qcp4ke9k,-0.0302,"workers manufacturing cigarettes or pan masala in a factory, product visible",309.3,0.2129
+890,PREVENTIVE_8WQQLDuEJMc_F023.jpg,8WQQLDuEJMc,-0.0304,"a cigar being smoked, clearly visible",113.8,0.1961
+891,PREVENTIVE_wAH0z3cIAL0_F349.jpg,wAH0z3cIAL0,-0.0304,"a person smoking a cigarette, cigarette clearly visible",1081.1,0.2161
+892,PREVENTIVE_wAH0z3cIAL0_F056.jpg,wAH0z3cIAL0,-0.0304,"a person smoking a cigarette, cigarette clearly visible",303.6,0.2118
+893,PREVENTIVE_ZDTWVDRbgQc_F050.jpg,ZDTWVDRbgQc,-0.0305,a pouch or sachet of gutka or pan masala with visible branding,363.3,0.2256
+894,PREVENTIVE_wAH0z3cIAL0_F024.jpg,wAH0z3cIAL0,-0.0306,"a cigar being smoked, clearly visible",651.8,0.2246
+895,PREVENTIVE_RTc5NgyiGTs_F138.jpg,RTc5NgyiGTs,-0.0307,a pouch or sachet of gutka or pan masala with visible branding,5664.1,0.2211
+896,PREVENTIVE_RTc5NgyiGTs_F084.jpg,RTc5NgyiGTs,-0.0309,"workers manufacturing cigarettes or pan masala in a factory, product visible",579.6,0.2229
+897,PREVENTIVE_RTc5NgyiGTs_F114.jpg,RTc5NgyiGTs,-0.0310,"a can of beer, clearly visible",587.7,0.2067
+898,PREVENTIVE_wAH0z3cIAL0_F718.jpg,wAH0z3cIAL0,-0.0310,"workers manufacturing cigarettes or pan masala in a factory, product visible",1502.9,0.2222
+899,PREVENTIVE_uWimehBOIHM_F030.jpg,uWimehBOIHM,-0.0311,"a person smoking a cigarette, cigarette clearly visible",190.1,0.2187
+900,PREVENTIVE_wAH0z3cIAL0_F569.jpg,wAH0z3cIAL0,-0.0312,"a person smoking a cigarette, cigarette clearly visible",501.0,0.2077
+901,PREVENTIVE_RTc5NgyiGTs_F006.jpg,RTc5NgyiGTs,-0.0313,"a vape or e-cigarette device, clearly visible",2497.6,0.2223
+902,PREVENTIVE_8WQQLDuEJMc_F032.jpg,8WQQLDuEJMc,-0.0313,a sachet of chewing tobacco with visible branding,2234.9,0.1951
+903,PREVENTIVE_RTc5NgyiGTs_F113.jpg,RTc5NgyiGTs,-0.0315,a pouch or sachet of gutka or pan masala with visible branding,1092.2,0.2145
+904,PREVENTIVE_qNBCiDWjtEA_F502.jpg,qNBCiDWjtEA,-0.0315,"a person smoking a cigarette, cigarette clearly visible",517.7,0.2044
+905,PREVENTIVE_uWimehBOIHM_F011.jpg,uWimehBOIHM,-0.0315,"a person smoking a cigarette, cigarette clearly visible",108.5,0.2005
+906,PREVENTIVE_RTc5NgyiGTs_F134.jpg,RTc5NgyiGTs,-0.0316,"workers manufacturing cigarettes or pan masala in a factory, product visible",6565.6,0.1880
+907,PREVENTIVE_NSbzJ63aYT4_F028.jpg,NSbzJ63aYT4,-0.0316,a pouch or sachet of gutka or pan masala with visible branding,669.2,0.2249
+908,PREVENTIVE_LVKLxfNguLw_F082.jpg,LVKLxfNguLw,-0.0316,a photo of a cigarette pack,870.7,0.2165
+909,PREVENTIVE_wAH0z3cIAL0_F1033.jpg,wAH0z3cIAL0,-0.0316,a sachet of chewing tobacco with visible branding,1614.3,0.1979
+910,PREVENTIVE_wAH0z3cIAL0_F543.jpg,wAH0z3cIAL0,-0.0316,"a person smoking a cigarette, cigarette clearly visible",2084.7,0.2114
+911,PREVENTIVE_V_fSL4xlEdo_F026.jpg,V_fSL4xlEdo,-0.0317,"a person smoking a cigarette, cigarette clearly visible",587.7,0.2225
+912,PREVENTIVE_LVKLxfNguLw_F081.jpg,LVKLxfNguLw,-0.0318,a photo of a cigarette pack,828.3,0.2191
+913,PREVENTIVE_wAH0z3cIAL0_F723.jpg,wAH0z3cIAL0,-0.0318,"a vape or e-cigarette device, clearly visible",289.8,0.2367
+914,PREVENTIVE_wAH0z3cIAL0_F945.jpg,wAH0z3cIAL0,-0.0319,"a can of beer, clearly visible",1634.4,0.2082
+915,PREVENTIVE_RTc5NgyiGTs_F018.jpg,RTc5NgyiGTs,-0.0320,"tobacco leaves or raw tobacco, clearly visible",627.5,0.2024
+916,PREVENTIVE_7M7oRkAaujg_F012.jpg,7M7oRkAaujg,-0.0321,"a vape or e-cigarette device, clearly visible",580.8,0.2263
+917,PREVENTIVE_qNBCiDWjtEA_F683.jpg,qNBCiDWjtEA,-0.0322,"a vape or e-cigarette device, clearly visible",1032.6,0.2196
+918,PREVENTIVE_wAH0z3cIAL0_F315.jpg,wAH0z3cIAL0,-0.0323,"a person smoking a cigarette, cigarette clearly visible",792.7,0.2048
+919,PREVENTIVE_RTc5NgyiGTs_F017.jpg,RTc5NgyiGTs,-0.0323,"a can of beer, clearly visible",760.4,0.2044
+920,PREVENTIVE_wAH0z3cIAL0_F421.jpg,wAH0z3cIAL0,-0.0323,"workers manufacturing cigarettes or pan masala in a factory, product visible",1180.5,0.2094
+921,PREVENTIVE_RTc5NgyiGTs_F128.jpg,RTc5NgyiGTs,-0.0324,"a person smoking a cigarette, cigarette clearly visible",204.4,0.1988
+922,PREVENTIVE_wAH0z3cIAL0_F979.jpg,wAH0z3cIAL0,-0.0324,"a vape or e-cigarette device, clearly visible",737.4,0.2227
+923,PREVENTIVE_wAH0z3cIAL0_F620.jpg,wAH0z3cIAL0,-0.0324,"a person smoking a cigarette, cigarette clearly visible",1053.6,0.2091
+924,PREVENTIVE_uWimehBOIHM_F053.jpg,uWimehBOIHM,-0.0326,"a person smoking a cigarette, cigarette clearly visible",192.5,0.2011
+925,PREVENTIVE_qNBCiDWjtEA_F530.jpg,qNBCiDWjtEA,-0.0327,"a person smoking a cigarette, cigarette clearly visible",564.4,0.2133
+926,PREVENTIVE_V_fSL4xlEdo_F002.jpg,V_fSL4xlEdo,-0.0328,"a cigar being smoked, clearly visible",668.9,0.2149
+927,PREVENTIVE_RTc5NgyiGTs_F020.jpg,RTc5NgyiGTs,-0.0328,"a can of beer, clearly visible",730.4,0.2094
+928,PREVENTIVE_ZDTWVDRbgQc_F060.jpg,ZDTWVDRbgQc,-0.0329,"a vape or e-cigarette device, clearly visible",1179.5,0.2114
+929,PREVENTIVE_wAH0z3cIAL0_F059.jpg,wAH0z3cIAL0,-0.0330,"a cigar being smoked, clearly visible",361.3,0.2081
+930,PREVENTIVE_wAH0z3cIAL0_F258.jpg,wAH0z3cIAL0,-0.0331,"a person smoking a cigarette, cigarette clearly visible",230.7,0.2450
+931,PREVENTIVE_wAH0z3cIAL0_F637.jpg,wAH0z3cIAL0,-0.0331,"a person smoking a cigarette, cigarette clearly visible",795.9,0.2196
+932,PREVENTIVE_wAH0z3cIAL0_F057.jpg,wAH0z3cIAL0,-0.0332,"a cigar being smoked, clearly visible",341.6,0.2034
+933,PREVENTIVE_wAH0z3cIAL0_F868.jpg,wAH0z3cIAL0,-0.0332,a photo of a cigarette pack,1214.0,0.2192
+934,PREVENTIVE_wAH0z3cIAL0_F416.jpg,wAH0z3cIAL0,-0.0332,"a glass of beer or wine, clearly visible",692.6,0.2010
+935,PREVENTIVE_wAH0z3cIAL0_F541.jpg,wAH0z3cIAL0,-0.0333,"a can of beer, clearly visible",2074.5,0.2043
+936,PREVENTIVE_T7P-MgQLIPw_F055.jpg,T7P-MgQLIPw,-0.0334,"a person smoking a cigarette, cigarette clearly visible",126.1,0.2049
+937,PREVENTIVE_TX5r8OEXhEk_F015.jpg,TX5r8OEXhEk,-0.0334,"a cigar being smoked, clearly visible",298.5,0.2126
+938,PREVENTIVE_wAH0z3cIAL0_F898.jpg,wAH0z3cIAL0,-0.0334,"a person smoking a cigarette, cigarette clearly visible",567.8,0.1827
+939,PREVENTIVE_ZDTWVDRbgQc_F026.jpg,ZDTWVDRbgQc,-0.0336,"a person smoking a cigarette, cigarette clearly visible",676.3,0.2153
+940,PREVENTIVE_wAH0z3cIAL0_F058.jpg,wAH0z3cIAL0,-0.0336,"a cigar being smoked, clearly visible",380.3,0.2120
+941,PREVENTIVE_wAH0z3cIAL0_F882.jpg,wAH0z3cIAL0,-0.0336,"workers manufacturing cigarettes or pan masala in a factory, product visible",772.8,0.1814
+942,PREVENTIVE_qNBCiDWjtEA_F328.jpg,qNBCiDWjtEA,-0.0336,"a person smoking a cigarette, cigarette clearly visible",420.9,0.2110
+943,PREVENTIVE_qNBCiDWjtEA_F513.jpg,qNBCiDWjtEA,-0.0337,"a person smoking a cigarette, cigarette clearly visible",804.8,0.2129
+944,PREVENTIVE_IHR158IF6YU_F021.jpg,IHR158IF6YU,-0.0337,"workers manufacturing cigarettes or pan masala in a factory, product visible",364.5,0.1896
+945,PREVENTIVE_wAH0z3cIAL0_F063.jpg,wAH0z3cIAL0,-0.0337,"a cigar being smoked, clearly visible",174.8,0.2075
+946,PREVENTIVE_wAH0z3cIAL0_F884.jpg,wAH0z3cIAL0,-0.0337,"tobacco leaves or raw tobacco, clearly visible",580.8,0.1892
+947,PREVENTIVE_wAH0z3cIAL0_F982.jpg,wAH0z3cIAL0,-0.0338,"a vape or e-cigarette device, clearly visible",693.9,0.2142
+948,PREVENTIVE_wAH0z3cIAL0_F885.jpg,wAH0z3cIAL0,-0.0338,"tobacco leaves or raw tobacco, clearly visible",393.0,0.1857
+949,PREVENTIVE_wAH0z3cIAL0_F313.jpg,wAH0z3cIAL0,-0.0338,"a person smoking a cigarette, cigarette clearly visible",1471.1,0.2111
+950,PREVENTIVE_qNBCiDWjtEA_F750.jpg,qNBCiDWjtEA,-0.0339,"a vape or e-cigarette device, clearly visible",1581.4,0.1592
+951,PREVENTIVE_qNBCiDWjtEA_F753.jpg,qNBCiDWjtEA,-0.0339,a pouch or sachet of gutka or pan masala with visible branding,1491.4,0.1963
+952,PREVENTIVE_qNBCiDWjtEA_F546.jpg,qNBCiDWjtEA,-0.0339,"a person smoking a cigarette, cigarette clearly visible",638.9,0.2164
+953,PREVENTIVE_RTc5NgyiGTs_F007.jpg,RTc5NgyiGTs,-0.0340,"workers manufacturing cigarettes or pan masala in a factory, product visible",2051.4,0.2212
+954,PREVENTIVE_RTc5NgyiGTs_F080.jpg,RTc5NgyiGTs,-0.0340,"a cigar being smoked, clearly visible",359.1,0.2224
+955,PREVENTIVE_wAH0z3cIAL0_F722.jpg,wAH0z3cIAL0,-0.0340,"a vape or e-cigarette device, clearly visible",282.7,0.2391
+956,PREVENTIVE_qNBCiDWjtEA_F763.jpg,qNBCiDWjtEA,-0.0341,"a vape or e-cigarette device, clearly visible",665.6,0.1720
+957,PREVENTIVE_NSbzJ63aYT4_F022.jpg,NSbzJ63aYT4,-0.0341,"a vape or e-cigarette device, clearly visible",133.1,0.2013
+958,PREVENTIVE_ZDTWVDRbgQc_F059.jpg,ZDTWVDRbgQc,-0.0341,"a vape or e-cigarette device, clearly visible",1183.5,0.2065
+959,PREVENTIVE_LVKLxfNguLw_F107.jpg,LVKLxfNguLw,-0.0342,"a vape or e-cigarette device, clearly visible",1659.8,0.1842
+960,PREVENTIVE_wAH0z3cIAL0_F624.jpg,wAH0z3cIAL0,-0.0344,"a vape or e-cigarette device, clearly visible",1230.8,0.2120
+961,PREVENTIVE_wAH0z3cIAL0_F871.jpg,wAH0z3cIAL0,-0.0344,"a can of beer, clearly visible",1695.2,0.1802
+962,PREVENTIVE_wAH0z3cIAL0_F201.jpg,wAH0z3cIAL0,-0.0344,a pouch or sachet of gutka or pan masala with visible branding,428.7,0.2209
+963,PREVENTIVE_LVKLxfNguLw_F001.jpg,LVKLxfNguLw,-0.0345,a photo of a cigarette pack,204.8,0.2337
+964,PREVENTIVE_wAH0z3cIAL0_F859.jpg,wAH0z3cIAL0,-0.0348,a pouch or sachet of gutka or pan masala with visible branding,1352.7,0.2251
+965,PREVENTIVE_RTc5NgyiGTs_F036.jpg,RTc5NgyiGTs,-0.0348,"a can of beer, clearly visible",672.8,0.2062
+966,PREVENTIVE_RTc5NgyiGTs_F129.jpg,RTc5NgyiGTs,-0.0349,a pouch or sachet of gutka or pan masala with visible branding,214.3,0.1903
+967,PREVENTIVE_wAH0z3cIAL0_F897.jpg,wAH0z3cIAL0,-0.0351,"a cigar being smoked, clearly visible",647.6,0.1828
+968,PREVENTIVE_V_fSL4xlEdo_F013.jpg,V_fSL4xlEdo,-0.0351,"a person smoking a cigarette, cigarette clearly visible",436.2,0.2165
+969,PREVENTIVE_wAH0z3cIAL0_F152.jpg,wAH0z3cIAL0,-0.0352,"a person smoking a cigarette, cigarette clearly visible",946.5,0.2145
+970,PREVENTIVE_RTc5NgyiGTs_F103.jpg,RTc5NgyiGTs,-0.0353,"a can of beer, clearly visible",2535.1,0.2217
+971,PREVENTIVE_wAH0z3cIAL0_F750.jpg,wAH0z3cIAL0,-0.0355,"a person smoking a cigarette, cigarette clearly visible",828.4,0.2184
+972,PREVENTIVE_qNBCiDWjtEA_F512.jpg,qNBCiDWjtEA,-0.0355,"a person smoking a cigarette, cigarette clearly visible",557.6,0.2082
+973,PREVENTIVE_RTc5NgyiGTs_F019.jpg,RTc5NgyiGTs,-0.0356,"a can of beer, clearly visible",1496.2,0.2059
+974,PREVENTIVE_wAH0z3cIAL0_F237.jpg,wAH0z3cIAL0,-0.0356,"workers manufacturing cigarettes or pan masala in a factory, product visible",758.3,0.2060
+975,PREVENTIVE_wAH0z3cIAL0_F747.jpg,wAH0z3cIAL0,-0.0357,"a person smoking a cigarette, cigarette clearly visible",827.0,0.2213
+976,PREVENTIVE_eH1T8s00F4s_F003.jpg,eH1T8s00F4s,-0.0358,a pouch or sachet of gutka or pan masala with visible branding,651.0,0.2200
+977,PREVENTIVE_wAH0z3cIAL0_F317.jpg,wAH0z3cIAL0,-0.0358,"a person smoking a cigarette, cigarette clearly visible",1092.3,0.2050
+978,PREVENTIVE_V_fSL4xlEdo_F058.jpg,V_fSL4xlEdo,-0.0358,"a person smoking a cigarette, cigarette clearly visible",1216.6,0.2027
+979,PREVENTIVE_RTc5NgyiGTs_F115.jpg,RTc5NgyiGTs,-0.0360,"a cigar being smoked, clearly visible",1144.4,0.1878
+980,PREVENTIVE_wAH0z3cIAL0_F636.jpg,wAH0z3cIAL0,-0.0361,"a vape or e-cigarette device, clearly visible",844.9,0.2125
+981,PREVENTIVE_wAH0z3cIAL0_F389.jpg,wAH0z3cIAL0,-0.0362,"a vape or e-cigarette device, clearly visible",1642.8,0.1770
+982,PREVENTIVE_qNBCiDWjtEA_F323.jpg,qNBCiDWjtEA,-0.0363,"a person smoking a cigarette, cigarette clearly visible",408.1,0.2182
+983,PREVENTIVE_RTc5NgyiGTs_F179.jpg,RTc5NgyiGTs,-0.0363,a photo of a cigarette pack,265.7,0.2241
+984,PREVENTIVE_xM2Qcp4ke9k_F029.jpg,xM2Qcp4ke9k,-0.0364,a pouch or sachet of gutka or pan masala with visible branding,1013.0,0.2186
+985,PREVENTIVE_V_fSL4xlEdo_F060.jpg,V_fSL4xlEdo,-0.0364,"a person smoking a cigarette, cigarette clearly visible",1318.0,0.2053
+986,PREVENTIVE_qNBCiDWjtEA_F769.jpg,qNBCiDWjtEA,-0.0365,a pouch or sachet of gutka or pan masala with visible branding,315.4,0.2268
+987,PREVENTIVE_qNBCiDWjtEA_F528.jpg,qNBCiDWjtEA,-0.0366,"a person smoking a cigarette, cigarette clearly visible",673.0,0.2125
+988,PREVENTIVE_qNBCiDWjtEA_F473.jpg,qNBCiDWjtEA,-0.0367,"a person smoking a cigarette, cigarette clearly visible",559.8,0.2081
+989,PREVENTIVE_wAH0z3cIAL0_F054.jpg,wAH0z3cIAL0,-0.0370,"a cigar being smoked, clearly visible",211.2,0.2112
+990,PREVENTIVE_RTc5NgyiGTs_F033.jpg,RTc5NgyiGTs,-0.0372,"a can of beer, clearly visible",862.3,0.2028
+991,PREVENTIVE_qNBCiDWjtEA_F072.jpg,qNBCiDWjtEA,-0.0372,"tobacco leaves or raw tobacco, clearly visible",1846.0,0.1895
+992,PREVENTIVE_wAH0z3cIAL0_F422.jpg,wAH0z3cIAL0,-0.0372,"a glass of beer or wine, clearly visible",1203.7,0.2105
+993,PREVENTIVE_wAH0z3cIAL0_F060.jpg,wAH0z3cIAL0,-0.0372,"a cigar being smoked, clearly visible",357.3,0.1974
+994,PREVENTIVE_wAH0z3cIAL0_F785.jpg,wAH0z3cIAL0,-0.0373,a pouch or sachet of gutka or pan masala with visible branding,2340.4,0.2119
+995,PREVENTIVE_NSbzJ63aYT4_F010.jpg,NSbzJ63aYT4,-0.0373,"a vape or e-cigarette device, clearly visible",270.4,0.1878
+996,PREVENTIVE_RTc5NgyiGTs_F034.jpg,RTc5NgyiGTs,-0.0374,"workers manufacturing cigarettes or pan masala in a factory, product visible",740.6,0.1997
+997,PREVENTIVE_qNBCiDWjtEA_F458.jpg,qNBCiDWjtEA,-0.0374,"a vape or e-cigarette device, clearly visible",2393.3,0.2121
+998,PREVENTIVE_LVKLxfNguLw_F086.jpg,LVKLxfNguLw,-0.0375,"a can of beer, clearly visible",344.5,0.2166
+999,PREVENTIVE_wAH0z3cIAL0_F145.jpg,wAH0z3cIAL0,-0.0375,"a can of beer, clearly visible",721.8,0.2284
+1000,PREVENTIVE_wAH0z3cIAL0_F436.jpg,wAH0z3cIAL0,-0.0376,"a person smoking a cigarette, cigarette clearly visible",162.6,0.2033
+1001,PREVENTIVE_wAH0z3cIAL0_F878.jpg,wAH0z3cIAL0,-0.0377,a pouch or sachet of gutka or pan masala with visible branding,1290.6,0.1877
+1002,PREVENTIVE_wAH0z3cIAL0_F285.jpg,wAH0z3cIAL0,-0.0377,a photo of a cigarette pack,1250.2,0.2088
+1003,PREVENTIVE_wAH0z3cIAL0_F031.jpg,wAH0z3cIAL0,-0.0378,"a cigar being smoked, clearly visible",419.2,0.2161
+1004,PREVENTIVE_RTc5NgyiGTs_F021.jpg,RTc5NgyiGTs,-0.0380,"tobacco leaves or raw tobacco, clearly visible",649.9,0.1874
+1005,PREVENTIVE_LVKLxfNguLw_F013.jpg,LVKLxfNguLw,-0.0380,a photo of a cigarette pack,240.8,0.2271
+1006,PREVENTIVE_uWimehBOIHM_F028.jpg,uWimehBOIHM,-0.0382,"a person smoking a cigarette, cigarette clearly visible",199.1,0.1951
+1007,PREVENTIVE_LVKLxfNguLw_F103.jpg,LVKLxfNguLw,-0.0383,"a person smoking a cigarette, cigarette clearly visible",317.3,0.1812
+1008,PREVENTIVE_wAH0z3cIAL0_F874.jpg,wAH0z3cIAL0,-0.0384,"a cigar being smoked, clearly visible",1497.2,0.1855
+1009,PREVENTIVE_LVKLxfNguLw_F010.jpg,LVKLxfNguLw,-0.0385,a photo of a cigarette pack,1121.8,0.2179
+1010,PREVENTIVE_wAH0z3cIAL0_F734.jpg,wAH0z3cIAL0,-0.0385,"a person smoking a cigarette, cigarette clearly visible",2628.7,0.1962
+1011,PREVENTIVE_ZDTWVDRbgQc_F005.jpg,ZDTWVDRbgQc,-0.0386,"a person smoking a cigarette, cigarette clearly visible",271.5,0.2073
+1012,PREVENTIVE_qNBCiDWjtEA_F035.jpg,qNBCiDWjtEA,-0.0388,"a person smoking a cigarette, cigarette clearly visible",399.4,0.2153
+1013,PREVENTIVE_RTc5NgyiGTs_F089.jpg,RTc5NgyiGTs,-0.0389,"workers manufacturing cigarettes or pan masala in a factory, product visible",931.2,0.2012
+1014,PREVENTIVE_qNBCiDWjtEA_F751.jpg,qNBCiDWjtEA,-0.0390,"a vape or e-cigarette device, clearly visible",377.0,0.1761
+1015,PREVENTIVE_wAH0z3cIAL0_F974.jpg,wAH0z3cIAL0,-0.0391,"a vape or e-cigarette device, clearly visible",636.3,0.2123
+1016,PREVENTIVE_qNBCiDWjtEA_F771.jpg,qNBCiDWjtEA,-0.0392,a pouch or sachet of gutka or pan masala with visible branding,1481.7,0.2006
+1017,PREVENTIVE_wAH0z3cIAL0_F887.jpg,wAH0z3cIAL0,-0.0393,"a cigar being smoked, clearly visible",413.3,0.1860
+1018,PREVENTIVE_wAH0z3cIAL0_F738.jpg,wAH0z3cIAL0,-0.0393,"a person smoking a cigarette, cigarette clearly visible",1874.7,0.2361
+1019,PREVENTIVE_RTc5NgyiGTs_F186.jpg,RTc5NgyiGTs,-0.0395,a pouch or sachet of gutka or pan masala with visible branding,790.4,0.2169
+1020,PREVENTIVE_RTc5NgyiGTs_F133.jpg,RTc5NgyiGTs,-0.0395,"workers manufacturing cigarettes or pan masala in a factory, product visible",3168.9,0.2219
+1021,PREVENTIVE_wAH0z3cIAL0_F931.jpg,wAH0z3cIAL0,-0.0396,"a person smoking a cigarette, cigarette clearly visible",1917.6,0.2046
+1022,PREVENTIVE_wAH0z3cIAL0_F630.jpg,wAH0z3cIAL0,-0.0397,a pouch or sachet of gutka or pan masala with visible branding,664.9,0.2104
+1023,PREVENTIVE_LVKLxfNguLw_F060.jpg,LVKLxfNguLw,-0.0398,"a can of beer, clearly visible",349.7,0.2168
+1024,PREVENTIVE_wAH0z3cIAL0_F816.jpg,wAH0z3cIAL0,-0.0400,"a person smoking a cigarette, cigarette clearly visible",1126.1,0.2007
+1025,PREVENTIVE_T7P-MgQLIPw_F024.jpg,T7P-MgQLIPw,-0.0402,a pouch or sachet of gutka or pan masala with visible branding,639.2,0.2149
+1026,PREVENTIVE_RTc5NgyiGTs_F098.jpg,RTc5NgyiGTs,-0.0402,"workers manufacturing cigarettes or pan masala in a factory, product visible",1672.4,0.1958
+1027,PREVENTIVE_qNBCiDWjtEA_F529.jpg,qNBCiDWjtEA,-0.0404,"a person smoking a cigarette, cigarette clearly visible",619.1,0.2087
+1028,PREVENTIVE_wAH0z3cIAL0_F858.jpg,wAH0z3cIAL0,-0.0404,a pouch or sachet of gutka or pan masala with visible branding,1219.1,0.2136
+1029,PREVENTIVE_ZDTWVDRbgQc_F028.jpg,ZDTWVDRbgQc,-0.0405,"a person smoking a cigarette, cigarette clearly visible",970.9,0.2121
+1030,PREVENTIVE_LVKLxfNguLw_F063.jpg,LVKLxfNguLw,-0.0405,"a person smoking a cigarette, cigarette clearly visible",637.8,0.2084
+1031,PREVENTIVE_RTc5NgyiGTs_F185.jpg,RTc5NgyiGTs,-0.0406,a pouch or sachet of gutka or pan masala with visible branding,800.3,0.2172
+1032,PREVENTIVE_qNBCiDWjtEA_F044.jpg,qNBCiDWjtEA,-0.0407,"a vape or e-cigarette device, clearly visible",180.6,0.2013
+1033,PREVENTIVE_ZDTWVDRbgQc_F006.jpg,ZDTWVDRbgQc,-0.0409,"a person smoking a cigarette, cigarette clearly visible",236.6,0.2031
+1034,PREVENTIVE_wAH0z3cIAL0_F288.jpg,wAH0z3cIAL0,-0.0409,a pouch or sachet of gutka or pan masala with visible branding,1453.3,0.2123
+1035,PREVENTIVE_ZDTWVDRbgQc_F058.jpg,ZDTWVDRbgQc,-0.0409,"a vape or e-cigarette device, clearly visible",1201.0,0.2043
+1036,PREVENTIVE_ZDTWVDRbgQc_F056.jpg,ZDTWVDRbgQc,-0.0410,"a person smoking a cigarette, cigarette clearly visible",133.2,0.2153
+1037,PREVENTIVE_RTc5NgyiGTs_F120.jpg,RTc5NgyiGTs,-0.0411,"a can of beer, clearly visible",672.4,0.2014
+1038,PREVENTIVE_LVKLxfNguLw_F048.jpg,LVKLxfNguLw,-0.0412,"a person smoking a cigarette, cigarette clearly visible",300.9,0.2069
+1039,PREVENTIVE_T7P-MgQLIPw_F056.jpg,T7P-MgQLIPw,-0.0412,"a person smoking a cigarette, cigarette clearly visible",155.3,0.1880
+1040,PREVENTIVE_wAH0z3cIAL0_F151.jpg,wAH0z3cIAL0,-0.0415,"a person smoking a cigarette, cigarette clearly visible",929.0,0.2200
+1041,PREVENTIVE_wAH0z3cIAL0_F425.jpg,wAH0z3cIAL0,-0.0416,"a glass of beer or wine, clearly visible",1282.8,0.2037
+1042,PREVENTIVE_RTc5NgyiGTs_F140.jpg,RTc5NgyiGTs,-0.0416,a pouch or sachet of gutka or pan masala with visible branding,1852.1,0.2043
+1043,PREVENTIVE_RTc5NgyiGTs_F032.jpg,RTc5NgyiGTs,-0.0417,"workers manufacturing cigarettes or pan masala in a factory, product visible",688.1,0.2024
+1044,PREVENTIVE_wAH0z3cIAL0_F1004.jpg,wAH0z3cIAL0,-0.0417,a photo of a cigarette pack,950.4,0.2152
+1045,PREVENTIVE_wAH0z3cIAL0_F883.jpg,wAH0z3cIAL0,-0.0418,"a cigar being smoked, clearly visible",813.6,0.1841
+1046,PREVENTIVE_LVKLxfNguLw_F004.jpg,LVKLxfNguLw,-0.0420,"a glass of beer or wine, clearly visible",192.4,0.2083
+1047,PREVENTIVE_wAH0z3cIAL0_F388.jpg,wAH0z3cIAL0,-0.0421,"a vape or e-cigarette device, clearly visible",1924.5,0.1743
+1048,PREVENTIVE_RTc5NgyiGTs_F184.jpg,RTc5NgyiGTs,-0.0423,a pouch or sachet of gutka or pan masala with visible branding,815.1,0.2174
+1049,PREVENTIVE_wAH0z3cIAL0_F886.jpg,wAH0z3cIAL0,-0.0424,"tobacco leaves or raw tobacco, clearly visible",375.5,0.1835
+1050,PREVENTIVE_wAH0z3cIAL0_F390.jpg,wAH0z3cIAL0,-0.0424,"a can of beer, clearly visible",2711.5,0.1756
+1051,PREVENTIVE_wAH0z3cIAL0_F975.jpg,wAH0z3cIAL0,-0.0424,"a vape or e-cigarette device, clearly visible",725.0,0.2156
+1052,PREVENTIVE_wAH0z3cIAL0_F153.jpg,wAH0z3cIAL0,-0.0425,"a person smoking a cigarette, cigarette clearly visible",1191.3,0.2007
+1053,PREVENTIVE_wAH0z3cIAL0_F1001.jpg,wAH0z3cIAL0,-0.0426,a photo of a cigarette pack,925.8,0.2045
+1054,PREVENTIVE_V_fSL4xlEdo_F016.jpg,V_fSL4xlEdo,-0.0428,a hookah pipe,492.0,0.1831
+1055,PREVENTIVE_wAH0z3cIAL0_F786.jpg,wAH0z3cIAL0,-0.0428,"a person smoking a cigarette, cigarette clearly visible",2524.2,0.1985
+1056,PREVENTIVE_wAH0z3cIAL0_F155.jpg,wAH0z3cIAL0,-0.0429,"a person smoking a cigarette, cigarette clearly visible",1437.4,0.2041
+1057,PREVENTIVE_LVKLxfNguLw_F007.jpg,LVKLxfNguLw,-0.0430,"a vape or e-cigarette device, clearly visible",399.1,0.2175
+1058,PREVENTIVE_RTc5NgyiGTs_F102.jpg,RTc5NgyiGTs,-0.0430,"workers manufacturing cigarettes or pan masala in a factory, product visible",1681.7,0.1919
+1059,PREVENTIVE_RTc5NgyiGTs_F001.jpg,RTc5NgyiGTs,-0.0434,"workers manufacturing cigarettes or pan masala in a factory, product visible",3067.7,0.2090
+1060,PREVENTIVE_wAH0z3cIAL0_F154.jpg,wAH0z3cIAL0,-0.0435,"a person smoking a cigarette, cigarette clearly visible",1192.5,0.2003
+1061,PREVENTIVE_qNBCiDWjtEA_F007.jpg,qNBCiDWjtEA,-0.0436,"a person smoking a cigarette, cigarette clearly visible",125.0,0.2183
+1062,PREVENTIVE_RTc5NgyiGTs_F150.jpg,RTc5NgyiGTs,-0.0436,"a person smoking a cigarette, cigarette clearly visible",1843.7,0.2043
+1063,PREVENTIVE_RTc5NgyiGTs_F087.jpg,RTc5NgyiGTs,-0.0437,"workers manufacturing cigarettes or pan masala in a factory, product visible",888.9,0.2050
+1064,PREVENTIVE_RTc5NgyiGTs_F139.jpg,RTc5NgyiGTs,-0.0437,a pouch or sachet of gutka or pan masala with visible branding,1767.1,0.2089
+1065,PREVENTIVE_qNBCiDWjtEA_F745.jpg,qNBCiDWjtEA,-0.0438,"a vape or e-cigarette device, clearly visible",152.0,0.2117
+1066,PREVENTIVE_wAH0z3cIAL0_F1016.jpg,wAH0z3cIAL0,-0.0440,"a can of beer, clearly visible",677.8,0.2094
+1067,PREVENTIVE_RTc5NgyiGTs_F030.jpg,RTc5NgyiGTs,-0.0442,"a can of beer, clearly visible",686.8,0.1839
+1068,PREVENTIVE_qNBCiDWjtEA_F460.jpg,qNBCiDWjtEA,-0.0442,"a vape or e-cigarette device, clearly visible",2620.2,0.1970
+1069,PREVENTIVE_RTc5NgyiGTs_F028.jpg,RTc5NgyiGTs,-0.0445,"tobacco leaves or raw tobacco, clearly visible",780.6,0.1897
+1070,PREVENTIVE_wAH0z3cIAL0_F423.jpg,wAH0z3cIAL0,-0.0446,"workers manufacturing cigarettes or pan masala in a factory, product visible",1204.8,0.2058
+1071,PREVENTIVE_ZDTWVDRbgQc_F045.jpg,ZDTWVDRbgQc,-0.0446,"a can of beer, clearly visible",853.6,0.2175
+1072,PREVENTIVE_LVKLxfNguLw_F102.jpg,LVKLxfNguLw,-0.0446,"a can of beer, clearly visible",307.2,0.1955
+1073,PREVENTIVE_ZDTWVDRbgQc_F046.jpg,ZDTWVDRbgQc,-0.0447,"a person smoking a cigarette, cigarette clearly visible",1542.8,0.1917
+1074,PREVENTIVE_wAH0z3cIAL0_F316.jpg,wAH0z3cIAL0,-0.0447,"a person smoking a cigarette, cigarette clearly visible",1077.9,0.1975
+1075,PREVENTIVE_RTc5NgyiGTs_F112.jpg,RTc5NgyiGTs,-0.0451,"a can of beer, clearly visible",852.8,0.2076
+1076,PREVENTIVE_wAH0z3cIAL0_F872.jpg,wAH0z3cIAL0,-0.0451,"a can of beer, clearly visible",1464.4,0.1820
+1077,PREVENTIVE_V_fSL4xlEdo_F015.jpg,V_fSL4xlEdo,-0.0452,"a cigar being smoked, clearly visible",792.7,0.2228
+1078,PREVENTIVE_wAH0z3cIAL0_F217.jpg,wAH0z3cIAL0,-0.0453,"workers manufacturing cigarettes or pan masala in a factory, product visible",425.0,0.2084
+1079,PREVENTIVE_RTc5NgyiGTs_F106.jpg,RTc5NgyiGTs,-0.0454,"a can of beer, clearly visible",469.1,0.1834
+1080,PREVENTIVE_qNBCiDWjtEA_F756.jpg,qNBCiDWjtEA,-0.0454,"a can of beer, clearly visible",1778.1,0.1931
+1081,PREVENTIVE_wAH0z3cIAL0_F904.jpg,wAH0z3cIAL0,-0.0458,"a person smoking a cigarette, cigarette clearly visible",571.8,0.2216
+1082,PREVENTIVE_wAH0z3cIAL0_F1003.jpg,wAH0z3cIAL0,-0.0458,a photo of a cigarette pack,949.4,0.2094
+1083,PREVENTIVE_wAH0z3cIAL0_F1041.jpg,wAH0z3cIAL0,-0.0459,"a vape or e-cigarette device, clearly visible",4000.8,0.1833
+1084,PREVENTIVE_wAH0z3cIAL0_F020.jpg,wAH0z3cIAL0,-0.0464,"a vape or e-cigarette device, clearly visible",812.7,0.1990
+1085,PREVENTIVE_ZDTWVDRbgQc_F030.jpg,ZDTWVDRbgQc,-0.0466,"a person smoking a cigarette, cigarette clearly visible",1380.6,0.2237
+1086,PREVENTIVE_qNBCiDWjtEA_F752.jpg,qNBCiDWjtEA,-0.0466,"a can of beer, clearly visible",687.7,0.1887
+1087,PREVENTIVE_wAH0z3cIAL0_F870.jpg,wAH0z3cIAL0,-0.0466,"a can of beer, clearly visible",1890.7,0.1813
+1088,PREVENTIVE_RTc5NgyiGTs_F027.jpg,RTc5NgyiGTs,-0.0468,"tobacco leaves or raw tobacco, clearly visible",937.0,0.1905
+1089,PREVENTIVE_wAH0z3cIAL0_F1040.jpg,wAH0z3cIAL0,-0.0469,"a vape or e-cigarette device, clearly visible",3855.2,0.1744
+1090,PREVENTIVE_RTc5NgyiGTs_F172.jpg,RTc5NgyiGTs,-0.0469,a pouch or sachet of gutka or pan masala with visible branding,1511.6,0.2198
+1091,PREVENTIVE_qNBCiDWjtEA_F252.jpg,qNBCiDWjtEA,-0.0472,"a person smoking a cigarette, cigarette clearly visible",206.6,0.2239
+1092,PREVENTIVE_wAH0z3cIAL0_F1018.jpg,wAH0z3cIAL0,-0.0476,"a cigar being smoked, clearly visible",417.0,0.2065
+1093,PREVENTIVE_wAH0z3cIAL0_F1039.jpg,wAH0z3cIAL0,-0.0479,"a person smoking a cigarette, cigarette clearly visible",2603.4,0.1893
+1094,PREVENTIVE_NSbzJ63aYT4_F029.jpg,NSbzJ63aYT4,-0.0484,a photo of a cigarette pack,1124.7,0.2057
+1095,PREVENTIVE_wAH0z3cIAL0_F144.jpg,wAH0z3cIAL0,-0.0484,"a can of beer, clearly visible",635.0,0.2369
+1096,PREVENTIVE_wAH0z3cIAL0_F143.jpg,wAH0z3cIAL0,-0.0486,"a can of beer, clearly visible",481.5,0.2017
+1097,PREVENTIVE_wAH0z3cIAL0_F888.jpg,wAH0z3cIAL0,-0.0488,"a person smoking a cigarette, cigarette clearly visible",360.8,0.1857
+1098,PREVENTIVE_wAH0z3cIAL0_F725.jpg,wAH0z3cIAL0,-0.0491,"a person smoking a cigarette, cigarette clearly visible",338.9,0.2199
+1099,PREVENTIVE_RTc5NgyiGTs_F002.jpg,RTc5NgyiGTs,-0.0495,"a vape or e-cigarette device, clearly visible",1250.0,0.2236
+1100,PREVENTIVE_RTc5NgyiGTs_F093.jpg,RTc5NgyiGTs,-0.0496,"workers manufacturing cigarettes or pan masala in a factory, product visible",809.5,0.2034
+1101,PREVENTIVE_RTc5NgyiGTs_F124.jpg,RTc5NgyiGTs,-0.0496,"a can of beer, clearly visible",1192.4,0.1844
+1102,PREVENTIVE_wAH0z3cIAL0_F150.jpg,wAH0z3cIAL0,-0.0496,"a can of beer, clearly visible",1040.6,0.2207
+1103,PREVENTIVE_qNBCiDWjtEA_F461.jpg,qNBCiDWjtEA,-0.0498,"a vape or e-cigarette device, clearly visible",2835.3,0.1936
+1104,PREVENTIVE_wAH0z3cIAL0_F283.jpg,wAH0z3cIAL0,-0.0500,"a vape or e-cigarette device, clearly visible",1327.7,0.2053
+1105,PREVENTIVE_RTc5NgyiGTs_F085.jpg,RTc5NgyiGTs,-0.0502,"workers manufacturing cigarettes or pan masala in a factory, product visible",1071.3,0.1962
+1106,PREVENTIVE_wAH0z3cIAL0_F873.jpg,wAH0z3cIAL0,-0.0504,a pouch or sachet of gutka or pan masala with visible branding,1620.0,0.1718
+1107,PREVENTIVE_wAH0z3cIAL0_F867.jpg,wAH0z3cIAL0,-0.0504,"workers manufacturing cigarettes or pan masala in a factory, product visible",1215.1,0.2119
+1108,PREVENTIVE_RTc5NgyiGTs_F101.jpg,RTc5NgyiGTs,-0.0505,"workers manufacturing cigarettes or pan masala in a factory, product visible",2191.4,0.1720
+1109,PREVENTIVE_LVKLxfNguLw_F113.jpg,LVKLxfNguLw,-0.0506,"a vape or e-cigarette device, clearly visible",1177.5,0.1853
+1110,PREVENTIVE_wAH0z3cIAL0_F889.jpg,wAH0z3cIAL0,-0.0510,"a person smoking a cigarette, cigarette clearly visible",277.7,0.2111
+1111,PREVENTIVE_wAH0z3cIAL0_F726.jpg,wAH0z3cIAL0,-0.0511,"a person smoking a cigarette, cigarette clearly visible",318.7,0.2223
+1112,PREVENTIVE_wAH0z3cIAL0_F899.jpg,wAH0z3cIAL0,-0.0513,a pouch or sachet of gutka or pan masala with visible branding,611.2,0.2077
+1113,PREVENTIVE_wAH0z3cIAL0_F877.jpg,wAH0z3cIAL0,-0.0520,"a person smoking a cigarette, cigarette clearly visible",1131.9,0.1827
+1114,PREVENTIVE_wAH0z3cIAL0_F146.jpg,wAH0z3cIAL0,-0.0526,"a can of beer, clearly visible",1240.5,0.2176
+1115,PREVENTIVE_qNBCiDWjtEA_F773.jpg,qNBCiDWjtEA,-0.0528,a pouch or sachet of gutka or pan masala with visible branding,1479.6,0.1960
+1116,PREVENTIVE_wAH0z3cIAL0_F333.jpg,wAH0z3cIAL0,-0.0536,"a person smoking a cigarette, cigarette clearly visible",709.8,0.2157
+1117,PREVENTIVE_wAH0z3cIAL0_F021.jpg,wAH0z3cIAL0,-0.0537,"a vape or e-cigarette device, clearly visible",794.9,0.1983
+1118,PREVENTIVE_wAH0z3cIAL0_F1008.jpg,wAH0z3cIAL0,-0.0540,"a can of beer, clearly visible",1328.0,0.2308
+1119,PREVENTIVE_RTc5NgyiGTs_F094.jpg,RTc5NgyiGTs,-0.0542,"tobacco leaves or raw tobacco, clearly visible",767.6,0.1992
+1120,PREVENTIVE_ZDTWVDRbgQc_F055.jpg,ZDTWVDRbgQc,-0.0543,a photo of a cigarette pack,137.8,0.1923
+1121,PREVENTIVE_eH1T8s00F4s_F013.jpg,eH1T8s00F4s,-0.0546,a pouch or sachet of gutka or pan masala with visible branding,178.1,0.1810
+1122,PREVENTIVE_qNBCiDWjtEA_F775.jpg,qNBCiDWjtEA,-0.0549,"a vape or e-cigarette device, clearly visible",140.6,0.1783
+1123,PREVENTIVE_TX5r8OEXhEk_F033.jpg,TX5r8OEXhEk,-0.0553,"a vape or e-cigarette device, clearly visible",430.9,0.2095
+1124,PREVENTIVE_eH1T8s00F4s_F002.jpg,eH1T8s00F4s,-0.0556,a pouch or sachet of gutka or pan masala with visible branding,244.7,0.2193
+1125,PREVENTIVE_wAH0z3cIAL0_F156.jpg,wAH0z3cIAL0,-0.0558,"a person smoking a cigarette, cigarette clearly visible",792.9,0.2050
+1126,PREVENTIVE_wAH0z3cIAL0_F765.jpg,wAH0z3cIAL0,-0.0558,"a vape or e-cigarette device, clearly visible",2205.9,0.2181
+1127,PREVENTIVE_wAH0z3cIAL0_F141.jpg,wAH0z3cIAL0,-0.0564,"a person smoking a cigarette, cigarette clearly visible",562.0,0.2208
+1128,PREVENTIVE_wAH0z3cIAL0_F1020.jpg,wAH0z3cIAL0,-0.0583,"a vape or e-cigarette device, clearly visible",1912.2,0.1814
+1129,PREVENTIVE_RTc5NgyiGTs_F097.jpg,RTc5NgyiGTs,-0.0589,"tobacco leaves or raw tobacco, clearly visible",949.0,0.1853
+1130,PREVENTIVE_wAH0z3cIAL0_F139.jpg,wAH0z3cIAL0,-0.0592,"a person smoking a cigarette, cigarette clearly visible",405.1,0.2286
+1131,PREVENTIVE_wAH0z3cIAL0_F148.jpg,wAH0z3cIAL0,-0.0593,"a can of beer, clearly visible",1134.0,0.2181
+1132,PREVENTIVE_LVKLxfNguLw_F054.jpg,LVKLxfNguLw,-0.0597,a photo of a cigarette pack,391.9,0.2248
+1133,PREVENTIVE_wAH0z3cIAL0_F767.jpg,wAH0z3cIAL0,-0.0600,"a vape or e-cigarette device, clearly visible",2221.5,0.2158
+1134,PREVENTIVE_wAH0z3cIAL0_F289.jpg,wAH0z3cIAL0,-0.0602,"a vape or e-cigarette device, clearly visible",1336.7,0.1893
+1135,PREVENTIVE_wAH0z3cIAL0_F921.jpg,wAH0z3cIAL0,-0.0619,"a person smoking a cigarette, cigarette clearly visible",1096.6,0.2082
+1136,PREVENTIVE_wAH0z3cIAL0_F1007.jpg,wAH0z3cIAL0,-0.0621,"a can of beer, clearly visible",1006.2,0.2271
+1137,PREVENTIVE_wAH0z3cIAL0_F1021.jpg,wAH0z3cIAL0,-0.0623,a photo of a cigarette pack,2518.9,0.1605
+1138,PREVENTIVE_wAH0z3cIAL0_F138.jpg,wAH0z3cIAL0,-0.0625,"a person smoking a cigarette, cigarette clearly visible",433.8,0.2111
+1139,PREVENTIVE_wAH0z3cIAL0_F1038.jpg,wAH0z3cIAL0,-0.0625,"a vape or e-cigarette device, clearly visible",1129.4,0.2163
+1140,PREVENTIVE_wAH0z3cIAL0_F147.jpg,wAH0z3cIAL0,-0.0636,"a vape or e-cigarette device, clearly visible",991.1,0.2047
+1141,PREVENTIVE_wAH0z3cIAL0_F142.jpg,wAH0z3cIAL0,-0.0638,"a vape or e-cigarette device, clearly visible",573.5,0.1979
+1142,PREVENTIVE_RTc5NgyiGTs_F190.jpg,RTc5NgyiGTs,-0.0640,a photo of a cigarette pack,844.7,0.1996
+1143,PREVENTIVE_RTc5NgyiGTs_F189.jpg,RTc5NgyiGTs,-0.0641,a photo of a cigarette pack,831.6,0.1994
+1144,PREVENTIVE_l8K_f4DVvVc_F001.jpg,l8K_f4DVvVc,-0.0645,a photo of a cigarette pack,468.8,0.2211
+1145,PREVENTIVE_wAH0z3cIAL0_F769.jpg,wAH0z3cIAL0,-0.0647,"a vape or e-cigarette device, clearly visible",2861.7,0.2228
+1146,PREVENTIVE_l8K_f4DVvVc_F003.jpg,l8K_f4DVvVc,-0.0647,a photo of a cigarette pack,473.7,0.2210
+1147,PREVENTIVE_wAH0z3cIAL0_F149.jpg,wAH0z3cIAL0,-0.0648,"a can of beer, clearly visible",1129.9,0.2234
+1148,PREVENTIVE_wAH0z3cIAL0_F1022.jpg,wAH0z3cIAL0,-0.0650,a photo of a cigarette pack,2532.5,0.1669
+1149,PREVENTIVE_RTc5NgyiGTs_F193.jpg,RTc5NgyiGTs,-0.0653,a photo of a cigarette pack,916.3,0.1992
+1150,PREVENTIVE_RTc5NgyiGTs_F155.jpg,RTc5NgyiGTs,-0.0659,a pouch or sachet of gutka or pan masala with visible branding,1132.6,0.1992
+1151,PREVENTIVE_wAH0z3cIAL0_F287.jpg,wAH0z3cIAL0,-0.0671,a photo of a cigarette pack,1299.0,0.1933
+1152,PREVENTIVE_wAH0z3cIAL0_F1024.jpg,wAH0z3cIAL0,-0.0673,a photo of a cigarette pack,2523.8,0.1580
+1153,PREVENTIVE_wAH0z3cIAL0_F1006.jpg,wAH0z3cIAL0,-0.0673,a photo of a cigarette pack,792.0,0.2021
+1154,PREVENTIVE_eH1T8s00F4s_F012.jpg,eH1T8s00F4s,-0.0674,a photo of a cigarette pack,156.3,0.1700
+1155,PREVENTIVE_wAH0z3cIAL0_F1026.jpg,wAH0z3cIAL0,-0.0674,a photo of a cigarette pack,2508.5,0.1565
+1156,PREVENTIVE_wAH0z3cIAL0_F1019.jpg,wAH0z3cIAL0,-0.0684,"a can of beer, clearly visible",956.7,0.1969
+1157,PREVENTIVE_uWimehBOIHM_F001.jpg,uWimehBOIHM,-0.0689,a photo of a cigarette pack,1507.7,0.1910
+1158,PREVENTIVE_RTc5NgyiGTs_F176.jpg,RTc5NgyiGTs,-0.0708,a photo of a cigarette pack,2029.0,0.1867
+1159,PREVENTIVE_wAH0z3cIAL0_F136.jpg,wAH0z3cIAL0,-0.0710,"a person smoking a cigarette, cigarette clearly visible",344.1,0.2351
+1160,PREVENTIVE_uWimehBOIHM_F058.jpg,uWimehBOIHM,-0.0722,a photo of a cigarette pack,544.6,0.2125
+1161,PREVENTIVE_wAH0z3cIAL0_F140.jpg,wAH0z3cIAL0,-0.0765,"a person smoking a cigarette, cigarette clearly visible",504.9,0.1999
+1162,PREVENTIVE_wAH0z3cIAL0_F137.jpg,wAH0z3cIAL0,-0.0802,"a can of beer, clearly visible",390.1,0.2232
+1163,PREVENTIVE_RTc5NgyiGTs_F059.jpg,RTc5NgyiGTs,-0.0818,a photo of a cigarette pack,1830.3,0.2207
+1164,PREVENTIVE_uWimehBOIHM_F004.jpg,uWimehBOIHM,-0.0841,a photo of a cigarette pack,439.2,0.1774
+1165,PREVENTIVE_8WQQLDuEJMc_F003.jpg,8WQQLDuEJMc,-0.0881,a photo of a cigarette pack,203.8,0.1903
+1166,PREVENTIVE_LVKLxfNguLw_F119.jpg,LVKLxfNguLw,-0.0887,"a vape or e-cigarette device, clearly visible",446.2,0.2032
