@@ -5,4 +5,5 @@ checkpoints/
 __pycache__/
 *.pyc
 *.log
+yolo_analysis/
 .claude/settings.local.json

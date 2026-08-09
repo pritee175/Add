@@ -65,6 +65,7 @@ def main():
                 info.get("duration", ""),
                 args.category,
                 args.tag,
+                "Not identified",
                 info.get("webpage_url", url),
                 os.path.join(video_dir, fname),
             ])

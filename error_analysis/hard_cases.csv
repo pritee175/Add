@@ -1,0 +1,6 @@
+filename,video_id,true_class,efficientnet_b0_predicted_class,efficientnet_b0_confidence,resnet50_predicted_class,resnet50_confidence
+Dataset_Split/test/Preventive/PREV001_F009.jpg,PREV001,Preventive,Promotional,0.915504,Promotional,0.942479
+Dataset_Split/test/Preventive/PREV001_F016.jpg,PREV001,Preventive,Promotional,0.952088,Promotional,0.832380
+Dataset_Split/test/Preventive/PREV001_F020.jpg,PREV001,Preventive,Promotional,0.985168,Promotional,0.828740
+Dataset_Split/test/Promotional/PROMOTIONAL_AkkChMJv4wA_F028.jpg,AkkChMJv4wA,Promotional,Preventive,0.904726,Preventive,0.655639
+Dataset_Split/test/Promotional/PROMOTIONAL_tvgJjsc0xUs_F036.jpg,tvgJjsc0xUs,Promotional,Preventive,0.971093,Preventive,0.512215

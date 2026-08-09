@@ -27,7 +27,7 @@ import random
 import shutil
 import argparse
 
-SOURCE_DIR = "Dataset"  # original, untouched images -- resize happens at load time in the training pipeline, not here
+SOURCE_DIR = "Dataset_Processed"  # preprocessed images (224x224 letterboxed)
 OUTPUT_DIR = "Dataset_Split"
 CATEGORIES = ["Promotional", "Preventive"]
 

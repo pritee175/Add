@@ -7,8 +7,8 @@ Automates Step 1 of the dataset pipeline (Section 4 of the proposal):
 Instead of manually downloading each YouTube video and typing out its
 metadata, this script takes a list of YouTube URLs (or search queries),
 downloads the video, and automatically writes a metadata.csv row for
-each one: video_id, title, channel, upload_date, duration, category,
-source_url, local_filename.
+each one. The actor field is deliberately initialized to "Not identified":
+actor identity must be verified manually, not inferred from the video title.
 
 REQUIREMENTS:
     pip install yt-dlp
@@ -89,7 +89,7 @@ def ensure_metadata_header():
             writer = csv.writer(f)
             writer.writerow([
                 "video_id", "title", "channel", "upload_date",
-                "duration_sec", "category", "brand_or_source",
+                "duration_sec", "category", "brand_or_source", "actor",
                 "source_url", "local_filename"
             ])
 
@@ -132,6 +132,7 @@ def download_one(query_or_url, category, brand_tag, seen_ids):
                 entry.get("duration", ""),
                 category,
                 brand_tag,
+                "Not identified",
                 entry.get("webpage_url", ""),
                 os.path.join(out_dir, local_name),
             ])
