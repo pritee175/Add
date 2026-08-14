@@ -1,0 +1,14 @@
+﻿
+===== SHARED ERROR ANALYSIS =====
+Shared-error frames: 13
+
+Error direction:
+  Preventive -> Promotional: 8
+  Promotional -> Preventive: 5
+
+Manual evidence:
+  insufficient_visual_context: 7
+  weak_class_signal: 6
+
+Interpretation:
+The shared errors contain frames where the visual evidence for the underlying class is weak or incomplete. Several frames show people, objects, vehicles, scenes, or contextual imagery without an explicit class-defining message. Therefore, frame-level classification can be difficult when the relevant semantic information is distributed across the video rather than visible in an individual frame.
