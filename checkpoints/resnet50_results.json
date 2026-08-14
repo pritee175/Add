@@ -1,0 +1,60 @@
+{
+  "model": "resnet50",
+  "stage1_epochs": 15,
+  "stage1_lr": 0.0001,
+  "stage2_ran": true,
+  "stage2_epochs": 10,
+  "stage2_lr": 1e-05,
+  "unfreeze_blocks": 2,
+  "best_val_accuracy": 0.872093023255814,
+  "val_metrics": {
+    "accuracy": 0.872093023255814,
+    "per_class_precision": {
+      "Preventive": 0.8888888888888888,
+      "Promotional": 0.8536585365853658
+    },
+    "per_class_recall": {
+      "Preventive": 0.8695652173913043,
+      "Promotional": 0.875
+    },
+    "per_class_f1": {
+      "Preventive": 0.8791208791208791,
+      "Promotional": 0.8641975308641975
+    },
+    "confusion_matrix": [
+      [
+        40,
+        6
+      ],
+      [
+        5,
+        35
+      ]
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.7738095238095238,
+    "per_class_precision": {
+      "Preventive": 0.8611111111111112,
+      "Promotional": 0.7083333333333334
+    },
+    "per_class_recall": {
+      "Preventive": 0.6888888888888889,
+      "Promotional": 0.8717948717948718
+    },
+    "per_class_f1": {
+      "Preventive": 0.7654320987654321,
+      "Promotional": 0.7816091954022989
+    },
+    "confusion_matrix": [
+      [
+        31,
+        14
+      ],
+      [
+        5,
+        34
+      ]
+    ]
+  }
+}
