@@ -1,0 +1,60 @@
+{
+  "model": "efficientnet_b0",
+  "stage1_epochs": 15,
+  "stage1_lr": 0.0001,
+  "stage2_ran": true,
+  "stage2_epochs": 10,
+  "stage2_lr": 1e-05,
+  "unfreeze_blocks": 2,
+  "best_val_accuracy": 0.6744186046511628,
+  "val_metrics": {
+    "accuracy": 0.6744186046511628,
+    "per_class_precision": {
+      "Preventive": 0.7142857142857143,
+      "Promotional": 0.6363636363636364
+    },
+    "per_class_recall": {
+      "Preventive": 0.6521739130434783,
+      "Promotional": 0.7
+    },
+    "per_class_f1": {
+      "Preventive": 0.6818181818181818,
+      "Promotional": 0.6666666666666666
+    },
+    "confusion_matrix": [
+      [
+        30,
+        16
+      ],
+      [
+        12,
+        28
+      ]
+    ]
+  },
+  "test_metrics": {
+    "accuracy": 0.6904761904761905,
+    "per_class_precision": {
+      "Preventive": 0.6938775510204082,
+      "Promotional": 0.6857142857142857
+    },
+    "per_class_recall": {
+      "Preventive": 0.7555555555555555,
+      "Promotional": 0.6153846153846154
+    },
+    "per_class_f1": {
+      "Preventive": 0.723404255319149,
+      "Promotional": 0.6486486486486487
+    },
+    "confusion_matrix": [
+      [
+        34,
+        11
+      ],
+      [
+        15,
+        24
+      ]
+    ]
+  }
+}
