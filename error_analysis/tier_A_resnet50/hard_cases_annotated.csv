@@ -1,0 +1,14 @@
+filename,video_id,true_class,efficientnet_b0_predicted_class,efficientnet_b0_confidence,resnet50_predicted_class,resnet50_confidence,likely_failure_cause
+Dataset_Split/test/Preventive/PREV004_F007.jpg,PREV004,Preventive,Promotional,0.534872,Promotional,0.742793,insufficient_information
+Dataset_Split/test/Preventive/PREV006_F008.jpg,PREV006,Preventive,Promotional,0.528011,Promotional,0.544439,insufficient_information
+Dataset_Split/test/Preventive/PREV006_F015.jpg,PREV006,Preventive,Promotional,0.504630,Promotional,0.634593,insufficient_information
+Dataset_Split/test/Preventive/PREVENTIVE_mHBb67I9uT0_F004.jpg,mHBb67I9uT0,Preventive,Promotional,0.623930,Promotional,0.604717,insufficient_information
+Dataset_Split/test/Preventive/PREVENTIVE_mHBb67I9uT0_F007.jpg,mHBb67I9uT0,Preventive,Promotional,0.711775,Promotional,0.588731,insufficient_information
+Dataset_Split/test/Preventive/PREVENTIVE_mHBb67I9uT0_F015.jpg,mHBb67I9uT0,Preventive,Promotional,0.641007,Promotional,0.588699,insufficient_information
+Dataset_Split/test/Preventive/PREVENTIVE_mHBb67I9uT0_F016.jpg,mHBb67I9uT0,Preventive,Promotional,0.607029,Promotional,0.635161,insufficient_information
+Dataset_Split/test/Preventive/PREVENTIVE_mHBb67I9uT0_F017.jpg,mHBb67I9uT0,Preventive,Promotional,0.535700,Promotional,0.538465,insufficient_information
+Dataset_Split/test/Promotional/PROMOTIONAL_YU0COqQ9W-A_F037.jpg,YU0COqQ9W-A,Promotional,Preventive,0.526302,Preventive,0.608334,insufficient_information
+Dataset_Split/test/Promotional/PROMOTIONAL_Z4A8G6FzgSw_F003.jpg,Z4A8G6FzgSw,Promotional,Preventive,0.582122,Preventive,0.566172,insufficient_information
+Dataset_Split/test/Promotional/PROMOTIONAL_Z4A8G6FzgSw_F005.jpg,Z4A8G6FzgSw,Promotional,Preventive,0.544386,Preventive,0.652607,insufficient_information
+Dataset_Split/test/Promotional/PROMOTIONAL_Z4A8G6FzgSw_F006.jpg,Z4A8G6FzgSw,Promotional,Preventive,0.507800,Preventive,0.573647,insufficient_information
+Dataset_Split/test/Promotional/PROMOTIONAL_Z4A8G6FzgSw_F030.jpg,Z4A8G6FzgSw,Promotional,Preventive,0.796018,Preventive,0.841553,insufficient_information
