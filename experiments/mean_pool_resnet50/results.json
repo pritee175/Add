@@ -1,0 +1,95 @@
+{
+  "experiment": "mean_pool_resnet50",
+  "description": "Frozen fine-tuned ResNet50 features, mean-pooled per video, small linear classifier trained on video-level features.",
+  "based_on_checkpoint": "checkpoints\\resnet50_best.pt",
+  "n_videos": {
+    "train": 52,
+    "val": 23,
+    "test": 23
+  },
+  "classifier_epochs": 100,
+  "classifier_lr": 0.001,
+  "classifier_weight_decay": 0.001,
+  "best_val_accuracy": 0.9130434782608695,
+  "majority_class_baseline": {
+    "class": "Promotional",
+    "test_accuracy": 0.7391304347826086
+  },
+  "video_level_test_metrics": {
+    "accuracy": 0.8260869565217391,
+    "per_class_precision": {
+      "Preventive": 1.0,
+      "Promotional": 0.8095238095238095
+    },
+    "per_class_recall": {
+      "Preventive": 0.3333333333333333,
+      "Promotional": 1.0
+    },
+    "per_class_f1": {
+      "Preventive": 0.5,
+      "Promotional": 0.8947368421052632
+    },
+    "confusion_matrix": [
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "secondary_frame_level_metrics": {
+    "accuracy": 0.6071428571428571,
+    "per_class_precision": {
+      "Preventive": 1.0,
+      "Promotional": 0.5416666666666666
+    },
+    "per_class_recall": {
+      "Preventive": 0.26666666666666666,
+      "Promotional": 1.0
+    },
+    "per_class_f1": {
+      "Preventive": 0.42105263157894735,
+      "Promotional": 0.7027027027027027
+    },
+    "confusion_matrix": [
+      [
+        12,
+        33
+      ],
+      [
+        0,
+        39
+      ]
+    ]
+  },
+  "frame_baseline_majority_vote_video_metrics": {
+    "accuracy": 0.8695652173913043,
+    "per_class_precision": {
+      "Preventive": 0.8,
+      "Promotional": 0.8888888888888888
+    },
+    "per_class_recall": {
+      "Preventive": 0.6666666666666666,
+      "Promotional": 0.9411764705882353
+    },
+    "per_class_f1": {
+      "Preventive": 0.7272727272727273,
+      "Promotional": 0.9142857142857143
+    },
+    "confusion_matrix": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        16
+      ]
+    ]
+  },
+  "frame_baseline_majority_vote_ties": 2,
+  "note": "PRIMARY fair comparison: mean-pool video accuracy vs frame-baseline majority-vote video accuracy -- both use the same 23 test videos as the prediction unit. The raw clean 79.76% frame-level ResNet50 number (84 independent frames) is a DIFFERENT prediction unit and should not be compared directly to either video-level number."
+}

@@ -1,0 +1,70 @@
+{
+  "experiment": "attention_pool_resnet50",
+  "description": "Frozen fine-tuned ResNet50 features, LEARNED attention pooling per video (joint end-to-end training with the classifier), evaluated on the same clean 564-frame dataset and 23 test videos as Experiment 1 (mean pooling).",
+  "based_on_checkpoint": "checkpoints\\resnet50_best.pt",
+  "n_videos": {
+    "train": 52,
+    "val": 23,
+    "test": 23
+  },
+  "classifier_epochs": 100,
+  "classifier_lr": 0.001,
+  "classifier_weight_decay": 0.001,
+  "best_val_accuracy": 1.0,
+  "majority_class_baseline": {
+    "class": "Promotional",
+    "test_accuracy": 0.7391304347826086
+  },
+  "frame_baseline_majority_vote_video_metrics": {
+    "accuracy": 0.8695652173913043,
+    "per_class_precision": {
+      "Preventive": 0.8,
+      "Promotional": 0.8888888888888888
+    },
+    "per_class_recall": {
+      "Preventive": 0.6666666666666666,
+      "Promotional": 0.9411764705882353
+    },
+    "per_class_f1": {
+      "Preventive": 0.7272727272727273,
+      "Promotional": 0.9142857142857143
+    },
+    "confusion_matrix": [
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        16
+      ]
+    ]
+  },
+  "frame_baseline_majority_vote_ties": 2,
+  "attention_pooling_video_test_metrics": {
+    "accuracy": 0.8695652173913043,
+    "per_class_precision": {
+      "Preventive": 1.0,
+      "Promotional": 0.85
+    },
+    "per_class_recall": {
+      "Preventive": 0.5,
+      "Promotional": 1.0
+    },
+    "per_class_f1": {
+      "Preventive": 0.6666666666666666,
+      "Promotional": 0.918918918918919
+    },
+    "confusion_matrix": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "note": "Fair comparison unit is 23 test videos throughout. Compare attention_pooling_video_test_metrics.accuracy against frame_baseline_majority_vote_video_metrics.accuracy (this script) and against Experiment 1's mean-pooling result (82.61%, see experiments/mean_pool_resnet50/results.json) for the full three-way table. The clean 79.76% frame-level ResNet50 number (84 independent frames) is a DIFFERENT prediction unit."
+}
